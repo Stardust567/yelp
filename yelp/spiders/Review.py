@@ -8,7 +8,7 @@ class ReviewSpider(scrapy.Spider):
     allowed_domains = ['yelp.com']
     base_url = 'https://www.yelp.com/search?cflt=restaurants&find_loc=Austin%2C%20TX'
     start_urls = []
-    for number in range(0, 30, 30): # 爬取个870个店
+    for number in range(0, 300, 30): # 爬取个270个店
         url = base_url + '&start=' + str(number)
         start_urls.append(url)
 
@@ -30,7 +30,7 @@ class ReviewSpider(scrapy.Spider):
         if(len(address_list)==0):
             address = 'none'
         address = ' '.join(address_list)
-        date = response.css('span[class="rating-qualifier"]::text')
+        date = response.css('span[class="rating-qualifier"]::text').extract_first()
         review = response.css('li').css('div').css('p[lang = "en"]::text').extract()
 
 

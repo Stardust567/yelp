@@ -14,21 +14,23 @@ class ReviewSpider(scrapy.Spider):
 
     def parse(self, response):
         urls = response.css('li').css('h3').css('a').xpath('@href').extract()
-        for url in urls: # 每个https://www.theguardian.com/uk/sport/2019/apr/01/all页面上的news连接
-            url = 'https://www.yelp.com' + url
-            yield Request(url, self.get_review)
+        for href in urls:
+            url_base = 'https://www.yelp.com' + href + '?start = '
+            for i in range(0, 100, 20):
+                url = url_base + str(i)
+                yield Request(url, self.get_review)
 
     def get_review(self, response):
         item = YelpItem()
-        content = response.css('title::text').extract_first()
         name_list = response.css('h1[class="biz-page-title embossed-text-white shortenough"]::text').extract()
         if(len(name_list)==0):
             name = 'none'
         name = ' '.join(name_list)
-        address_list = response.css('address::text').extract()
+        address_list = response.css('strong[class="street-address"]').css('address::text').extract()
         if(len(address_list)==0):
             address = 'none'
         address = ' '.join(address_list)
+        date = response.css('span[class="rating-qualifier"]::text')
         review = response.css('li').css('div').css('p[lang = "en"]::text').extract()
 
 

@@ -15,8 +15,8 @@ class ReviewSpider(scrapy.Spider):
     def parse(self, response):
         urls = response.css('li').css('h3').css('a').xpath('@href').extract()
         for href in urls:
-            url_base = 'https://www.yelp.com' + href + '?start = '
-            for i in range(0, 100, 20):
+            url_base = 'https://www.yelp.com' + href + '?start='
+            for i in range(0, 200, 20):
                 url = url_base + str(i)
                 yield Request(url, self.get_review)
 
@@ -36,6 +36,7 @@ class ReviewSpider(scrapy.Spider):
 
         item['name'] = name
         item['address'] = address
+        item['date'] = date
         item['review'] = review
 
         yield item

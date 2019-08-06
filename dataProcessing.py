@@ -1,6 +1,12 @@
 import pandas as pd
 
 def dataProcess(send_url, recv_url):
+    '''
+    进行最初始的数据清洗
+    :param send_url: 清洗的原文件
+    :param recv_url: 导出的文件名
+    :return:
+    '''
     df = pd.read_csv(send_url, engine='python')
 
     df['name'] = df['name'].fillna('hhh')
@@ -19,6 +25,12 @@ def dataProcess(send_url, recv_url):
     list = df[(df.review == 'hhh')].index.tolist()
     df = df.drop(list)
 
+    df['date'] = df['date'].str.replace("\n", "")
+    df['date'] = df['date'].str.replace("/", "_")
+    df['date'] = df['date'].str.replace(" ", "")
+    df['address'] = df['address'].str.replace("\n", "")
     df['review'] = df['review'].str.replace("[^a-zA-Z#]", " ")
     print(df.info())
     df.to_csv(recv_url)
+
+dataProcess('test.csv', 'processed.csv')

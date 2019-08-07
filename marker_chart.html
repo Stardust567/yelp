@@ -1,0 +1,3331 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_978c16e0e1d342e9bf2cfe361a21879f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_978c16e0e1d342e9bf2cfe361a21879f" ></div>
+        
+</body>
+<script>    
+    
+            var map_978c16e0e1d342e9bf2cfe361a21879f = L.map(
+                "map_978c16e0e1d342e9bf2cfe361a21879f",
+                {
+                    center: [30.3, -97.7],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 7,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_060d97ff34ee4613a49b7174b5f18ea4 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+            var marker_45115f3abd10422f8f8676155e9cf799 = L.marker(
+                [30.3487955, -97.7350656],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_ecd34fbe667947a48a2f9b8301b98ac8 = L.popup({"maxWidth": 450});
+
+        
+            var html_7ed7f0c79dd54c21bcd8eb96ad831196 = $(`<div id="html_7ed7f0c79dd54c21bcd8eb96ad831196" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>DipDipDip Tatsu-Ya</td>       <td>0.211</td>       <td>0.047</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_ecd34fbe667947a48a2f9b8301b98ac8.setContent(html_7ed7f0c79dd54c21bcd8eb96ad831196);
+        
+
+        marker_45115f3abd10422f8f8676155e9cf799.bindPopup(popup_ecd34fbe667947a48a2f9b8301b98ac8)
+        ;
+
+        
+    
+    
+            var marker_bfc3692da5a5478089a282e72306f32a = L.marker(
+                [30.401294300000004, -97.72271309999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_e8eaee4e262242edad7c201dc1d4563f = L.popup({"maxWidth": 450});
+
+        
+            var html_fa77d60fd8c4409ba48a3ca67c7c2d4d = $(`<div id="html_fa77d60fd8c4409ba48a3ca67c7c2d4d" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Thai Kun</td>       <td>0.182</td>       <td>0.052</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_e8eaee4e262242edad7c201dc1d4563f.setContent(html_fa77d60fd8c4409ba48a3ca67c7c2d4d);
+        
+
+        marker_bfc3692da5a5478089a282e72306f32a.bindPopup(popup_e8eaee4e262242edad7c201dc1d4563f)
+        ;
+
+        
+    
+    
+            var marker_a490ab4cafb64069b114f9a9db2abf6f = L.marker(
+                [30.2598917959184, -97.73236438775508],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_aa246960c8064f48bac20dff4c19b2f1 = L.popup({"maxWidth": 450});
+
+        
+            var html_e636b56141594ea79809dbf1c290d617 = $(`<div id="html_e636b56141594ea79809dbf1c290d617" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Las Trancas</td>       <td>0.252</td>       <td>0.036</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_aa246960c8064f48bac20dff4c19b2f1.setContent(html_e636b56141594ea79809dbf1c290d617);
+        
+
+        marker_a490ab4cafb64069b114f9a9db2abf6f.bindPopup(popup_aa246960c8064f48bac20dff4c19b2f1)
+        ;
+
+        
+    
+    
+            var marker_af5804fc904347e68ba2ab6750c17f16 = L.marker(
+                [30.2553135, -97.71895532359069],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_d46c5a31d7d34da4b89c531ff2f32031 = L.popup({"maxWidth": 450});
+
+        
+            var html_5632a42dbee74afbb358beea699f57f0 = $(`<div id="html_5632a42dbee74afbb358beea699f57f0" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Juan In A Million</td>       <td>0.213</td>       <td>0.042</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_d46c5a31d7d34da4b89c531ff2f32031.setContent(html_5632a42dbee74afbb358beea699f57f0);
+        
+
+        marker_af5804fc904347e68ba2ab6750c17f16.bindPopup(popup_d46c5a31d7d34da4b89c531ff2f32031)
+        ;
+
+        
+    
+    
+            var marker_23f724f3cc88465da95348eee4f55b03 = L.marker(
+                [30.266036, -97.740239],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_20c19e9b5c6b42f2ae90188ab20cf15c = L.popup({"maxWidth": 450});
+
+        
+            var html_aade135f8fc94015912951fffeb800ce = $(`<div id="html_aade135f8fc94015912951fffeb800ce" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Russian House</td>       <td>0.218</td>       <td>0.061</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_20c19e9b5c6b42f2ae90188ab20cf15c.setContent(html_aade135f8fc94015912951fffeb800ce);
+        
+
+        marker_23f724f3cc88465da95348eee4f55b03.bindPopup(popup_20c19e9b5c6b42f2ae90188ab20cf15c)
+        ;
+
+        
+    
+    
+            var marker_68862381d9204cb1abfc1b0021db9842 = L.marker(
+                [30.266963800000003, -97.7451698],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_9f491c92a4344c69b0246ec64fd04d9a = L.popup({"maxWidth": 450});
+
+        
+            var html_9298ed38aeb3442daf4bd88d77f62b9f = $(`<div id="html_9298ed38aeb3442daf4bd88d77f62b9f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>P闁肩厧宕抙闁肩》鎷�</td>       <td>0.314</td>       <td>0.039</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_9f491c92a4344c69b0246ec64fd04d9a.setContent(html_9298ed38aeb3442daf4bd88d77f62b9f);
+        
+
+        marker_68862381d9204cb1abfc1b0021db9842.bindPopup(popup_9f491c92a4344c69b0246ec64fd04d9a)
+        ;
+
+        
+    
+    
+            var marker_53f92d8bc7c34ea89698c8798cd85757 = L.marker(
+                [30.236388899999998, -97.7826467],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_db96e0bbb8d246109d0b974df94a1d2a = L.popup({"maxWidth": 450});
+
+        
+            var html_9f2b580cc4ef4c9eab5307ae888e6b84 = $(`<div id="html_9f2b580cc4ef4c9eab5307ae888e6b84" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Shake Shack</td>       <td>0.199</td>       <td>0.071</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_db96e0bbb8d246109d0b974df94a1d2a.setContent(html_9f2b580cc4ef4c9eab5307ae888e6b84);
+        
+
+        marker_53f92d8bc7c34ea89698c8798cd85757.bindPopup(popup_db96e0bbb8d246109d0b974df94a1d2a)
+        ;
+
+        
+    
+    
+            var marker_d1b14e4532ed40c887ace4aea20ef2a0 = L.marker(
+                [30.32991225, -97.70657035],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_0123dfb0a299402699b36beabfe4af06 = L.popup({"maxWidth": 450});
+
+        
+            var html_d9009c43a53145e1b0ac10602229d8f0 = $(`<div id="html_d9009c43a53145e1b0ac10602229d8f0" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Chosun Korean BBQ</td>       <td>0.211</td>       <td>0.045</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_0123dfb0a299402699b36beabfe4af06.setContent(html_d9009c43a53145e1b0ac10602229d8f0);
+        
+
+        marker_d1b14e4532ed40c887ace4aea20ef2a0.bindPopup(popup_0123dfb0a299402699b36beabfe4af06)
+        ;
+
+        
+    
+    
+            var marker_655099453c8144ab862c946ec1baee55 = L.marker(
+                [30.247262, -97.750813],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_9c5bffb9406c4d468835fe2901a98d8e = L.popup({"maxWidth": 450});
+
+        
+            var html_27c056ec98894e668e9dd810e95ccdae = $(`<div id="html_27c056ec98894e668e9dd810e95ccdae" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Vespaio Ristorante</td>       <td>0.24</td>       <td>0.045</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_9c5bffb9406c4d468835fe2901a98d8e.setContent(html_27c056ec98894e668e9dd810e95ccdae);
+        
+
+        marker_655099453c8144ab862c946ec1baee55.bindPopup(popup_9c5bffb9406c4d468835fe2901a98d8e)
+        ;
+
+        
+    
+    
+            var marker_ad5f0ade4e0f4f998e39b42e9784d912 = L.marker(
+                [30.360053100000002, -97.7348994],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_16466966b729456ebcf81ee49bb2e7cb = L.popup({"maxWidth": 450});
+
+        
+            var html_63933675c9c3486fb6ef74769f3b198f = $(`<div id="html_63933675c9c3486fb6ef74769f3b198f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Korea House</td>       <td>0.227</td>       <td>0.048</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_16466966b729456ebcf81ee49bb2e7cb.setContent(html_63933675c9c3486fb6ef74769f3b198f);
+        
+
+        marker_ad5f0ade4e0f4f998e39b42e9784d912.bindPopup(popup_16466966b729456ebcf81ee49bb2e7cb)
+        ;
+
+        
+    
+    
+            var marker_d6d463947ded4192bb79e3eaaa9fa0c2 = L.marker(
+                [30.331213599999998, -97.7151818],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_e0357929be07449492236479bd17f515 = L.popup({"maxWidth": 450});
+
+        
+            var html_38251ca35eb24accb4cff6daf3e62620 = $(`<div id="html_38251ca35eb24accb4cff6daf3e62620" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Arpeggio Grill</td>       <td>0.262</td>       <td>0.051</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_e0357929be07449492236479bd17f515.setContent(html_38251ca35eb24accb4cff6daf3e62620);
+        
+
+        marker_d6d463947ded4192bb79e3eaaa9fa0c2.bindPopup(popup_e0357929be07449492236479bd17f515)
+        ;
+
+        
+    
+    
+            var marker_a465392f660f46e18cc126b7a9ddd063 = L.marker(
+                [30.265983799999997, -97.7493412],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_9b275940a2ee4b9b8ab547cc85bbf301 = L.popup({"maxWidth": 450});
+
+        
+            var html_4c9451aacb3348859b0ddaf6dbffb99b = $(`<div id="html_4c9451aacb3348859b0ddaf6dbffb99b" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Flower Child</td>       <td>0.242</td>       <td>0.039</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_9b275940a2ee4b9b8ab547cc85bbf301.setContent(html_4c9451aacb3348859b0ddaf6dbffb99b);
+        
+
+        marker_a465392f660f46e18cc126b7a9ddd063.bindPopup(popup_9b275940a2ee4b9b8ab547cc85bbf301)
+        ;
+
+        
+    
+    
+            var marker_3f113683bf194d2b8ccbdc4d980be78f = L.marker(
+                [30.3216899016393, -97.739248],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_406552f642104c7fa8762900148f2291 = L.popup({"maxWidth": 450});
+
+        
+            var html_485a00cf0e574c48b2ea8fc2a4920052 = $(`<div id="html_485a00cf0e574c48b2ea8fc2a4920052" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Citizen Eatery</td>       <td>0.26</td>       <td>0.034</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_406552f642104c7fa8762900148f2291.setContent(html_485a00cf0e574c48b2ea8fc2a4920052);
+        
+
+        marker_3f113683bf194d2b8ccbdc4d980be78f.bindPopup(popup_406552f642104c7fa8762900148f2291)
+        ;
+
+        
+    
+    
+            var marker_55b0120c45f646a684701f05387bc75b = L.marker(
+                [30.264049, -97.746096],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_275eea256e8e493f8f9eceb05fe97751 = L.popup({"maxWidth": 450});
+
+        
+            var html_724e8c3a363e4b688735916568ffc40a = $(`<div id="html_724e8c3a363e4b688735916568ffc40a" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>The Bonneville</td>       <td>0.278</td>       <td>0.065</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_275eea256e8e493f8f9eceb05fe97751.setContent(html_724e8c3a363e4b688735916568ffc40a);
+        
+
+        marker_55b0120c45f646a684701f05387bc75b.bindPopup(popup_275eea256e8e493f8f9eceb05fe97751)
+        ;
+
+        
+    
+    
+            var marker_a08cae01d6fd4d72804e02c1381f72d6 = L.marker(
+                [30.2637439, -97.7248744],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_8c3696d5e15c44ed88e1c36c1804e8ea = L.popup({"maxWidth": 450});
+
+        
+            var html_02cfc99fc9934aba80abee16ba49c799 = $(`<div id="html_02cfc99fc9934aba80abee16ba49c799" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Nasha</td>       <td>0.246</td>       <td>0.054</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_8c3696d5e15c44ed88e1c36c1804e8ea.setContent(html_02cfc99fc9934aba80abee16ba49c799);
+        
+
+        marker_a08cae01d6fd4d72804e02c1381f72d6.bindPopup(popup_8c3696d5e15c44ed88e1c36c1804e8ea)
+        ;
+
+        
+    
+    
+            var marker_b8700e97af3e46b3908dbd8ec634514a = L.marker(
+                [30.265106, -97.731551],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_f3a36b436c9d4c5e96087b8c52737003 = L.popup({"maxWidth": 450});
+
+        
+            var html_05f4d9961ec04aaf89629cabfd9e10c5 = $(`<div id="html_05f4d9961ec04aaf89629cabfd9e10c5" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Baton Creole</td>       <td>0.266</td>       <td>0.021</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_f3a36b436c9d4c5e96087b8c52737003.setContent(html_05f4d9961ec04aaf89629cabfd9e10c5);
+        
+
+        marker_b8700e97af3e46b3908dbd8ec634514a.bindPopup(popup_f3a36b436c9d4c5e96087b8c52737003)
+        ;
+
+        
+    
+    
+            var marker_e2b7ee7dc80b4ddeb2c2c82ba658f185 = L.marker(
+                [30.306419, -97.73545],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_1a6b8702f1e348bc81dd02b8cba6f454 = L.popup({"maxWidth": 450});
+
+        
+            var html_46a7953397b1455185e4fcb5f1403278 = $(`<div id="html_46a7953397b1455185e4fcb5f1403278" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>NeWorlDeli</td>       <td>0.214</td>       <td>0.047</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_1a6b8702f1e348bc81dd02b8cba6f454.setContent(html_46a7953397b1455185e4fcb5f1403278);
+        
+
+        marker_e2b7ee7dc80b4ddeb2c2c82ba658f185.bindPopup(popup_1a6b8702f1e348bc81dd02b8cba6f454)
+        ;
+
+        
+    
+    
+            var marker_0384673cf8fe48be83fdb5b41d00ac04 = L.marker(
+                [30.3065143, -97.70806400000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_c6cb2f586db9497f8c90652a2d34db6e = L.popup({"maxWidth": 450});
+
+        
+            var html_ede45e0044c8497f8027370bacf88b9d = $(`<div id="html_ede45e0044c8497f8027370bacf88b9d" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Halal Wings</td>       <td>0.269</td>       <td>0.053</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_c6cb2f586db9497f8c90652a2d34db6e.setContent(html_ede45e0044c8497f8027370bacf88b9d);
+        
+
+        marker_0384673cf8fe48be83fdb5b41d00ac04.bindPopup(popup_c6cb2f586db9497f8c90652a2d34db6e)
+        ;
+
+        
+    
+    
+            var marker_0516296b2482427eb5f1a7b23748b285 = L.marker(
+                [30.2385208, -97.7504602],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_3c74b8734f804289be91345c3c26315a = L.popup({"maxWidth": 450});
+
+        
+            var html_227dc177953244fc8a076ea05327e0ec = $(`<div id="html_227dc177953244fc8a076ea05327e0ec" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Lucky Robot</td>       <td>0.225</td>       <td>0.049</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3c74b8734f804289be91345c3c26315a.setContent(html_227dc177953244fc8a076ea05327e0ec);
+        
+
+        marker_0516296b2482427eb5f1a7b23748b285.bindPopup(popup_3c74b8734f804289be91345c3c26315a)
+        ;
+
+        
+    
+    
+            var marker_2da4eac57b654e7cac2e9ee51cb8b4b6 = L.marker(
+                [30.304509399999997, -97.7264373],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_2da3c04931ca4512996ce1150194341e = L.popup({"maxWidth": 450});
+
+        
+            var html_f13636f66ed243ccaeea833037d7eb2f = $(`<div id="html_f13636f66ed243ccaeea833037d7eb2f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Julio闂佺偨鍎查悰锟� Caf闁肩》鎷�</td>       <td>0.27</td>       <td>0.04</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_2da3c04931ca4512996ce1150194341e.setContent(html_f13636f66ed243ccaeea833037d7eb2f);
+        
+
+        marker_2da4eac57b654e7cac2e9ee51cb8b4b6.bindPopup(popup_2da3c04931ca4512996ce1150194341e)
+        ;
+
+        
+    
+    
+            var marker_c15656ce49d54c85b456dd87a9d7a617 = L.marker(
+                [30.280748, -97.758401],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_12e9d2258b0f48fb876b8830c94af703 = L.popup({"maxWidth": 450});
+
+        
+            var html_403be9e3a7ab419e9cf1301493a8a163 = $(`<div id="html_403be9e3a7ab419e9cf1301493a8a163" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Cipollina</td>       <td>0.195</td>       <td>0.042</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_12e9d2258b0f48fb876b8830c94af703.setContent(html_403be9e3a7ab419e9cf1301493a8a163);
+        
+
+        marker_c15656ce49d54c85b456dd87a9d7a617.bindPopup(popup_12e9d2258b0f48fb876b8830c94af703)
+        ;
+
+        
+    
+    
+            var marker_cb53debe5e5243f2bec4c36be567da57 = L.marker(
+                [30.366578000000004, -97.728701],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_a43a43d9712c4682bff30886b588e545 = L.popup({"maxWidth": 450});
+
+        
+            var html_7c1a3571c1a342828e1552c10d3b88bf = $(`<div id="html_7c1a3571c1a342828e1552c10d3b88bf" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Nosh &amp; Bevvy</td>       <td>0.246</td>       <td>0.043</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_a43a43d9712c4682bff30886b588e545.setContent(html_7c1a3571c1a342828e1552c10d3b88bf);
+        
+
+        marker_cb53debe5e5243f2bec4c36be567da57.bindPopup(popup_a43a43d9712c4682bff30886b588e545)
+        ;
+
+        
+    
+    
+            var marker_9be11d9649c647c29cfc660f6f681d8e = L.marker(
+                [30.3059645, -97.71511908412892],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_53d16ac6ba9f44caa529fe0164d380c1 = L.popup({"maxWidth": 450});
+
+        
+            var html_dc1ec5b931f1419d9b2b57c09775b802 = $(`<div id="html_dc1ec5b931f1419d9b2b57c09775b802" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Kitchen Window</td>       <td>0.259</td>       <td>0.02</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_53d16ac6ba9f44caa529fe0164d380c1.setContent(html_dc1ec5b931f1419d9b2b57c09775b802);
+        
+
+        marker_9be11d9649c647c29cfc660f6f681d8e.bindPopup(popup_53d16ac6ba9f44caa529fe0164d380c1)
+        ;
+
+        
+    
+    
+            var marker_d11a33b7c93c40ce93b28e87053659ee = L.marker(
+                [30.2898, -97.741577],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_08031020ce73428c946db5a880281f36 = L.popup({"maxWidth": 450});
+
+        
+            var html_4a5426b9749440e8a75d3c6b7b2e45a0 = $(`<div id="html_4a5426b9749440e8a75d3c6b7b2e45a0" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Kokodak</td>       <td>0.22</td>       <td>0.036</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_08031020ce73428c946db5a880281f36.setContent(html_4a5426b9749440e8a75d3c6b7b2e45a0);
+        
+
+        marker_d11a33b7c93c40ce93b28e87053659ee.bindPopup(popup_08031020ce73428c946db5a880281f36)
+        ;
+
+        
+    
+    
+            var marker_6d547a00be394751b1f41ba74e10c462 = L.marker(
+                [30.259228999999998, -97.738899],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_29283da249cb426688f03ebc628b96b1 = L.popup({"maxWidth": 450});
+
+        
+            var html_3e63279157f44b7cafd9bb485192dbc5 = $(`<div id="html_3e63279157f44b7cafd9bb485192dbc5" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Glory Hole Hot Dogs</td>       <td>0.238</td>       <td>0.071</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_29283da249cb426688f03ebc628b96b1.setContent(html_3e63279157f44b7cafd9bb485192dbc5);
+        
+
+        marker_6d547a00be394751b1f41ba74e10c462.bindPopup(popup_29283da249cb426688f03ebc628b96b1)
+        ;
+
+        
+    
+    
+            var marker_79cc6bfd0af44f0f9886cf69d489d372 = L.marker(
+                [30.263823699999996, -97.7632926],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_e66a2b995499489486a36c5d4729f39d = L.popup({"maxWidth": 450});
+
+        
+            var html_7112a14eb76c4ae0ba3be752aee7983a = $(`<div id="html_7112a14eb76c4ae0ba3be752aee7983a" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Chuy闂佺偨鍎查悰锟�</td>       <td>0.256</td>       <td>0.039</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_e66a2b995499489486a36c5d4729f39d.setContent(html_7112a14eb76c4ae0ba3be752aee7983a);
+        
+
+        marker_79cc6bfd0af44f0f9886cf69d489d372.bindPopup(popup_e66a2b995499489486a36c5d4729f39d)
+        ;
+
+        
+    
+    
+            var marker_2b5f5885e1764ffcad0b67acbffd5204 = L.marker(
+                [30.307823424242397, -97.7073532121212],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_b6bb060afa7e4e5fb5ed99f335a61595 = L.popup({"maxWidth": 450});
+
+        
+            var html_e66e83ca2d6649eb88718d12c91e0608 = $(`<div id="html_e66e83ca2d6649eb88718d12c91e0608" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Gino闂佺偨鍎查悰锟� Vino Osteria</td>       <td>0.303</td>       <td>0.037</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_b6bb060afa7e4e5fb5ed99f335a61595.setContent(html_e66e83ca2d6649eb88718d12c91e0608);
+        
+
+        marker_2b5f5885e1764ffcad0b67acbffd5204.bindPopup(popup_b6bb060afa7e4e5fb5ed99f335a61595)
+        ;
+
+        
+    
+    
+            var marker_55e2bcd317ad4f4983ab9a5d371126c2 = L.marker(
+                [30.29727, -97.703849],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_210d83ffe8744226b7f6ebb9ef6f87ea = L.popup({"maxWidth": 450});
+
+        
+            var html_fbc65caefc03495b8898b97c418aecfa = $(`<div id="html_fbc65caefc03495b8898b97c418aecfa" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>L闂佺偨鍎查埞濉゛ d闂佺偨鍎查埞濉簅</td>       <td>0.224</td>       <td>0.044</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_210d83ffe8744226b7f6ebb9ef6f87ea.setContent(html_fbc65caefc03495b8898b97c418aecfa);
+        
+
+        marker_55e2bcd317ad4f4983ab9a5d371126c2.bindPopup(popup_210d83ffe8744226b7f6ebb9ef6f87ea)
+        ;
+
+        
+    
+    
+            var marker_902c17c7c3bb443da64783617089a2f5 = L.marker(
+                [30.266856, -97.740433],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_5087101d8d0e47858d8b58a889332934 = L.popup({"maxWidth": 450});
+
+        
+            var html_b6fddc86468346f5ac2d8b4be5384056 = $(`<div id="html_b6fddc86468346f5ac2d8b4be5384056" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>The Backspace</td>       <td>0.273</td>       <td>0.045</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_5087101d8d0e47858d8b58a889332934.setContent(html_b6fddc86468346f5ac2d8b4be5384056);
+        
+
+        marker_902c17c7c3bb443da64783617089a2f5.bindPopup(popup_5087101d8d0e47858d8b58a889332934)
+        ;
+
+        
+    
+    
+            var marker_4351bcb047094850b4a4f557352aeafa = L.marker(
+                [30.278009, -97.739216],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_6f386977c8df459da8d83d79186e3c00 = L.popup({"maxWidth": 450});
+
+        
+            var html_206e0ffae1ae4029b8956227823bc6c8 = $(`<div id="html_206e0ffae1ae4029b8956227823bc6c8" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>South Congress Cafe</td>       <td>0.246</td>       <td>0.043</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_6f386977c8df459da8d83d79186e3c00.setContent(html_206e0ffae1ae4029b8956227823bc6c8);
+        
+
+        marker_4351bcb047094850b4a4f557352aeafa.bindPopup(popup_6f386977c8df459da8d83d79186e3c00)
+        ;
+
+        
+    
+    
+            var marker_ec57eb290ddb46d293a4467c201901c0 = L.marker(
+                [30.267907, -97.74120699999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_bd32e72ea27f493f82e4036ae4e13797 = L.popup({"maxWidth": 450});
+
+        
+            var html_eecab16d5b344c658481532e4868defa = $(`<div id="html_eecab16d5b344c658481532e4868defa" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Eureka!</td>       <td>0.26</td>       <td>0.058</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_bd32e72ea27f493f82e4036ae4e13797.setContent(html_eecab16d5b344c658481532e4868defa);
+        
+
+        marker_ec57eb290ddb46d293a4467c201901c0.bindPopup(popup_bd32e72ea27f493f82e4036ae4e13797)
+        ;
+
+        
+    
+    
+            var marker_65de30e7233c49efbb31ab848a6e7a24 = L.marker(
+                [30.322004999999997, -97.73982752187722],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_7642287af947459aa92451f17c3c24a1 = L.popup({"maxWidth": 450});
+
+        
+            var html_35593a955b9443a5bd2e87520cdf6767 = $(`<div id="html_35593a955b9443a5bd2e87520cdf6767" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Billy闂佺偨鍎查悰锟� on Burnet</td>       <td>0.207</td>       <td>0.047</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_7642287af947459aa92451f17c3c24a1.setContent(html_35593a955b9443a5bd2e87520cdf6767);
+        
+
+        marker_65de30e7233c49efbb31ab848a6e7a24.bindPopup(popup_7642287af947459aa92451f17c3c24a1)
+        ;
+
+        
+    
+    
+            var marker_1d0a5f48c473479fb687aaffc07021f2 = L.marker(
+                [30.2794133, -97.7600581],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_9deac2dabee24cbeb82fdac579f5d7ca = L.popup({"maxWidth": 450});
+
+        
+            var html_7bdfc0725e3642fba2092835f65cf21b = $(`<div id="html_7bdfc0725e3642fba2092835f65cf21b" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Galaxy Cafe</td>       <td>0.227</td>       <td>0.061</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_9deac2dabee24cbeb82fdac579f5d7ca.setContent(html_7bdfc0725e3642fba2092835f65cf21b);
+        
+
+        marker_1d0a5f48c473479fb687aaffc07021f2.bindPopup(popup_9deac2dabee24cbeb82fdac579f5d7ca)
+        ;
+
+        
+    
+    
+            var marker_7eb1df568356453aa644f5819998c015 = L.marker(
+                [30.264374699999998, -97.7413623],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_f7d290627dd248e58106f9fa8de786a7 = L.popup({"maxWidth": 450});
+
+        
+            var html_a1018797dd264fa0b4dfdc93bae254ab = $(`<div id="html_a1018797dd264fa0b4dfdc93bae254ab" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Mai Thai Restaurant</td>       <td>0.205</td>       <td>0.041</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_f7d290627dd248e58106f9fa8de786a7.setContent(html_a1018797dd264fa0b4dfdc93bae254ab);
+        
+
+        marker_7eb1df568356453aa644f5819998c015.bindPopup(popup_f7d290627dd248e58106f9fa8de786a7)
+        ;
+
+        
+    
+    
+            var marker_df8217f956fb4c58a1da25395da68d26 = L.marker(
+                [30.2678473061224, -97.7387052244898],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_739ac17c24c440e38b3ef7b286d02de0 = L.popup({"maxWidth": 450});
+
+        
+            var html_7f89258b6dd44584ba1f40ad131b1abd = $(`<div id="html_7f89258b6dd44584ba1f40ad131b1abd" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Halal Bros</td>       <td>0.315</td>       <td>0.01</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_739ac17c24c440e38b3ef7b286d02de0.setContent(html_7f89258b6dd44584ba1f40ad131b1abd);
+        
+
+        marker_df8217f956fb4c58a1da25395da68d26.bindPopup(popup_739ac17c24c440e38b3ef7b286d02de0)
+        ;
+
+        
+    
+    
+            var marker_401437504f4f4e178ace237cacabe664 = L.marker(
+                [30.298633000000002, -97.704363],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_4377481074cd4918a5a430f3efd11660 = L.popup({"maxWidth": 450});
+
+        
+            var html_6e51155cb9e64f9996952a0f4d20bff2 = $(`<div id="html_6e51155cb9e64f9996952a0f4d20bff2" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Colleen闂佺偨鍎查悰锟� Kitchen</td>       <td>0.297</td>       <td>0.048</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4377481074cd4918a5a430f3efd11660.setContent(html_6e51155cb9e64f9996952a0f4d20bff2);
+        
+
+        marker_401437504f4f4e178ace237cacabe664.bindPopup(popup_4377481074cd4918a5a430f3efd11660)
+        ;
+
+        
+    
+    
+            var marker_22b36e497080420f8c90bd99880276ad = L.marker(
+                [30.220502000000003, -97.6946728165551],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_7bcd472fece946a8a096ad8f0522d0d2 = L.popup({"maxWidth": 450});
+
+        
+            var html_f34e956c1c8f40599236901cc8abf236 = $(`<div id="html_f34e956c1c8f40599236901cc8abf236" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Honduras Food</td>       <td>0.261</td>       <td>0.025</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_7bcd472fece946a8a096ad8f0522d0d2.setContent(html_f34e956c1c8f40599236901cc8abf236);
+        
+
+        marker_22b36e497080420f8c90bd99880276ad.bindPopup(popup_7bcd472fece946a8a096ad8f0522d0d2)
+        ;
+
+        
+    
+    
+            var marker_862a89a8cc4743cca7ea9056fdcd3019 = L.marker(
+                [30.2478771, -97.7347662],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_36d6a98c318d4f5d91cd97507c46d52e = L.popup({"maxWidth": 450});
+
+        
+            var html_303d28d926834cb5b44a4bd5832e7fde = $(`<div id="html_303d28d926834cb5b44a4bd5832e7fde" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>El Taquito</td>       <td>0.198</td>       <td>0.048</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_36d6a98c318d4f5d91cd97507c46d52e.setContent(html_303d28d926834cb5b44a4bd5832e7fde);
+        
+
+        marker_862a89a8cc4743cca7ea9056fdcd3019.bindPopup(popup_36d6a98c318d4f5d91cd97507c46d52e)
+        ;
+
+        
+    
+    
+            var marker_3638e2c43c7d493c81b51001e0118d3c = L.marker(
+                [30.306051500000002, -97.7497533845195],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_42e7445fe9d64fdcb56e18c152473a75 = L.popup({"maxWidth": 450});
+
+        
+            var html_99c332fd85054735bf12cb34005ac3aa = $(`<div id="html_99c332fd85054735bf12cb34005ac3aa" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Tiny Boxwoods</td>       <td>0.171</td>       <td>0.074</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_42e7445fe9d64fdcb56e18c152473a75.setContent(html_99c332fd85054735bf12cb34005ac3aa);
+        
+
+        marker_3638e2c43c7d493c81b51001e0118d3c.bindPopup(popup_42e7445fe9d64fdcb56e18c152473a75)
+        ;
+
+        
+    
+    
+            var marker_d12076ab18bc4f6d8d29430b980c37d2 = L.marker(
+                [30.361418, -97.698249],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_280b77ee92d643f7b02f092b282aed7f = L.popup({"maxWidth": 450});
+
+        
+            var html_ce2dd5a792d64e039d82d0cde11b3c1d = $(`<div id="html_ce2dd5a792d64e039d82d0cde11b3c1d" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Pho Phong Lu闂佺偨鍎查悰锟�</td>       <td>0.264</td>       <td>0.038</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_280b77ee92d643f7b02f092b282aed7f.setContent(html_ce2dd5a792d64e039d82d0cde11b3c1d);
+        
+
+        marker_d12076ab18bc4f6d8d29430b980c37d2.bindPopup(popup_280b77ee92d643f7b02f092b282aed7f)
+        ;
+
+        
+    
+    
+            var marker_fdcac5787ce643bf90f58a198d8c046a = L.marker(
+                [38.758390000000006, -85.8080251],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_539120a8c33d4a32bca0a66d0317abcf = L.popup({"maxWidth": 450});
+
+        
+            var html_7e2d17bfc0b24e38b971ace664a317b8 = $(`<div id="html_7e2d17bfc0b24e38b971ace664a317b8" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Pappasito闂佺偨鍎查悰锟� Cantina</td>       <td>0.191</td>       <td>0.077</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_539120a8c33d4a32bca0a66d0317abcf.setContent(html_7e2d17bfc0b24e38b971ace664a317b8);
+        
+
+        marker_fdcac5787ce643bf90f58a198d8c046a.bindPopup(popup_539120a8c33d4a32bca0a66d0317abcf)
+        ;
+
+        
+    
+    
+            var marker_401078ea122c49c58f7271313002938a = L.marker(
+                [30.251874, -97.722751099569],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_2862b1d19ed74c789445d78d36b3c4b3 = L.popup({"maxWidth": 450});
+
+        
+            var html_1092ece29cab4834bfeebb7326a6a103 = $(`<div id="html_1092ece29cab4834bfeebb7326a6a103" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Launderette</td>       <td>0.257</td>       <td>0.033</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_2862b1d19ed74c789445d78d36b3c4b3.setContent(html_1092ece29cab4834bfeebb7326a6a103);
+        
+
+        marker_401078ea122c49c58f7271313002938a.bindPopup(popup_2862b1d19ed74c789445d78d36b3c4b3)
+        ;
+
+        
+    
+    
+            var marker_319fbe1d023d4de5809876056f15fb97 = L.marker(
+                [30.2385208, -97.7504602],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_ee0d2169638c45578df097c973ac98ed = L.popup({"maxWidth": 450});
+
+        
+            var html_c455dcb11e10436399f024349c747fcf = $(`<div id="html_c455dcb11e10436399f024349c747fcf" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Big Vinny闂佺偨鍎查悰锟� Bbq</td>       <td>0.065</td>       <td>0.06</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_ee0d2169638c45578df097c973ac98ed.setContent(html_c455dcb11e10436399f024349c747fcf);
+        
+
+        marker_319fbe1d023d4de5809876056f15fb97.bindPopup(popup_ee0d2169638c45578df097c973ac98ed)
+        ;
+
+        
+    
+    
+            var marker_c0208e73c23e42f1a08f390f56b86111 = L.marker(
+                [30.2621507, -97.7245745],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_88570dd3c01c441a833d62c6cd4cf364 = L.popup({"maxWidth": 450});
+
+        
+            var html_55e0c5fbdd2640b8bddf640f5bb282e6 = $(`<div id="html_55e0c5fbdd2640b8bddf640f5bb282e6" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Spicy Boys</td>       <td>0.3</td>       <td>0.052</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_88570dd3c01c441a833d62c6cd4cf364.setContent(html_55e0c5fbdd2640b8bddf640f5bb282e6);
+        
+
+        marker_c0208e73c23e42f1a08f390f56b86111.bindPopup(popup_88570dd3c01c441a833d62c6cd4cf364)
+        ;
+
+        
+    
+    
+            var marker_0b6173e9fe114d0b966f58d2d547a63a = L.marker(
+                [30.359877, -97.69034599999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_318f439b3d9e4270a717fdac1a6483ec = L.popup({"maxWidth": 450});
+
+        
+            var html_89c060a522734feead64d94b5533f4fe = $(`<div id="html_89c060a522734feead64d94b5533f4fe" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Elotes Fanny</td>       <td>0.261</td>       <td>0.0</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_318f439b3d9e4270a717fdac1a6483ec.setContent(html_89c060a522734feead64d94b5533f4fe);
+        
+
+        marker_0b6173e9fe114d0b966f58d2d547a63a.bindPopup(popup_318f439b3d9e4270a717fdac1a6483ec)
+        ;
+
+        
+    
+    
+            var marker_55e3b7c7d309438e8e34b092673a655c = L.marker(
+                [30.231541600000003, -97.78777190000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_ff21b775d8fc4efa93900601dc3037ce = L.popup({"maxWidth": 450});
+
+        
+            var html_6a249c0918c044919940667714861af8 = $(`<div id="html_6a249c0918c044919940667714861af8" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>DEE DEE</td>       <td>0.238</td>       <td>0.029</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_ff21b775d8fc4efa93900601dc3037ce.setContent(html_6a249c0918c044919940667714861af8);
+        
+
+        marker_55e3b7c7d309438e8e34b092673a655c.bindPopup(popup_ff21b775d8fc4efa93900601dc3037ce)
+        ;
+
+        
+    
+    
+            var marker_2e564c0d356e47b3a9224816c9d789c4 = L.marker(
+                [30.265629999999998, -97.748334],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_44ba9e5255c94ef6b58f7b0e3d207ede = L.popup({"maxWidth": 450});
+
+        
+            var html_d81a17762a7a4174b3642285c3653902 = $(`<div id="html_d81a17762a7a4174b3642285c3653902" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>She闂佺偨鍎查悰锟� Not Here</td>       <td>0.202</td>       <td>0.065</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_44ba9e5255c94ef6b58f7b0e3d207ede.setContent(html_d81a17762a7a4174b3642285c3653902);
+        
+
+        marker_2e564c0d356e47b3a9224816c9d789c4.bindPopup(popup_44ba9e5255c94ef6b58f7b0e3d207ede)
+        ;
+
+        
+    
+    
+            var marker_164daa78faeb4cee96cc45b6a788b41c = L.marker(
+                [30.264070500000003, -97.728797704993],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_326d9fb2cabe42f9b6d8171ce5f24387 = L.popup({"maxWidth": 450});
+
+        
+            var html_6c5c3e5f481248058dc2910d4f9819b0 = $(`<div id="html_6c5c3e5f481248058dc2910d4f9819b0" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Licha闂佺偨鍎查悰锟� Cantina</td>       <td>0.236</td>       <td>0.045</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_326d9fb2cabe42f9b6d8171ce5f24387.setContent(html_6c5c3e5f481248058dc2910d4f9819b0);
+        
+
+        marker_164daa78faeb4cee96cc45b6a788b41c.bindPopup(popup_326d9fb2cabe42f9b6d8171ce5f24387)
+        ;
+
+        
+    
+    
+            var marker_c0c63b7ff7a74bb7a215fc10081dc744 = L.marker(
+                [30.261718, -97.739026],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_39f1b5e5d3134fae9089b3973a917e79 = L.popup({"maxWidth": 450});
+
+        
+            var html_aa3e87b20f084019aa07492a72c21e81 = $(`<div id="html_aa3e87b20f084019aa07492a72c21e81" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Iron Works Barbecue</td>       <td>0.181</td>       <td>0.098</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_39f1b5e5d3134fae9089b3973a917e79.setContent(html_aa3e87b20f084019aa07492a72c21e81);
+        
+
+        marker_c0c63b7ff7a74bb7a215fc10081dc744.bindPopup(popup_39f1b5e5d3134fae9089b3973a917e79)
+        ;
+
+        
+    
+    
+            var marker_79e3633dc13c4a9695a3309ae2dca0d9 = L.marker(
+                [30.265874, -97.74391],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_940ee1e2648d45f3af6ad008ae16ac6c = L.popup({"maxWidth": 450});
+
+        
+            var html_1da16fe2f65a49c1bb931c44ffd02178 = $(`<div id="html_1da16fe2f65a49c1bb931c44ffd02178" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>La Traviata</td>       <td>0.221</td>       <td>0.055</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_940ee1e2648d45f3af6ad008ae16ac6c.setContent(html_1da16fe2f65a49c1bb931c44ffd02178);
+        
+
+        marker_79e3633dc13c4a9695a3309ae2dca0d9.bindPopup(popup_940ee1e2648d45f3af6ad008ae16ac6c)
+        ;
+
+        
+    
+    
+            var marker_4ad29c1f6360438499830bb65ce95a7d = L.marker(
+                [30.2664876938776, -97.7369253877551],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_acf4f81326ef4683ba07c90acc361f24 = L.popup({"maxWidth": 450});
+
+        
+            var html_3f5767ddc9df4084b4b239df22a2aa69 = $(`<div id="html_3f5767ddc9df4084b4b239df22a2aa69" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Daruma Ramen</td>       <td>0.225</td>       <td>0.057</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_acf4f81326ef4683ba07c90acc361f24.setContent(html_3f5767ddc9df4084b4b239df22a2aa69);
+        
+
+        marker_4ad29c1f6360438499830bb65ce95a7d.bindPopup(popup_acf4f81326ef4683ba07c90acc361f24)
+        ;
+
+        
+    
+    
+            var marker_dce63cd1c8eb49b3af5753e288b1b717 = L.marker(
+                [30.30680295, -97.7105863050687],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_95949250eeab4918a64dcef620324dff = L.popup({"maxWidth": 450});
+
+        
+            var html_cb44a4187eef4b80a1908d45f79b0337 = $(`<div id="html_cb44a4187eef4b80a1908d45f79b0337" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Woko Loco</td>       <td>0.227</td>       <td>0.045</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_95949250eeab4918a64dcef620324dff.setContent(html_cb44a4187eef4b80a1908d45f79b0337);
+        
+
+        marker_dce63cd1c8eb49b3af5753e288b1b717.bindPopup(popup_95949250eeab4918a64dcef620324dff)
+        ;
+
+        
+    
+    
+            var marker_dbc644a06b25463d9db8ab9846708b06 = L.marker(
+                [30.304203899999997, -97.7639981252746],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_a41b81e952084f24b9fac2b8dc19d4f6 = L.popup({"maxWidth": 450});
+
+        
+            var html_03df98c793854c11ae081729e4056857 = $(`<div id="html_03df98c793854c11ae081729e4056857" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Food Food</td>       <td>0.224</td>       <td>0.038</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_a41b81e952084f24b9fac2b8dc19d4f6.setContent(html_03df98c793854c11ae081729e4056857);
+        
+
+        marker_dbc644a06b25463d9db8ab9846708b06.bindPopup(popup_a41b81e952084f24b9fac2b8dc19d4f6)
+        ;
+
+        
+    
+    
+            var marker_18537b4ab11f4c03b7199f29b966c703 = L.marker(
+                [30.268734999999996, -97.742174],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_ecf30e717e9b4a35973b48e0daebfa3f = L.popup({"maxWidth": 450});
+
+        
+            var html_411849e2df1d4f508e40ef0375920a41 = $(`<div id="html_411849e2df1d4f508e40ef0375920a41" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Caroline</td>       <td>0.324</td>       <td>0.037</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_ecf30e717e9b4a35973b48e0daebfa3f.setContent(html_411849e2df1d4f508e40ef0375920a41);
+        
+
+        marker_18537b4ab11f4c03b7199f29b966c703.bindPopup(popup_ecf30e717e9b4a35973b48e0daebfa3f)
+        ;
+
+        
+    
+    
+            var marker_6f78bafe9cbd48deb600dd3780505588 = L.marker(
+                [30.258429200000002, -97.73866579999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_51a1f1cd3c3e48b6a7a0a88f61897cc8 = L.popup({"maxWidth": 450});
+
+        
+            var html_fdb9c47e58d4481f9b766780ec8a8b66 = $(`<div id="html_fdb9c47e58d4481f9b766780ec8a8b66" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Monk闂佺偨鍎查悰锟� Momo</td>       <td>0.219</td>       <td>0.028</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_51a1f1cd3c3e48b6a7a0a88f61897cc8.setContent(html_fdb9c47e58d4481f9b766780ec8a8b66);
+        
+
+        marker_6f78bafe9cbd48deb600dd3780505588.bindPopup(popup_51a1f1cd3c3e48b6a7a0a88f61897cc8)
+        ;
+
+        
+    
+    
+            var marker_4c47ee52622942bcb6ae70d32da47474 = L.marker(
+                [30.266484000000002, -97.738509],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_6a77014d875140cc8df49f80c9fdf66b = L.popup({"maxWidth": 450});
+
+        
+            var html_9f2fa360aca949d8a5995c1b9a434822 = $(`<div id="html_9f2fa360aca949d8a5995c1b9a434822" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Chez Nous</td>       <td>0.273</td>       <td>0.03</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_6a77014d875140cc8df49f80c9fdf66b.setContent(html_9f2fa360aca949d8a5995c1b9a434822);
+        
+
+        marker_4c47ee52622942bcb6ae70d32da47474.bindPopup(popup_6a77014d875140cc8df49f80c9fdf66b)
+        ;
+
+        
+    
+    
+            var marker_6bbac7e952624664a2a7babe4d840e5f = L.marker(
+                [30.271807, -97.75402700000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_d3f1316901db415f8307247b3f6fae76 = L.popup({"maxWidth": 450});
+
+        
+            var html_9854b603e53247108453d56d5389fa29 = $(`<div id="html_9854b603e53247108453d56d5389fa29" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>24 Diner</td>       <td>0.217</td>       <td>0.057</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_d3f1316901db415f8307247b3f6fae76.setContent(html_9854b603e53247108453d56d5389fa29);
+        
+
+        marker_6bbac7e952624664a2a7babe4d840e5f.bindPopup(popup_d3f1316901db415f8307247b3f6fae76)
+        ;
+
+        
+    
+    
+            var marker_0465cb6be6634de0bf1e86d4c3aa85d3 = L.marker(
+                [30.3153668, -97.7347286],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_4ee6ef485aa34faa88182bd217d67aa0 = L.popup({"maxWidth": 450});
+
+        
+            var html_5c905a7bb12c4a55a7700f9f0d58a21d = $(`<div id="html_5c905a7bb12c4a55a7700f9f0d58a21d" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Hopdoddy Burger Bar</td>       <td>0.183</td>       <td>0.071</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4ee6ef485aa34faa88182bd217d67aa0.setContent(html_5c905a7bb12c4a55a7700f9f0d58a21d);
+        
+
+        marker_0465cb6be6634de0bf1e86d4c3aa85d3.bindPopup(popup_4ee6ef485aa34faa88182bd217d67aa0)
+        ;
+
+        
+    
+    
+            var marker_323c181eca5e459bb66767d9d3e0bbca = L.marker(
+                [30.2477798, -97.7712772],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_4f71eb1a595d49b7a90e00006a328612 = L.popup({"maxWidth": 450});
+
+        
+            var html_ffcf3364a1ec4386aa680e70bbe3faa0 = $(`<div id="html_ffcf3364a1ec4386aa680e70bbe3faa0" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Loro</td>       <td>0.24</td>       <td>0.036</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4f71eb1a595d49b7a90e00006a328612.setContent(html_ffcf3364a1ec4386aa680e70bbe3faa0);
+        
+
+        marker_323c181eca5e459bb66767d9d3e0bbca.bindPopup(popup_4f71eb1a595d49b7a90e00006a328612)
+        ;
+
+        
+    
+    
+            var marker_951b63d0201c4f76bfd9373bad42a7ee = L.marker(
+                [30.269618400000002, -97.7363666],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_4bb0fe21e5264163bd27fd50ed245e12 = L.popup({"maxWidth": 450});
+
+        
+            var html_b23d6fd774bc456fa4f4cebb4a830208 = $(`<div id="html_b23d6fd774bc456fa4f4cebb4a830208" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Arlo闂佺偨鍎查悰锟�</td>       <td>0.258</td>       <td>0.072</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4bb0fe21e5264163bd27fd50ed245e12.setContent(html_b23d6fd774bc456fa4f4cebb4a830208);
+        
+
+        marker_951b63d0201c4f76bfd9373bad42a7ee.bindPopup(popup_4bb0fe21e5264163bd27fd50ed245e12)
+        ;
+
+        
+    
+    
+            var marker_57a729df42bf49eda4ac952422711e16 = L.marker(
+                [30.2464855, -97.75678238405371],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_413800c2904b458bb09e12745144dfcd = L.popup({"maxWidth": 450});
+
+        
+            var html_b07a058d02244d59a403d16ed610e021 = $(`<div id="html_b07a058d02244d59a403d16ed610e021" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Bouldin Creek Cafe</td>       <td>0.277</td>       <td>0.032</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_413800c2904b458bb09e12745144dfcd.setContent(html_b07a058d02244d59a403d16ed610e021);
+        
+
+        marker_57a729df42bf49eda4ac952422711e16.bindPopup(popup_413800c2904b458bb09e12745144dfcd)
+        ;
+
+        
+    
+    
+            var marker_3642f1c1874c463a905705ec619ffd32 = L.marker(
+                [30.310695000000003, -97.7151758693468],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_d57961cd20924639bc0151eb314fa0b2 = L.popup({"maxWidth": 450});
+
+        
+            var html_4f90eeb9dc0a4a88b40766cc83d24001 = $(`<div id="html_4f90eeb9dc0a4a88b40766cc83d24001" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Sa-Ten</td>       <td>0.234</td>       <td>0.025</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_d57961cd20924639bc0151eb314fa0b2.setContent(html_4f90eeb9dc0a4a88b40766cc83d24001);
+        
+
+        marker_3642f1c1874c463a905705ec619ffd32.bindPopup(popup_d57961cd20924639bc0151eb314fa0b2)
+        ;
+
+        
+    
+    
+            var marker_74dea3acd37645708447bf1a49acde46 = L.marker(
+                [30.3556658, -97.73491717838439],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_249516ef69364c78b7860db79d464cf4 = L.popup({"maxWidth": 450});
+
+        
+            var html_e87f2c35909847eea434224b16a6b201 = $(`<div id="html_e87f2c35909847eea434224b16a6b201" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Hi Wings</td>       <td>0.345</td>       <td>0.025</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_249516ef69364c78b7860db79d464cf4.setContent(html_e87f2c35909847eea434224b16a6b201);
+        
+
+        marker_74dea3acd37645708447bf1a49acde46.bindPopup(popup_249516ef69364c78b7860db79d464cf4)
+        ;
+
+        
+    
+    
+            var marker_f62acbc885544070ac7c796ec33a00cd = L.marker(
+                [30.257551300000003, -97.75976419999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_a45160b1bd314d80a82da69eee3ea4e1 = L.popup({"maxWidth": 450});
+
+        
+            var html_54e23e9358e844038e47fc75b5408cea = $(`<div id="html_54e23e9358e844038e47fc75b5408cea" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Uchi</td>       <td>0.281</td>       <td>0.032</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_a45160b1bd314d80a82da69eee3ea4e1.setContent(html_54e23e9358e844038e47fc75b5408cea);
+        
+
+        marker_f62acbc885544070ac7c796ec33a00cd.bindPopup(popup_a45160b1bd314d80a82da69eee3ea4e1)
+        ;
+
+        
+    
+    
+            var marker_ac19a8dca8d14396ad93f34414a26a06 = L.marker(
+                [30.269533199999998, -97.7475417],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_e7afaa28d94f427daf2a42e78a0c07c9 = L.popup({"maxWidth": 450});
+
+        
+            var html_dc4c66bb271747afa66ba4a834bdf45c = $(`<div id="html_dc4c66bb271747afa66ba4a834bdf45c" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Sophia闂佺偨鍎查悰锟�</td>       <td>0.234</td>       <td>0.053</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_e7afaa28d94f427daf2a42e78a0c07c9.setContent(html_dc4c66bb271747afa66ba4a834bdf45c);
+        
+
+        marker_ac19a8dca8d14396ad93f34414a26a06.bindPopup(popup_e7afaa28d94f427daf2a42e78a0c07c9)
+        ;
+
+        
+    
+    
+            var marker_33e705396bfd47fd8f3291cf94315b4c = L.marker(
+                [30.2704483, -97.74167740000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_d49d488bcc664d77adb2cd9e90dae95f = L.popup({"maxWidth": 450});
+
+        
+            var html_66be7b7d539b4f07b4f606a9bb33fd15 = $(`<div id="html_66be7b7d539b4f07b4f606a9bb33fd15" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Chi闂佺偨鍎查埞鍝竛tro</td>       <td>0.217</td>       <td>0.032</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_d49d488bcc664d77adb2cd9e90dae95f.setContent(html_66be7b7d539b4f07b4f606a9bb33fd15);
+        
+
+        marker_33e705396bfd47fd8f3291cf94315b4c.bindPopup(popup_d49d488bcc664d77adb2cd9e90dae95f)
+        ;
+
+        
+    
+    
+            var marker_35131663a283409690271ae4c16ba82f = L.marker(
+                [30.284055900000002, -97.721778],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_13d5bfb4ba10460ea59d9d8715b3041d = L.popup({"maxWidth": 450});
+
+        
+            var html_d93839847b544559b99e1d437c5541ed = $(`<div id="html_d93839847b544559b99e1d437c5541ed" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Yuyo</td>       <td>0.23</td>       <td>0.084</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_13d5bfb4ba10460ea59d9d8715b3041d.setContent(html_d93839847b544559b99e1d437c5541ed);
+        
+
+        marker_35131663a283409690271ae4c16ba82f.bindPopup(popup_13d5bfb4ba10460ea59d9d8715b3041d)
+        ;
+
+        
+    
+    
+            var marker_a0484b1936854c31a22fea6ade1e2eee = L.marker(
+                [30.2586146, -97.7587092752125],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_c0e6f8b9f8a84cdd9cb7b6b88e1e0350 = L.popup({"maxWidth": 450});
+
+        
+            var html_ad2b2dc234a94d3eb46a3e41245da2c0 = $(`<div id="html_ad2b2dc234a94d3eb46a3e41245da2c0" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Eberly</td>       <td>0.254</td>       <td>0.052</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_c0e6f8b9f8a84cdd9cb7b6b88e1e0350.setContent(html_ad2b2dc234a94d3eb46a3e41245da2c0);
+        
+
+        marker_a0484b1936854c31a22fea6ade1e2eee.bindPopup(popup_c0e6f8b9f8a84cdd9cb7b6b88e1e0350)
+        ;
+
+        
+    
+    
+            var marker_ad20b62610914cdb8aa5bb474150183a = L.marker(
+                [30.299483000000002, -97.708043],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_c09b198778cf431c9a42670e1f4d998e = L.popup({"maxWidth": 450});
+
+        
+            var html_3187e75e0ac347d3a5c82667d1c8a140 = $(`<div id="html_3187e75e0ac347d3a5c82667d1c8a140" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Ky闁艰�勫Рen Sushiko</td>       <td>0.249</td>       <td>0.024</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_c09b198778cf431c9a42670e1f4d998e.setContent(html_3187e75e0ac347d3a5c82667d1c8a140);
+        
+
+        marker_ad20b62610914cdb8aa5bb474150183a.bindPopup(popup_c09b198778cf431c9a42670e1f4d998e)
+        ;
+
+        
+    
+    
+            var marker_a77d59d125f0473391152ee107e31160 = L.marker(
+                [30.323263, -97.7275775],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_c0ec049c7c404072ac14ed42e4e332b3 = L.popup({"maxWidth": 450});
+
+        
+            var html_4c9b4fcb724f490584a1532d01fcce37 = $(`<div id="html_4c9b4fcb724f490584a1532d01fcce37" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Nervous Charlie闂佺偨鍎查悰锟�</td>       <td>0.253</td>       <td>0.047</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_c0ec049c7c404072ac14ed42e4e332b3.setContent(html_4c9b4fcb724f490584a1532d01fcce37);
+        
+
+        marker_a77d59d125f0473391152ee107e31160.bindPopup(popup_c0ec049c7c404072ac14ed42e4e332b3)
+        ;
+
+        
+    
+    
+            var marker_ddc8fd6014384ebfa6be58eba0b23add = L.marker(
+                [30.250154, -97.754683],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_3d5a341aca6b40c7a20c1f16c025cbc7 = L.popup({"maxWidth": 450});
+
+        
+            var html_1bf8961aa79540e399dc89ddfb38942f = $(`<div id="html_1bf8961aa79540e399dc89ddfb38942f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Sway</td>       <td>0.23</td>       <td>0.038</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3d5a341aca6b40c7a20c1f16c025cbc7.setContent(html_1bf8961aa79540e399dc89ddfb38942f);
+        
+
+        marker_ddc8fd6014384ebfa6be58eba0b23add.bindPopup(popup_3d5a341aca6b40c7a20c1f16c025cbc7)
+        ;
+
+        
+    
+    
+            var marker_7b45897d0ff74545887dfb9aa1de35e1 = L.marker(
+                [30.310769899999997, -97.7398856],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_5634776d08894accb3600e180164f266 = L.popup({"maxWidth": 450});
+
+        
+            var html_55c3a9ff908a42a49707fa1eeb40e92a = $(`<div id="html_55c3a9ff908a42a49707fa1eeb40e92a" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Uchiko</td>       <td>0.238</td>       <td>0.039</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_5634776d08894accb3600e180164f266.setContent(html_55c3a9ff908a42a49707fa1eeb40e92a);
+        
+
+        marker_7b45897d0ff74545887dfb9aa1de35e1.bindPopup(popup_5634776d08894accb3600e180164f266)
+        ;
+
+        
+    
+    
+            var marker_d6df8f0c84794f1f82f4351352f6488e = L.marker(
+                [30.287805300000002, -97.70337370000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_b283915fa7ab4dc69ae29cfed55da326 = L.popup({"maxWidth": 450});
+
+        
+            var html_4f88c71084dd492e868c066d2c1dd6d8 = $(`<div id="html_4f88c71084dd492e868c066d2c1dd6d8" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Contigo</td>       <td>0.235</td>       <td>0.042</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_b283915fa7ab4dc69ae29cfed55da326.setContent(html_4f88c71084dd492e868c066d2c1dd6d8);
+        
+
+        marker_d6df8f0c84794f1f82f4351352f6488e.bindPopup(popup_b283915fa7ab4dc69ae29cfed55da326)
+        ;
+
+        
+    
+    
+            var marker_1714345c1f8d416aae55a7cb32d96322 = L.marker(
+                [30.30680295, -97.7105863050687],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_7b78711331f144398a295c7fe801d92f = L.popup({"maxWidth": 450});
+
+        
+            var html_f4a179b56fe2488a8bf3884606bbfa45 = $(`<div id="html_f4a179b56fe2488a8bf3884606bbfa45" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Pokeatery</td>       <td>0.393</td>       <td>0.019</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_7b78711331f144398a295c7fe801d92f.setContent(html_f4a179b56fe2488a8bf3884606bbfa45);
+        
+
+        marker_1714345c1f8d416aae55a7cb32d96322.bindPopup(popup_7b78711331f144398a295c7fe801d92f)
+        ;
+
+        
+    
+    
+            var marker_18bffbcc3d9842518ffebc3ca8c2e551 = L.marker(
+                [30.263154999999998, -97.72591899999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_dda30ff341014e58a559f743da9024e0 = L.popup({"maxWidth": 450});
+
+        
+            var html_7b528a1834a74acf8c5575d318863361 = $(`<div id="html_7b528a1834a74acf8c5575d318863361" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Domo Alley Gato</td>       <td>0.227</td>       <td>0.062</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_dda30ff341014e58a559f743da9024e0.setContent(html_7b528a1834a74acf8c5575d318863361);
+        
+
+        marker_18bffbcc3d9842518ffebc3ca8c2e551.bindPopup(popup_dda30ff341014e58a559f743da9024e0)
+        ;
+
+        
+    
+    
+            var marker_4de158157fb4494fb15fa4122ba90897 = L.marker(
+                [30.2558955, -97.7317072],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_a8583e0a1fc540dbb74ea1a6973f6dc8 = L.popup({"maxWidth": 450});
+
+        
+            var html_d5e8bb7c78ff4bc594477acd65243e53 = $(`<div id="html_d5e8bb7c78ff4bc594477acd65243e53" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Juniper</td>       <td>0.231</td>       <td>0.06</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_a8583e0a1fc540dbb74ea1a6973f6dc8.setContent(html_d5e8bb7c78ff4bc594477acd65243e53);
+        
+
+        marker_4de158157fb4494fb15fa4122ba90897.bindPopup(popup_a8583e0a1fc540dbb74ea1a6973f6dc8)
+        ;
+
+        
+    
+    
+            var marker_8a83ff2640cc4115a24476ac73d90a26 = L.marker(
+                [30.226028000000003, -97.761894],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_0eff9743146f4dfb9b9da4de65145de4 = L.popup({"maxWidth": 450});
+
+        
+            var html_4b72723e689c4e819930ad6ffb69b6e6 = $(`<div id="html_4b72723e689c4e819930ad6ffb69b6e6" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Taste of Ethiopia</td>       <td>0.285</td>       <td>0.028</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_0eff9743146f4dfb9b9da4de65145de4.setContent(html_4b72723e689c4e819930ad6ffb69b6e6);
+        
+
+        marker_8a83ff2640cc4115a24476ac73d90a26.bindPopup(popup_0eff9743146f4dfb9b9da4de65145de4)
+        ;
+
+        
+    
+    
+            var marker_97b5b33d77e44cb080d48c83c1871f2b = L.marker(
+                [30.308543, -97.715374],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_59213eaeeffa4171852ee82cbf3d60cd = L.popup({"maxWidth": 450});
+
+        
+            var html_521b853bc0ac4a37a7c25ec84b95c91b = $(`<div id="html_521b853bc0ac4a37a7c25ec84b95c91b" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Vamonos</td>       <td>0.316</td>       <td>0.029</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_59213eaeeffa4171852ee82cbf3d60cd.setContent(html_521b853bc0ac4a37a7c25ec84b95c91b);
+        
+
+        marker_97b5b33d77e44cb080d48c83c1871f2b.bindPopup(popup_59213eaeeffa4171852ee82cbf3d60cd)
+        ;
+
+        
+    
+    
+            var marker_09229534d8804239abe3d9261d9ca5dd = L.marker(
+                [30.2558955, -97.7317072],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_85c17a4070794836be6b0c031e6dacb1 = L.popup({"maxWidth": 450});
+
+        
+            var html_f6e3a51b0c194f6f9c4244ef17758fed = $(`<div id="html_f6e3a51b0c194f6f9c4244ef17758fed" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Bufalina</td>       <td>0.234</td>       <td>0.045</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_85c17a4070794836be6b0c031e6dacb1.setContent(html_f6e3a51b0c194f6f9c4244ef17758fed);
+        
+
+        marker_09229534d8804239abe3d9261d9ca5dd.bindPopup(popup_85c17a4070794836be6b0c031e6dacb1)
+        ;
+
+        
+    
+    
+            var marker_1913b50672904fac9e7f8c407996f9b3 = L.marker(
+                [30.2361072, -97.7958917],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_28dfa8716f7f4c8e88138e19826cdb89 = L.popup({"maxWidth": 450});
+
+        
+            var html_60ef36011ede4b308ca18901bcb864ee = $(`<div id="html_60ef36011ede4b308ca18901bcb864ee" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Pinthouse Pizza</td>       <td>0.278</td>       <td>0.018</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_28dfa8716f7f4c8e88138e19826cdb89.setContent(html_60ef36011ede4b308ca18901bcb864ee);
+        
+
+        marker_1913b50672904fac9e7f8c407996f9b3.bindPopup(popup_28dfa8716f7f4c8e88138e19826cdb89)
+        ;
+
+        
+    
+    
+            var marker_ac93f0f80a0d4abd9b52b545fc9513a3 = L.marker(
+                [30.267202, -97.740299],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_82160c47989f46afb51f2d7ea1970809 = L.popup({"maxWidth": 450});
+
+        
+            var html_7ab0bdf37f1242609e0139de1ee91af1 = $(`<div id="html_7ab0bdf37f1242609e0139de1ee91af1" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Parkside</td>       <td>0.225</td>       <td>0.049</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_82160c47989f46afb51f2d7ea1970809.setContent(html_7ab0bdf37f1242609e0139de1ee91af1);
+        
+
+        marker_ac93f0f80a0d4abd9b52b545fc9513a3.bindPopup(popup_82160c47989f46afb51f2d7ea1970809)
+        ;
+
+        
+    
+    
+            var marker_66cf428d3cf44edb9a4cc4e5c3a8120b = L.marker(
+                [30.39454305, -97.74758060217958],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_e4ae8f406d694ff0abc50f650a1abf34 = L.popup({"maxWidth": 450});
+
+        
+            var html_e71778639cd54c6598de970da945b92c = $(`<div id="html_e71778639cd54c6598de970da945b92c" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Honest Mary闂佺偨鍎查悰锟�</td>       <td>0.225</td>       <td>0.066</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_e4ae8f406d694ff0abc50f650a1abf34.setContent(html_e71778639cd54c6598de970da945b92c);
+        
+
+        marker_66cf428d3cf44edb9a4cc4e5c3a8120b.bindPopup(popup_e4ae8f406d694ff0abc50f650a1abf34)
+        ;
+
+        
+    
+    
+            var marker_0f687eba0f194aeaa6dcc46e2660975f = L.marker(
+                [30.288551000000002, -97.741762],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_3145c6c8350946f7ae737e250e7f54bf = L.popup({"maxWidth": 450});
+
+        
+            var html_23a1bbeb3fa243f1b6d1cf02937a8f56 = $(`<div id="html_23a1bbeb3fa243f1b6d1cf02937a8f56" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>CAVA</td>       <td>0.307</td>       <td>0.041</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3145c6c8350946f7ae737e250e7f54bf.setContent(html_23a1bbeb3fa243f1b6d1cf02937a8f56);
+        
+
+        marker_0f687eba0f194aeaa6dcc46e2660975f.bindPopup(popup_3145c6c8350946f7ae737e250e7f54bf)
+        ;
+
+        
+    
+    
+            var marker_019f7d42affb4178a58f369899fbbb78 = L.marker(
+                [30.261987, -97.73862700000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_16e8571b04a942c79cffff0c41f7bd1c = L.popup({"maxWidth": 450});
+
+        
+            var html_4fac627871944d2bb9a5e8f2693c670b = $(`<div id="html_4fac627871944d2bb9a5e8f2693c670b" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Garrison</td>       <td>0.304</td>       <td>0.013</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_16e8571b04a942c79cffff0c41f7bd1c.setContent(html_4fac627871944d2bb9a5e8f2693c670b);
+        
+
+        marker_019f7d42affb4178a58f369899fbbb78.bindPopup(popup_16e8571b04a942c79cffff0c41f7bd1c)
+        ;
+
+        
+    
+    
+            var marker_51c4c2b715a944fb89b241f0efb2736d = L.marker(
+                [30.324299, -97.740202],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_21a856a4b37d4ccf9824fa56ada87c4f = L.popup({"maxWidth": 450});
+
+        
+            var html_51270a7e75984b18b54fe9132408666f = $(`<div id="html_51270a7e75984b18b54fe9132408666f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Chi闂佺偨鍎查埞鍝竛tro</td>       <td>0.262</td>       <td>0.041</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_21a856a4b37d4ccf9824fa56ada87c4f.setContent(html_51270a7e75984b18b54fe9132408666f);
+        
+
+        marker_51c4c2b715a944fb89b241f0efb2736d.bindPopup(popup_21a856a4b37d4ccf9824fa56ada87c4f)
+        ;
+
+        
+    
+    
+            var marker_58e0f8bc4e9147b790044e565a0cd910 = L.marker(
+                [30.258370000000003, -97.72761283947371],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_302a13853262407c99d8d8245a0ed974 = L.popup({"maxWidth": 450});
+
+        
+            var html_c001c0e63d844e14b3567f3c70255265 = $(`<div id="html_c001c0e63d844e14b3567f3c70255265" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Oseyo</td>       <td>0.303</td>       <td>0.055</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_302a13853262407c99d8d8245a0ed974.setContent(html_c001c0e63d844e14b3567f3c70255265);
+        
+
+        marker_58e0f8bc4e9147b790044e565a0cd910.bindPopup(popup_302a13853262407c99d8d8245a0ed974)
+        ;
+
+        
+    
+    
+            var marker_13e0e578f1494a888d9c084af41f20bd = L.marker(
+                [30.264107, -97.7301343282736],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_99132591096b4d08b4fb6ebae744f6cf = L.popup({"maxWidth": 450});
+
+        
+            var html_6c13558719024682830aca8aeb7b44b6 = $(`<div id="html_6c13558719024682830aca8aeb7b44b6" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Boteco</td>       <td>0.347</td>       <td>0.023</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_99132591096b4d08b4fb6ebae744f6cf.setContent(html_6c13558719024682830aca8aeb7b44b6);
+        
+
+        marker_13e0e578f1494a888d9c084af41f20bd.bindPopup(popup_99132591096b4d08b4fb6ebae744f6cf)
+        ;
+
+        
+    
+    
+            var marker_7c8a5836577640a1bca58c9d0059363f = L.marker(
+                [30.3111895, -97.7150807473152],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_159aad043c7f4d8fafcd3a1bd2dc91e4 = L.popup({"maxWidth": 450});
+
+        
+            var html_a3f64452382645429aaceb1f27def2a2 = $(`<div id="html_a3f64452382645429aaceb1f27def2a2" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Bun Belly</td>       <td>0.225</td>       <td>0.038</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_159aad043c7f4d8fafcd3a1bd2dc91e4.setContent(html_a3f64452382645429aaceb1f27def2a2);
+        
+
+        marker_7c8a5836577640a1bca58c9d0059363f.bindPopup(popup_159aad043c7f4d8fafcd3a1bd2dc91e4)
+        ;
+
+        
+    
+    
+            var marker_78cbea79a20447bf8ba99b6e317a3e02 = L.marker(
+                [30.265065000000003, -97.738623],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_1aaac025a02643adafb3e2a7906b8234 = L.popup({"maxWidth": 450});
+
+        
+            var html_1024f3c2286c4e21966e4ea085d54918 = $(`<div id="html_1024f3c2286c4e21966e4ea085d54918" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Austin Taco Project</td>       <td>0.27</td>       <td>0.035</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_1aaac025a02643adafb3e2a7906b8234.setContent(html_1024f3c2286c4e21966e4ea085d54918);
+        
+
+        marker_78cbea79a20447bf8ba99b6e317a3e02.bindPopup(popup_1aaac025a02643adafb3e2a7906b8234)
+        ;
+
+        
+    
+    
+            var marker_ece1cf9491434708ba09796dcb74c808 = L.marker(
+                [30.279248499999998, -97.6871767],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_33c25ba06f154e50a194cdd47cb147d8 = L.popup({"maxWidth": 450});
+
+        
+            var html_c11a6c3a9e31493f969bdf5777fd5336 = $(`<div id="html_c11a6c3a9e31493f969bdf5777fd5336" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Country Boyz Fixins</td>       <td>0.326</td>       <td>0.0</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_33c25ba06f154e50a194cdd47cb147d8.setContent(html_c11a6c3a9e31493f969bdf5777fd5336);
+        
+
+        marker_ece1cf9491434708ba09796dcb74c808.bindPopup(popup_33c25ba06f154e50a194cdd47cb147d8)
+        ;
+
+        
+    
+    
+            var marker_31ad686a485c4cc882aadec23f598d18 = L.marker(
+                [30.260670299999997, -97.73826590000002],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_4720dce49f3f408781a07709c57d99a8 = L.popup({"maxWidth": 450});
+
+        
+            var html_65b2831028474757aab6244cd83264c8 = $(`<div id="html_65b2831028474757aab6244cd83264c8" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Tommy Want Wingy</td>       <td>0.273</td>       <td>0.033</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4720dce49f3f408781a07709c57d99a8.setContent(html_65b2831028474757aab6244cd83264c8);
+        
+
+        marker_31ad686a485c4cc882aadec23f598d18.bindPopup(popup_4720dce49f3f408781a07709c57d99a8)
+        ;
+
+        
+    
+    
+            var marker_00b38b02be864046833f8f5ad65ab3a3 = L.marker(
+                [30.2538348, -97.7129409269258],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_f701c83489014eb995287d7629048452 = L.popup({"maxWidth": 450});
+
+        
+            var html_227062915f434422a27b58dd17c7183f = $(`<div id="html_227062915f434422a27b58dd17c7183f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Kemuri Tatsu-ya</td>       <td>0.235</td>       <td>0.043</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_f701c83489014eb995287d7629048452.setContent(html_227062915f434422a27b58dd17c7183f);
+        
+
+        marker_00b38b02be864046833f8f5ad65ab3a3.bindPopup(popup_f701c83489014eb995287d7629048452)
+        ;
+
+        
+    
+    
+            var marker_1673980d32c7446ab425c69211220689 = L.marker(
+                [30.3410897, -97.7383417],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_dc3d80c8ea6a451c8e02df5efe2e56bc = L.popup({"maxWidth": 450});
+
+        
+            var html_4648e4ae45c3460eaa3b670b15d8c72d = $(`<div id="html_4648e4ae45c3460eaa3b670b15d8c72d" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Barley Swine</td>       <td>0.242</td>       <td>0.036</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_dc3d80c8ea6a451c8e02df5efe2e56bc.setContent(html_4648e4ae45c3460eaa3b670b15d8c72d);
+        
+
+        marker_1673980d32c7446ab425c69211220689.bindPopup(popup_dc3d80c8ea6a451c8e02df5efe2e56bc)
+        ;
+
+        
+    
+    
+            var marker_ed596069821e41c7b320aa8cb2fab9ec = L.marker(
+                [30.265983799999997, -97.7493412],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_cd863a9b1c7044a18403036412168430 = L.popup({"maxWidth": 450});
+
+        
+            var html_17e0495f2a784554aedefae491552774 = $(`<div id="html_17e0495f2a784554aedefae491552774" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>North Italia</td>       <td>0.261</td>       <td>0.031</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_cd863a9b1c7044a18403036412168430.setContent(html_17e0495f2a784554aedefae491552774);
+        
+
+        marker_ed596069821e41c7b320aa8cb2fab9ec.bindPopup(popup_cd863a9b1c7044a18403036412168430)
+        ;
+
+        
+    
+    
+            var marker_4eae356257e247128280b13b0061e5ed = L.marker(
+                [30.340303000000002, -97.73855999999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_010d4894dbbc4205bde041209572c388 = L.popup({"maxWidth": 450});
+
+        
+            var html_333e027efe1f4148af34d2904b3bc1c9 = $(`<div id="html_333e027efe1f4148af34d2904b3bc1c9" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Three Little Pigs</td>       <td>0.213</td>       <td>0.028</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_010d4894dbbc4205bde041209572c388.setContent(html_333e027efe1f4148af34d2904b3bc1c9);
+        
+
+        marker_4eae356257e247128280b13b0061e5ed.bindPopup(popup_010d4894dbbc4205bde041209572c388)
+        ;
+
+        
+    
+    
+            var marker_e3e1ea7dbf3f4106ab8375498bb02420 = L.marker(
+                [30.265855100000003, -97.7446626872605],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_9f824d6423a64e6b8aacb233438dce24 = L.popup({"maxWidth": 450});
+
+        
+            var html_58d726a0666446819bf9bc9182fd7dea = $(`<div id="html_58d726a0666446819bf9bc9182fd7dea" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Red Ash</td>       <td>0.283</td>       <td>0.038</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_9f824d6423a64e6b8aacb233438dce24.setContent(html_58d726a0666446819bf9bc9182fd7dea);
+        
+
+        marker_e3e1ea7dbf3f4106ab8375498bb02420.bindPopup(popup_9f824d6423a64e6b8aacb233438dce24)
+        ;
+
+        
+    
+    
+            var marker_046021cc333a4b53baeae9c63ed007b2 = L.marker(
+                [30.3071215, -97.75113456653229],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_b234c3e122514895bc07a1753e904f4e = L.popup({"maxWidth": 450});
+
+        
+            var html_1ed222c8f3a24d248c01f4185b3bc222 = $(`<div id="html_1ed222c8f3a24d248c01f4185b3bc222" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Olive &amp; June</td>       <td>0.274</td>       <td>0.038</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_b234c3e122514895bc07a1753e904f4e.setContent(html_1ed222c8f3a24d248c01f4185b3bc222);
+        
+
+        marker_046021cc333a4b53baeae9c63ed007b2.bindPopup(popup_b234c3e122514895bc07a1753e904f4e)
+        ;
+
+        
+    
+    
+            var marker_692b33916b37421498cf7cca74dbed74 = L.marker(
+                [30.366346999999998, -97.739207],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_3e8a037a59f54e8bbb4759b39aa97b8b = L.popup({"maxWidth": 450});
+
+        
+            var html_afe7ce1ab26f48cc9364ee3412ff91dd = $(`<div id="html_afe7ce1ab26f48cc9364ee3412ff91dd" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Brama Restaurant</td>       <td>0.326</td>       <td>0.019</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3e8a037a59f54e8bbb4759b39aa97b8b.setContent(html_afe7ce1ab26f48cc9364ee3412ff91dd);
+        
+
+        marker_692b33916b37421498cf7cca74dbed74.bindPopup(popup_3e8a037a59f54e8bbb4759b39aa97b8b)
+        ;
+
+        
+    
+    
+            var marker_85802cd9e79e46dbbd0a9fc090d4550b = L.marker(
+                [30.267011877551, -97.74572318367349],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_616241db51d44df29322a92bbe0ed473 = L.popup({"maxWidth": 450});
+
+        
+            var html_79bec85c49074caf9f86bc0a97718558 = $(`<div id="html_79bec85c49074caf9f86bc0a97718558" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Turf N Surf Po闂佺偨鍎婚幏锟� Boy</td>       <td>0.214</td>       <td>0.084</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_616241db51d44df29322a92bbe0ed473.setContent(html_79bec85c49074caf9f86bc0a97718558);
+        
+
+        marker_85802cd9e79e46dbbd0a9fc090d4550b.bindPopup(popup_616241db51d44df29322a92bbe0ed473)
+        ;
+
+        
+    
+    
+            var marker_4547b3c069bd4e8280649161e836183d = L.marker(
+                [30.361094, -97.7156191],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_ffaf1fdcff5a40e1a3ee146d97b70d21 = L.popup({"maxWidth": 450});
+
+        
+            var html_53d721236c9a4a1cb1d97a12e558cd7b = $(`<div id="html_53d721236c9a4a1cb1d97a12e558cd7b" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Ramen Tatsu-Ya</td>       <td>0.212</td>       <td>0.055</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_ffaf1fdcff5a40e1a3ee146d97b70d21.setContent(html_53d721236c9a4a1cb1d97a12e558cd7b);
+        
+
+        marker_4547b3c069bd4e8280649161e836183d.bindPopup(popup_ffaf1fdcff5a40e1a3ee146d97b70d21)
+        ;
+
+        
+    
+    
+            var marker_d6853f6a6bfb4666a053d50aa4f0ea87 = L.marker(
+                [30.2532275, -97.7005505],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_c505810cc80e4884bdc83cae4e6fe63c = L.popup({"maxWidth": 450});
+
+        
+            var html_302265daf871402e8c3d7a9dc89e82bc = $(`<div id="html_302265daf871402e8c3d7a9dc89e82bc" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Justine闂佺偨鍎查悰锟� Brasserie</td>       <td>0.225</td>       <td>0.045</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_c505810cc80e4884bdc83cae4e6fe63c.setContent(html_302265daf871402e8c3d7a9dc89e82bc);
+        
+
+        marker_d6853f6a6bfb4666a053d50aa4f0ea87.bindPopup(popup_c505810cc80e4884bdc83cae4e6fe63c)
+        ;
+
+        
+    
+    
+            var marker_b1d5243371f5422f86b23d89de81494b = L.marker(
+                [30.2528045, -97.7021935],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_d5d6e415ced6448a9b15656b7973b230 = L.popup({"maxWidth": 450});
+
+        
+            var html_0262152fbbc448c38c50a050827a604a = $(`<div id="html_0262152fbbc448c38c50a050827a604a" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>The Brewer闂佺偨鍎查悰锟� Table</td>       <td>0.32</td>       <td>0.022</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_d5d6e415ced6448a9b15656b7973b230.setContent(html_0262152fbbc448c38c50a050827a604a);
+        
+
+        marker_b1d5243371f5422f86b23d89de81494b.bindPopup(popup_d5d6e415ced6448a9b15656b7973b230)
+        ;
+
+        
+    
+    
+            var marker_64cf38915ed549f1a8827da098d3b376 = L.marker(
+                [30.272986, -97.75718364685319],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_bed201953552458daf9a2d2e304190c8 = L.popup({"maxWidth": 450});
+
+        
+            var html_145410a039bf4eeda2bb60bea18d5825 = $(`<div id="html_145410a039bf4eeda2bb60bea18d5825" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Clark闂佺偨鍎查悰锟� Oyster Bar</td>       <td>0.285</td>       <td>0.053</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_bed201953552458daf9a2d2e304190c8.setContent(html_145410a039bf4eeda2bb60bea18d5825);
+        
+
+        marker_64cf38915ed549f1a8827da098d3b376.bindPopup(popup_bed201953552458daf9a2d2e304190c8)
+        ;
+
+        
+    
+    
+            var marker_3f9a6ed3ad1a43ec9e41943a1520df6f = L.marker(
+                [30.241667, -97.75953100000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_4978ae582dd44ec8a696c8b4955dd3a9 = L.popup({"maxWidth": 450});
+
+        
+            var html_952f79e934ab47448affc7bc42b3874d = $(`<div id="html_952f79e934ab47448affc7bc42b3874d" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Phoebe闂佺偨鍎查悰锟� Diner</td>       <td>0.244</td>       <td>0.052</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4978ae582dd44ec8a696c8b4955dd3a9.setContent(html_952f79e934ab47448affc7bc42b3874d);
+        
+
+        marker_3f9a6ed3ad1a43ec9e41943a1520df6f.bindPopup(popup_4978ae582dd44ec8a696c8b4955dd3a9)
+        ;
+
+        
+    
+    
+            var marker_4003855d5b6e4e55bb10dc1f4ec80e94 = L.marker(
+                [30.314069300000003, -97.7145135],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_ad0cb7eac41d41a29347425f6e9c2c03 = L.popup({"maxWidth": 450});
+
+        
+            var html_510a72dc07994b81aca37b08cd0b4eb3 = $(`<div id="html_510a72dc07994b81aca37b08cd0b4eb3" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Kome Sushi Kitchen</td>       <td>0.242</td>       <td>0.034</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_ad0cb7eac41d41a29347425f6e9c2c03.setContent(html_510a72dc07994b81aca37b08cd0b4eb3);
+        
+
+        marker_4003855d5b6e4e55bb10dc1f4ec80e94.bindPopup(popup_ad0cb7eac41d41a29347425f6e9c2c03)
+        ;
+
+        
+    
+    
+            var marker_218333d690294307ae83a5b3bc99932d = L.marker(
+                [30.268612800000003, -97.74789659999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_79a21469a4074a9ca9660927c893860a = L.popup({"maxWidth": 450});
+
+        
+            var html_bde6a3131aed4e4fb3aecd8d26aca8c3 = $(`<div id="html_bde6a3131aed4e4fb3aecd8d26aca8c3" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Wu Chow</td>       <td>0.209</td>       <td>0.071</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_79a21469a4074a9ca9660927c893860a.setContent(html_bde6a3131aed4e4fb3aecd8d26aca8c3);
+        
+
+        marker_218333d690294307ae83a5b3bc99932d.bindPopup(popup_79a21469a4074a9ca9660927c893860a)
+        ;
+
+        
+    
+    
+            var marker_4df3f88ac0ce49b499e8a616ccb8e98b = L.marker(
+                [30.295719599999998, -97.74412209999998],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_71c5b46a7bde45fc97cc455ea2e45962 = L.popup({"maxWidth": 450});
+
+        
+            var html_840dc0324384461ead4a5f5df86d9988 = $(`<div id="html_840dc0324384461ead4a5f5df86d9988" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Cabo Bob闂佺偨鍎查悰锟� Burritos</td>       <td>0.218</td>       <td>0.063</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_71c5b46a7bde45fc97cc455ea2e45962.setContent(html_840dc0324384461ead4a5f5df86d9988);
+        
+
+        marker_4df3f88ac0ce49b499e8a616ccb8e98b.bindPopup(popup_71c5b46a7bde45fc97cc455ea2e45962)
+        ;
+
+        
+    
+    
+            var marker_f267417bf43c4fef9dad95d284e4993c = L.marker(
+                [30.3549924, -97.75563620000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_ef28b614b523446da7c3d9d582adc434 = L.popup({"maxWidth": 450});
+
+        
+            var html_bfc763d7228041dc88ab354cad4262c8 = $(`<div id="html_bfc763d7228041dc88ab354cad4262c8" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Saffron</td>       <td>0.291</td>       <td>0.027</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_ef28b614b523446da7c3d9d582adc434.setContent(html_bfc763d7228041dc88ab354cad4262c8);
+        
+
+        marker_f267417bf43c4fef9dad95d284e4993c.bindPopup(popup_ef28b614b523446da7c3d9d582adc434)
+        ;
+
+        
+    
+    
+            var marker_9fdd9e53c22b4eb98bfac90aefbd266e = L.marker(
+                [30.325557500000002, -97.74335199088542],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_6b02ab0229ce4e1d9f6ca99c2c3ef646 = L.popup({"maxWidth": 450});
+
+        
+            var html_970c9e7b2a174bc7a314a3823d0a33b2 = $(`<div id="html_970c9e7b2a174bc7a314a3823d0a33b2" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Poke-Poke</td>       <td>0.264</td>       <td>0.047</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_6b02ab0229ce4e1d9f6ca99c2c3ef646.setContent(html_970c9e7b2a174bc7a314a3823d0a33b2);
+        
+
+        marker_9fdd9e53c22b4eb98bfac90aefbd266e.bindPopup(popup_6b02ab0229ce4e1d9f6ca99c2c3ef646)
+        ;
+
+        
+    
+    
+            var marker_8a9a300947b34af2b2c47a4d9eb8e409 = L.marker(
+                [30.292982000000002, -97.741777],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_4eff3daab8e344aaa6b45f377b028026 = L.popup({"maxWidth": 450});
+
+        
+            var html_2f21b3d460114c88a88fc821bae2ed01 = $(`<div id="html_2f21b3d460114c88a88fc821bae2ed01" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Mount 8k</td>       <td>0.271</td>       <td>0.043</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_4eff3daab8e344aaa6b45f377b028026.setContent(html_2f21b3d460114c88a88fc821bae2ed01);
+        
+
+        marker_8a9a300947b34af2b2c47a4d9eb8e409.bindPopup(popup_4eff3daab8e344aaa6b45f377b028026)
+        ;
+
+        
+    
+    
+            var marker_288adc64c96c4d5ea952182a03129974 = L.marker(
+                [30.286255, -97.742508],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_c8c0e23cab914350adbf3c4fe5c76dc5 = L.popup({"maxWidth": 450});
+
+        
+            var html_f69b9cbc85a7424c9d4e471fb3221e8f = $(`<div id="html_f69b9cbc85a7424c9d4e471fb3221e8f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Insennity</td>       <td>0.258</td>       <td>0.012</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_c8c0e23cab914350adbf3c4fe5c76dc5.setContent(html_f69b9cbc85a7424c9d4e471fb3221e8f);
+        
+
+        marker_288adc64c96c4d5ea952182a03129974.bindPopup(popup_c8c0e23cab914350adbf3c4fe5c76dc5)
+        ;
+
+        
+    
+    
+            var marker_9306fbb66e094e2d816b241ff9d1f06c = L.marker(
+                [30.256359999999997, -97.7455280048905],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_96ed8c2632094056a48551937a279296 = L.popup({"maxWidth": 450});
+
+        
+            var html_4bb5abc9fda34cea9fc809382cb4dfa3 = $(`<div id="html_4bb5abc9fda34cea9fc809382cb4dfa3" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Taco Joint</td>       <td>0.244</td>       <td>0.052</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_96ed8c2632094056a48551937a279296.setContent(html_4bb5abc9fda34cea9fc809382cb4dfa3);
+        
+
+        marker_9306fbb66e094e2d816b241ff9d1f06c.bindPopup(popup_96ed8c2632094056a48551937a279296)
+        ;
+
+        
+    
+    
+            var marker_d479b289d02741da9ebe931b3969a99b = L.marker(
+                [30.283942800000002, -97.7198706],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_eb8aab75d4a1422fafca1f3ed08f483c = L.popup({"maxWidth": 450});
+
+        
+            var html_c71ab4e01b974b578a435ba56844ea0e = $(`<div id="html_c71ab4e01b974b578a435ba56844ea0e" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Abo Youssef</td>       <td>0.316</td>       <td>0.024</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_eb8aab75d4a1422fafca1f3ed08f483c.setContent(html_c71ab4e01b974b578a435ba56844ea0e);
+        
+
+        marker_d479b289d02741da9ebe931b3969a99b.bindPopup(popup_eb8aab75d4a1422fafca1f3ed08f483c)
+        ;
+
+        
+    
+    
+            var marker_cdd245f36dc74bd08bc56da7fcad68e1 = L.marker(
+                [30.3333175, -97.7213160218922],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_85a46b9816df4002a5499a97d7348091 = L.popup({"maxWidth": 450});
+
+        
+            var html_ebdd7e3eaa074bc2ac631ea57b18ec76 = $(`<div id="html_ebdd7e3eaa074bc2ac631ea57b18ec76" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Michi Ramen</td>       <td>0.202</td>       <td>0.029</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_85a46b9816df4002a5499a97d7348091.setContent(html_ebdd7e3eaa074bc2ac631ea57b18ec76);
+        
+
+        marker_cdd245f36dc74bd08bc56da7fcad68e1.bindPopup(popup_85a46b9816df4002a5499a97d7348091)
+        ;
+
+        
+    
+    
+            var marker_2142562a4a7a4b7f9f7484444036add5 = L.marker(
+                [30.260205, -97.73815400000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_cf522fc82232473db9ba26644a72b883 = L.popup({"maxWidth": 450});
+
+        
+            var html_691c73e200ef4749a17abe157139793b = $(`<div id="html_691c73e200ef4749a17abe157139793b" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Anthem</td>       <td>0.115</td>       <td>0.054</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_cf522fc82232473db9ba26644a72b883.setContent(html_691c73e200ef4749a17abe157139793b);
+        
+
+        marker_2142562a4a7a4b7f9f7484444036add5.bindPopup(popup_cf522fc82232473db9ba26644a72b883)
+        ;
+
+        
+    
+    
+            var marker_83076021ee5d4d72b36dddf197c4f3ed = L.marker(
+                [30.280046999999996, -97.741351],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_bd3be3da36dc4527a0275776e460fe6a = L.popup({"maxWidth": 450});
+
+        
+            var html_534cd64c3aa34e83812d5508a44385d1 = $(`<div id="html_534cd64c3aa34e83812d5508a44385d1" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Lavaca Teppan</td>       <td>0.247</td>       <td>0.035</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_bd3be3da36dc4527a0275776e460fe6a.setContent(html_534cd64c3aa34e83812d5508a44385d1);
+        
+
+        marker_83076021ee5d4d72b36dddf197c4f3ed.bindPopup(popup_bd3be3da36dc4527a0275776e460fe6a)
+        ;
+
+        
+    
+    
+            var marker_77e7e33a9ca34b229362c8587aa17083 = L.marker(
+                [30.262285, -97.723315],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_48efcc1dbb5f4d6e88c40ec26fccd011 = L.popup({"maxWidth": 450});
+
+        
+            var html_7c451237db424c878a6129b3e04e9c67 = $(`<div id="html_7c451237db424c878a6129b3e04e9c67" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Suerte</td>       <td>0.24</td>       <td>0.06</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_48efcc1dbb5f4d6e88c40ec26fccd011.setContent(html_7c451237db424c878a6129b3e04e9c67);
+        
+
+        marker_77e7e33a9ca34b229362c8587aa17083.bindPopup(popup_48efcc1dbb5f4d6e88c40ec26fccd011)
+        ;
+
+        
+    
+    
+            var marker_0162ea399f954a4fa2e2d8195b8b99eb = L.marker(
+                [30.273546999999997, -97.7600205],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_e423b39a339943c5a8a4f09bdcfc5457 = L.popup({"maxWidth": 450});
+
+        
+            var html_d9287bb1dd1944bea019cdba772e40f8 = $(`<div id="html_d9287bb1dd1944bea019cdba772e40f8" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Bar Peached</td>       <td>0.278</td>       <td>0.044</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_e423b39a339943c5a8a4f09bdcfc5457.setContent(html_d9287bb1dd1944bea019cdba772e40f8);
+        
+
+        marker_0162ea399f954a4fa2e2d8195b8b99eb.bindPopup(popup_e423b39a339943c5a8a4f09bdcfc5457)
+        ;
+
+        
+    
+    
+            var marker_b8a63f2448064d4a96e4bc98ff12e000 = L.marker(
+                [30.2159413, -97.79675019999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_123d4f2faaf74617ad37d773e04f57b4 = L.popup({"maxWidth": 450});
+
+        
+            var html_7298afadbee04889867f1577861f9450 = $(`<div id="html_7298afadbee04889867f1577861f9450" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Tuk Tuk Thai Cafe</td>       <td>0.224</td>       <td>0.044</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_123d4f2faaf74617ad37d773e04f57b4.setContent(html_7298afadbee04889867f1577861f9450);
+        
+
+        marker_b8a63f2448064d4a96e4bc98ff12e000.bindPopup(popup_123d4f2faaf74617ad37d773e04f57b4)
+        ;
+
+        
+    
+    
+            var marker_998708b177e34e02b3176711c1c86eb4 = L.marker(
+                [30.2600445, -97.75562697285359],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_57b780b03af44fbe8753581c1c8f5095 = L.popup({"maxWidth": 450});
+
+        
+            var html_da61d0ed3ead4921bae80012dcec5007 = $(`<div id="html_da61d0ed3ead4921bae80012dcec5007" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>El Alma</td>       <td>0.262</td>       <td>0.027</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_57b780b03af44fbe8753581c1c8f5095.setContent(html_da61d0ed3ead4921bae80012dcec5007);
+        
+
+        marker_998708b177e34e02b3176711c1c86eb4.bindPopup(popup_57b780b03af44fbe8753581c1c8f5095)
+        ;
+
+        
+    
+    
+            var marker_444a6e41b1144ed58006ce39399d5d1c = L.marker(
+                [30.3187523, -97.7390631],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_cb07fb0ec50549ac87b2db9c2d324ee6 = L.popup({"maxWidth": 450});
+
+        
+            var html_8fe2c41552f241e7a4607d34898a746a = $(`<div id="html_8fe2c41552f241e7a4607d34898a746a" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Pinthouse Pizza</td>       <td>0.213</td>       <td>0.055</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_cb07fb0ec50549ac87b2db9c2d324ee6.setContent(html_8fe2c41552f241e7a4607d34898a746a);
+        
+
+        marker_444a6e41b1144ed58006ce39399d5d1c.bindPopup(popup_cb07fb0ec50549ac87b2db9c2d324ee6)
+        ;
+
+        
+    
+    
+            var marker_59586331e7b549b3b6a8d3807ff4eeb4 = L.marker(
+                [30.281546000000002, -97.74012900000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_25eae374171d4fdbb0a1b5b443e5c91d = L.popup({"maxWidth": 450});
+
+        
+            var html_6ea976788e82413dbef65a576c25e1fb = $(`<div id="html_6ea976788e82413dbef65a576c25e1fb" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>The Carillon</td>       <td>0.262</td>       <td>0.02</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_25eae374171d4fdbb0a1b5b443e5c91d.setContent(html_6ea976788e82413dbef65a576c25e1fb);
+        
+
+        marker_59586331e7b549b3b6a8d3807ff4eeb4.bindPopup(popup_25eae374171d4fdbb0a1b5b443e5c91d)
+        ;
+
+        
+    
+    
+            var marker_51c1c39a7554427399237cf310025249 = L.marker(
+                [30.273926, -97.720373],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_d573af603a7c4e2b8515b0e97f90c7dc = L.popup({"maxWidth": 450});
+
+        
+            var html_09947ec683cb42b78a64dd5462a77962 = $(`<div id="html_09947ec683cb42b78a64dd5462a77962" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Bacchus and Brown</td>       <td>0.263</td>       <td>0.026</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_d573af603a7c4e2b8515b0e97f90c7dc.setContent(html_09947ec683cb42b78a64dd5462a77962);
+        
+
+        marker_51c1c39a7554427399237cf310025249.bindPopup(popup_d573af603a7c4e2b8515b0e97f90c7dc)
+        ;
+
+        
+    
+    
+            var marker_27221fe380e24a4c9fed5aa3b285901b = L.marker(
+                [30.256209000000002, -97.72241899999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_8fc4afb8323d4cfca4da40f67f9fb9a5 = L.popup({"maxWidth": 450});
+
+        
+            var html_acbabb1eb51b48cb8c3b853dbb79189b = $(`<div id="html_acbabb1eb51b48cb8c3b853dbb79189b" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>la Barbecue</td>       <td>0.192</td>       <td>0.071</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_8fc4afb8323d4cfca4da40f67f9fb9a5.setContent(html_acbabb1eb51b48cb8c3b853dbb79189b);
+        
+
+        marker_27221fe380e24a4c9fed5aa3b285901b.bindPopup(popup_8fc4afb8323d4cfca4da40f67f9fb9a5)
+        ;
+
+        
+    
+    
+            var marker_fead365c0132478785afb7664c752675 = L.marker(
+                [30.290194265306102, -97.7343885918367],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_e0284995903b4377985d82529f718885 = L.popup({"maxWidth": 450});
+
+        
+            var html_45b1af45b36c4d2689e457ccc8ebb68d = $(`<div id="html_45b1af45b36c4d2689e457ccc8ebb68d" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Taco Joint</td>       <td>0.254</td>       <td>0.024</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_e0284995903b4377985d82529f718885.setContent(html_45b1af45b36c4d2689e457ccc8ebb68d);
+        
+
+        marker_fead365c0132478785afb7664c752675.bindPopup(popup_e0284995903b4377985d82529f718885)
+        ;
+
+        
+    
+    
+            var marker_1b29b897518347d0bddd92c253b6f056 = L.marker(
+                [30.2430405121951, -97.7833274146341],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_10f4ed3a913647f3944c2172e02d090d = L.popup({"maxWidth": 450});
+
+        
+            var html_ac70e9e5d32a424e90c7c69ef6ea59a0 = $(`<div id="html_ac70e9e5d32a424e90c7c69ef6ea59a0" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Wholly Cow</td>       <td>0.233</td>       <td>0.036</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_10f4ed3a913647f3944c2172e02d090d.setContent(html_ac70e9e5d32a424e90c7c69ef6ea59a0);
+        
+
+        marker_1b29b897518347d0bddd92c253b6f056.bindPopup(popup_10f4ed3a913647f3944c2172e02d090d)
+        ;
+
+        
+    
+    
+            var marker_ad8d57142d724f02a5171f1549767556 = L.marker(
+                [30.2954347, -97.78424749999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_cccb7cc5ba034944bb23d12718714d19 = L.popup({"maxWidth": 450});
+
+        
+            var html_98ae3ed5a86b45d0af2917b880938fc5 = $(`<div id="html_98ae3ed5a86b45d0af2917b880938fc5" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Hula Hut</td>       <td>0.181</td>       <td>0.094</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_cccb7cc5ba034944bb23d12718714d19.setContent(html_98ae3ed5a86b45d0af2917b880938fc5);
+        
+
+        marker_ad8d57142d724f02a5171f1549767556.bindPopup(popup_cccb7cc5ba034944bb23d12718714d19)
+        ;
+
+        
+    
+    
+            var marker_0dd56a46a0b94cd5b5e60f3a98d64402 = L.marker(
+                [30.254054999999997, -97.697443122807],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_3742bb92026648d9abd0e6ce2ee9b343 = L.popup({"maxWidth": 450});
+
+        
+            var html_570f225da4ea4631be2b7595f1045402 = $(`<div id="html_570f225da4ea4631be2b7595f1045402" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Austin Rotisserie</td>       <td>0.314</td>       <td>0.014</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3742bb92026648d9abd0e6ce2ee9b343.setContent(html_570f225da4ea4631be2b7595f1045402);
+        
+
+        marker_0dd56a46a0b94cd5b5e60f3a98d64402.bindPopup(popup_3742bb92026648d9abd0e6ce2ee9b343)
+        ;
+
+        
+    
+    
+            var marker_a4556bb4fa0641e4ab142e99c30da66f = L.marker(
+                [30.361094, -97.7156191],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_9a70cc26e6b640d9a0cbf1a56bfe4721 = L.popup({"maxWidth": 450});
+
+        
+            var html_aa1ab6bb48d34129b075efedf7a47f7c = $(`<div id="html_aa1ab6bb48d34129b075efedf7a47f7c" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Julie闂佺偨鍎查悰锟� Noodles</td>       <td>0.202</td>       <td>0.071</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_9a70cc26e6b640d9a0cbf1a56bfe4721.setContent(html_aa1ab6bb48d34129b075efedf7a47f7c);
+        
+
+        marker_a4556bb4fa0641e4ab142e99c30da66f.bindPopup(popup_9a70cc26e6b640d9a0cbf1a56bfe4721)
+        ;
+
+        
+    
+    
+            var marker_23d1aa3a5dfa44b5b76c8a208bce124a = L.marker(
+                [30.313126, -97.7147609895833],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_26f7eac8972b4ab08cdf15859c6c3c3b = L.popup({"maxWidth": 450});
+
+        
+            var html_3ed48a9c1ba54242879473c1cc6eb382 = $(`<div id="html_3ed48a9c1ba54242879473c1cc6eb382" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Sala and Betty</td>       <td>0.24</td>       <td>0.039</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_26f7eac8972b4ab08cdf15859c6c3c3b.setContent(html_3ed48a9c1ba54242879473c1cc6eb382);
+        
+
+        marker_23d1aa3a5dfa44b5b76c8a208bce124a.bindPopup(popup_26f7eac8972b4ab08cdf15859c6c3c3b)
+        ;
+
+        
+    
+    
+            var marker_d458931d8d3744c5b09d4b8bc673e3d4 = L.marker(
+                [30.280471999999996, -97.75919],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_bc82ca9328cb48479888577c1759d88b = L.popup({"maxWidth": 450});
+
+        
+            var html_6ebd972acf82456c8a1571e22f800812 = $(`<div id="html_6ebd972acf82456c8a1571e22f800812" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Jeffrey闂佺偨鍎查悰锟�</td>       <td>0.217</td>       <td>0.06</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_bc82ca9328cb48479888577c1759d88b.setContent(html_6ebd972acf82456c8a1571e22f800812);
+        
+
+        marker_d458931d8d3744c5b09d4b8bc673e3d4.bindPopup(popup_bc82ca9328cb48479888577c1759d88b)
+        ;
+
+        
+    
+    
+            var marker_067bd56e22584f8588e835b455ad324d = L.marker(
+                [30.260804999999998, -97.714827],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_32d9f337e6b549389d243590822aa708 = L.popup({"maxWidth": 450});
+
+        
+            var html_8edf249f89ba435e92920aec9e38f839 = $(`<div id="html_8edf249f89ba435e92920aec9e38f839" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Casa Colombia</td>       <td>0.26</td>       <td>0.059</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_32d9f337e6b549389d243590822aa708.setContent(html_8edf249f89ba435e92920aec9e38f839);
+        
+
+        marker_067bd56e22584f8588e835b455ad324d.bindPopup(popup_32d9f337e6b549389d243590822aa708)
+        ;
+
+        
+    
+    
+            var marker_c98199425e7541aea0294ea011e7cb0a = L.marker(
+                [30.318903999999996, -97.738972],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_90c6bb4584d0488a94a87a1aa7efce24 = L.popup({"maxWidth": 450});
+
+        
+            var html_6eb890f448ab4446a1a64a7762295b00 = $(`<div id="html_6eb890f448ab4446a1a64a7762295b00" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Picnik</td>       <td>0.284</td>       <td>0.024</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_90c6bb4584d0488a94a87a1aa7efce24.setContent(html_6eb890f448ab4446a1a64a7762295b00);
+        
+
+        marker_c98199425e7541aea0294ea011e7cb0a.bindPopup(popup_90c6bb4584d0488a94a87a1aa7efce24)
+        ;
+
+        
+    
+    
+            var marker_adafce185cb04340a933eee628270609 = L.marker(
+                [30.265651199999997, -97.7434652],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_3dbac3fa8eae4767a276ab6bd6bbee3a = L.popup({"maxWidth": 450});
+
+        
+            var html_9fc7f29dda1a48cd833038d57d9a64e8 = $(`<div id="html_9fc7f29dda1a48cd833038d57d9a64e8" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Swift闂佺偨鍎查悰锟� Attic</td>       <td>0.265</td>       <td>0.03</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3dbac3fa8eae4767a276ab6bd6bbee3a.setContent(html_9fc7f29dda1a48cd833038d57d9a64e8);
+        
+
+        marker_adafce185cb04340a933eee628270609.bindPopup(popup_3dbac3fa8eae4767a276ab6bd6bbee3a)
+        ;
+
+        
+    
+    
+            var marker_f17a6becd77a4c3c8104f369d45c73a5 = L.marker(
+                [30.296671000000003, -97.767776],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_7384a2cbd4da4cd789c7bdbcacdc599f = L.popup({"maxWidth": 450});
+
+        
+            var html_f8819d8203a04fd8a80e0d8f75b7bba7 = $(`<div id="html_f8819d8203a04fd8a80e0d8f75b7bba7" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>The Beer Plant</td>       <td>0.212</td>       <td>0.056</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_7384a2cbd4da4cd789c7bdbcacdc599f.setContent(html_f8819d8203a04fd8a80e0d8f75b7bba7);
+        
+
+        marker_f17a6becd77a4c3c8104f369d45c73a5.bindPopup(popup_7384a2cbd4da4cd789c7bdbcacdc599f)
+        ;
+
+        
+    
+    
+            var marker_c9c6ee37bd944075a684afe84d6a1bef = L.marker(
+                [30.263148600000005, -97.72631319999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_2f4f4390ce714e52bbae5b6c56a08156 = L.popup({"maxWidth": 450});
+
+        
+            var html_ef81cf0810ca483791cb08a56a722ea0 = $(`<div id="html_ef81cf0810ca483791cb08a56a722ea0" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Ramen Tatsu-Ya</td>       <td>0.302</td>       <td>0.031</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_2f4f4390ce714e52bbae5b6c56a08156.setContent(html_ef81cf0810ca483791cb08a56a722ea0);
+        
+
+        marker_c9c6ee37bd944075a684afe84d6a1bef.bindPopup(popup_2f4f4390ce714e52bbae5b6c56a08156)
+        ;
+
+        
+    
+    
+            var marker_5d2f745e90914001b5ab114dd7a809bc = L.marker(
+                [30.371883, -97.72567164286622],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_463f01bf980e4a6ea12371f4d3d06b1e = L.popup({"maxWidth": 450});
+
+        
+            var html_d02db9e39103490388e4fa7a30cc6dad = $(`<div id="html_d02db9e39103490388e4fa7a30cc6dad" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Lebowski闂佺偨鍎查悰锟� Grill</td>       <td>0.226</td>       <td>0.049</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_463f01bf980e4a6ea12371f4d3d06b1e.setContent(html_d02db9e39103490388e4fa7a30cc6dad);
+        
+
+        marker_5d2f745e90914001b5ab114dd7a809bc.bindPopup(popup_463f01bf980e4a6ea12371f4d3d06b1e)
+        ;
+
+        
+    
+    
+            var marker_fcac35a0ae0c401e8d17b8ffbfe99d79 = L.marker(
+                [30.3158815, -97.7185004250408],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_f23718807cf44b74b7ee6c9ddf63190c = L.popup({"maxWidth": 450});
+
+        
+            var html_807978680a4d4a2fb9bed2f7c49e8af3 = $(`<div id="html_807978680a4d4a2fb9bed2f7c49e8af3" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Home Slice Pizza</td>       <td>0.231</td>       <td>0.039</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_f23718807cf44b74b7ee6c9ddf63190c.setContent(html_807978680a4d4a2fb9bed2f7c49e8af3);
+        
+
+        marker_fcac35a0ae0c401e8d17b8ffbfe99d79.bindPopup(popup_f23718807cf44b74b7ee6c9ddf63190c)
+        ;
+
+        
+    
+    
+            var marker_c06ffae5f13643d68870d2cda908d310 = L.marker(
+                [30.3306335, -97.66721429032259],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_e442232b7f174d2c90428de3e848a44f = L.popup({"maxWidth": 450});
+
+        
+            var html_61c76effbbe04f5b8f48ed6dbe8b8abe = $(`<div id="html_61c76effbbe04f5b8f48ed6dbe8b8abe" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Dragonbeard Kitchen</td>       <td>0.266</td>       <td>0.028</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_e442232b7f174d2c90428de3e848a44f.setContent(html_61c76effbbe04f5b8f48ed6dbe8b8abe);
+        
+
+        marker_c06ffae5f13643d68870d2cda908d310.bindPopup(popup_e442232b7f174d2c90428de3e848a44f)
+        ;
+
+        
+    
+    
+            var marker_039dc36193254acd9ed884692de2f72e = L.marker(
+                [30.252331599999998, -97.7644892],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_accd754c964a4a928a020bb516f955c9 = L.popup({"maxWidth": 450});
+
+        
+            var html_03b5b5b9895749f0b2666787199b1da3 = $(`<div id="html_03b5b5b9895749f0b2666787199b1da3" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Barlata Tapas Bar</td>       <td>0.228</td>       <td>0.041</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_accd754c964a4a928a020bb516f955c9.setContent(html_03b5b5b9895749f0b2666787199b1da3);
+        
+
+        marker_039dc36193254acd9ed884692de2f72e.bindPopup(popup_accd754c964a4a928a020bb516f955c9)
+        ;
+
+        
+    
+    
+            var marker_f274a5d926d74d06a4d115824d9b27c7 = L.marker(
+                [30.247514399999996, -97.7747477],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_dad4749a852740d0823984d7a8b10678 = L.popup({"maxWidth": 450});
+
+        
+            var html_3c53e56ad01a4c8590d52a4c2f03d787 = $(`<div id="html_3c53e56ad01a4c8590d52a4c2f03d787" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>East Side King</td>       <td>0.25</td>       <td>0.064</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_dad4749a852740d0823984d7a8b10678.setContent(html_3c53e56ad01a4c8590d52a4c2f03d787);
+        
+
+        marker_f274a5d926d74d06a4d115824d9b27c7.bindPopup(popup_dad4749a852740d0823984d7a8b10678)
+        ;
+
+        
+    
+    
+            var marker_8335d510008c4e2aae08f46f4c321abe = L.marker(
+                [30.298582399999997, -97.74101429999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_fd76fd2b48b0468f921e0a1ea6c5f86e = L.popup({"maxWidth": 450});
+
+        
+            var html_75d6106b193d49dbb716774dfd632d7e = $(`<div id="html_75d6106b193d49dbb716774dfd632d7e" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Hopfields</td>       <td>0.226</td>       <td>0.051</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_fd76fd2b48b0468f921e0a1ea6c5f86e.setContent(html_75d6106b193d49dbb716774dfd632d7e);
+        
+
+        marker_8335d510008c4e2aae08f46f4c321abe.bindPopup(popup_fd76fd2b48b0468f921e0a1ea6c5f86e)
+        ;
+
+        
+    
+    
+            var marker_544a197f1a154c3d993f456ed606ae21 = L.marker(
+                [30.2925115, -97.741648237069],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_f5602682eede4fd78d7e040c0ab35d11 = L.popup({"maxWidth": 450});
+
+        
+            var html_a4bebe2cd4bf469f84c11469bb917644 = $(`<div id="html_a4bebe2cd4bf469f84c11469bb917644" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Halal Bros</td>       <td>0.21</td>       <td>0.044</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_f5602682eede4fd78d7e040c0ab35d11.setContent(html_a4bebe2cd4bf469f84c11469bb917644);
+        
+
+        marker_544a197f1a154c3d993f456ed606ae21.bindPopup(popup_f5602682eede4fd78d7e040c0ab35d11)
+        ;
+
+        
+    
+    
+            var marker_1fe652cd54924079905f62bb2f86c94d = L.marker(
+                [30.360769, -97.7414743654891],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_89096f12a3e84f0aac8d9a0fa03e05d9 = L.popup({"maxWidth": 450});
+
+        
+            var html_5c16b78fafa6480b93c1d8e2fbf98e28 = $(`<div id="html_5c16b78fafa6480b93c1d8e2fbf98e28" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Be More Pacific</td>       <td>0.249</td>       <td>0.033</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_89096f12a3e84f0aac8d9a0fa03e05d9.setContent(html_5c16b78fafa6480b93c1d8e2fbf98e28);
+        
+
+        marker_1fe652cd54924079905f62bb2f86c94d.bindPopup(popup_89096f12a3e84f0aac8d9a0fa03e05d9)
+        ;
+
+        
+    
+    
+            var marker_984453445256488a9cb35bb26dc39add = L.marker(
+                [30.255582, -97.7623936],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_23869cc128c7429785a12c81df6ffeaa = L.popup({"maxWidth": 450});
+
+        
+            var html_5aac74c0b2eb4bdbba5e46e81ee2e65e = $(`<div id="html_5aac74c0b2eb4bdbba5e46e81ee2e65e" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>TLC Austin</td>       <td>0.213</td>       <td>0.065</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_23869cc128c7429785a12c81df6ffeaa.setContent(html_5aac74c0b2eb4bdbba5e46e81ee2e65e);
+        
+
+        marker_984453445256488a9cb35bb26dc39add.bindPopup(popup_23869cc128c7429785a12c81df6ffeaa)
+        ;
+
+        
+    
+    
+            var marker_08812bd090c942a588e52b7b2d462e54 = L.marker(
+                [30.251948300000002, -97.76387009999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_d90369c1e4a44b13990217ed17c0fb6e = L.popup({"maxWidth": 450});
+
+        
+            var html_484ebcd16f87477e9d71f6a61f2b1f1f = $(`<div id="html_484ebcd16f87477e9d71f6a61f2b1f1f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Chi闂佺偨鍎查埞鍝竛tro</td>       <td>0.236</td>       <td>0.048</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_d90369c1e4a44b13990217ed17c0fb6e.setContent(html_484ebcd16f87477e9d71f6a61f2b1f1f);
+        
+
+        marker_08812bd090c942a588e52b7b2d462e54.bindPopup(popup_d90369c1e4a44b13990217ed17c0fb6e)
+        ;
+
+        
+    
+    
+            var marker_5812a95673204ba596ad5667d70e0629 = L.marker(
+                [30.300489000000002, -97.71981020000001],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_76096901c5b14c7a9b1ec5d741ed3afa = L.popup({"maxWidth": 450});
+
+        
+            var html_87806135d7984b0893af808cea368e8e = $(`<div id="html_87806135d7984b0893af808cea368e8e" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Kismet Cafe</td>       <td>0.345</td>       <td>0.022</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_76096901c5b14c7a9b1ec5d741ed3afa.setContent(html_87806135d7984b0893af808cea368e8e);
+        
+
+        marker_5812a95673204ba596ad5667d70e0629.bindPopup(popup_76096901c5b14c7a9b1ec5d741ed3afa)
+        ;
+
+        
+    
+    
+            var marker_c1be283d867a4c228c15bfd340cf6848 = L.marker(
+                [30.241613, -97.78471],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_1dd03464a98144a4b77e6ff9195ddb3a = L.popup({"maxWidth": 450});
+
+        
+            var html_03a1598cc2744abfbd45f15e0a249f43 = $(`<div id="html_03a1598cc2744abfbd45f15e0a249f43" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Crepe Crazy</td>       <td>0.291</td>       <td>0.054</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_1dd03464a98144a4b77e6ff9195ddb3a.setContent(html_03a1598cc2744abfbd45f15e0a249f43);
+        
+
+        marker_c1be283d867a4c228c15bfd340cf6848.bindPopup(popup_1dd03464a98144a4b77e6ff9195ddb3a)
+        ;
+
+        
+    
+    
+            var marker_4147c63c6cb84d17977930e11349bb2b = L.marker(
+                [30.347981400000002, -97.7354088],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_7c83b2f5cb5d4e96aca58c28a744b0f1 = L.popup({"maxWidth": 450});
+
+        
+            var html_fca69894c420406ea133bd89d0132416 = $(`<div id="html_fca69894c420406ea133bd89d0132416" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Tumble 22</td>       <td>0.196</td>       <td>0.071</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_7c83b2f5cb5d4e96aca58c28a744b0f1.setContent(html_fca69894c420406ea133bd89d0132416);
+        
+
+        marker_4147c63c6cb84d17977930e11349bb2b.bindPopup(popup_7c83b2f5cb5d4e96aca58c28a744b0f1)
+        ;
+
+        
+    
+    
+            var marker_06313b4756c44b81b1681eaff17e027e = L.marker(
+                [30.363657, -97.7147413],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_71ed2914977c49518fa88fc41ce39c32 = L.popup({"maxWidth": 450});
+
+        
+            var html_dea2f11b3e5f4301b78cf34cb72b7ff9 = $(`<div id="html_dea2f11b3e5f4301b78cf34cb72b7ff9" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Tan My Restaurant</td>       <td>0.195</td>       <td>0.031</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_71ed2914977c49518fa88fc41ce39c32.setContent(html_dea2f11b3e5f4301b78cf34cb72b7ff9);
+        
+
+        marker_06313b4756c44b81b1681eaff17e027e.bindPopup(popup_71ed2914977c49518fa88fc41ce39c32)
+        ;
+
+        
+    
+    
+            var marker_66924da51f1a49a6aeb2d7ffdb31cb48 = L.marker(
+                [30.277865999999996, -97.772904],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_c2277f09e7d34a74842f75756b2d44be = L.popup({"maxWidth": 450});
+
+        
+            var html_a1dc4cf8915a4a45b255385582bc0b19 = $(`<div id="html_a1dc4cf8915a4a45b255385582bc0b19" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>68 Degrees Kitchen</td>       <td>0.297</td>       <td>0.036</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_c2277f09e7d34a74842f75756b2d44be.setContent(html_a1dc4cf8915a4a45b255385582bc0b19);
+        
+
+        marker_66924da51f1a49a6aeb2d7ffdb31cb48.bindPopup(popup_c2277f09e7d34a74842f75756b2d44be)
+        ;
+
+        
+    
+    
+            var marker_2ff5c6da4d964724a30cdeaaa468bfa1 = L.marker(
+                [30.2546473, -97.7179015],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_fc2e7f4037f248b891ed432bf48f2d9d = L.popup({"maxWidth": 450});
+
+        
+            var html_7463347092df47a6915e603b6d20ca35 = $(`<div id="html_7463347092df47a6915e603b6d20ca35" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Counter Culture</td>       <td>0.262</td>       <td>0.039</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_fc2e7f4037f248b891ed432bf48f2d9d.setContent(html_7463347092df47a6915e603b6d20ca35);
+        
+
+        marker_2ff5c6da4d964724a30cdeaaa468bfa1.bindPopup(popup_fc2e7f4037f248b891ed432bf48f2d9d)
+        ;
+
+        
+    
+    
+            var marker_9c2dc4a08a8d43a9802833b43aed1583 = L.marker(
+                [30.250342, -97.749143],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_10e216dc40354c27a1fd5ace46d9d333 = L.popup({"maxWidth": 450});
+
+        
+            var html_f8a0cad9cdcc407381f6140ef8c844d6 = $(`<div id="html_f8a0cad9cdcc407381f6140ef8c844d6" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Botticelli闂佺偨鍎查悰锟�</td>       <td>0.278</td>       <td>0.031</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_10e216dc40354c27a1fd5ace46d9d333.setContent(html_f8a0cad9cdcc407381f6140ef8c844d6);
+        
+
+        marker_9c2dc4a08a8d43a9802833b43aed1583.bindPopup(popup_10e216dc40354c27a1fd5ace46d9d333)
+        ;
+
+        
+    
+    
+            var marker_12877ea33809409d99dd18da3ac0cf4a = L.marker(
+                [30.40088475, -97.7378413036182],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_3542e39e2b5c4a9e94bb6d197484f7b1 = L.popup({"maxWidth": 450});
+
+        
+            var html_a67d23b49eea4bbc8a343d998768601b = $(`<div id="html_a67d23b49eea4bbc8a343d998768601b" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Roaring Fork</td>       <td>0.243</td>       <td>0.044</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3542e39e2b5c4a9e94bb6d197484f7b1.setContent(html_a67d23b49eea4bbc8a343d998768601b);
+        
+
+        marker_12877ea33809409d99dd18da3ac0cf4a.bindPopup(popup_3542e39e2b5c4a9e94bb6d197484f7b1)
+        ;
+
+        
+    
+    
+            var marker_afc197c6f516401984d7e4f9d95db2ce = L.marker(
+                [30.347981400000002, -97.7354088],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_b23da46d69dd4bdcb09979105e9b3bd8 = L.popup({"maxWidth": 450});
+
+        
+            var html_41cce0901a424d9cb352780a9dc2d425 = $(`<div id="html_41cce0901a424d9cb352780a9dc2d425" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>T22 Chicken Joint</td>       <td>0.209</td>       <td>0.061</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_b23da46d69dd4bdcb09979105e9b3bd8.setContent(html_41cce0901a424d9cb352780a9dc2d425);
+        
+
+        marker_afc197c6f516401984d7e4f9d95db2ce.bindPopup(popup_b23da46d69dd4bdcb09979105e9b3bd8)
+        ;
+
+        
+    
+    
+            var marker_e6ab12ad6cd14d769e5f3d5ff85117be = L.marker(
+                [30.315825, -97.732851],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_64f753da553a4c1baac1ce442373541f = L.popup({"maxWidth": 450});
+
+        
+            var html_50ea664eef4948638a3ef96e66e036f1 = $(`<div id="html_50ea664eef4948638a3ef96e66e036f1" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>MezzeMe</td>       <td>0.318</td>       <td>0.04</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_64f753da553a4c1baac1ce442373541f.setContent(html_50ea664eef4948638a3ef96e66e036f1);
+        
+
+        marker_e6ab12ad6cd14d769e5f3d5ff85117be.bindPopup(popup_64f753da553a4c1baac1ce442373541f)
+        ;
+
+        
+    
+    
+            var marker_c77168ed4a864253a94f10d1d72fc4f2 = L.marker(
+                [30.264834499999996, -97.7294720770042],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_0bc5d3dbb2604644b53bb945e943d6cb = L.popup({"maxWidth": 450});
+
+        
+            var html_878632a6216349299f1b80ddbc1553ee = $(`<div id="html_878632a6216349299f1b80ddbc1553ee" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>The Hightower</td>       <td>0.25</td>       <td>0.035</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_0bc5d3dbb2604644b53bb945e943d6cb.setContent(html_878632a6216349299f1b80ddbc1553ee);
+        
+
+        marker_c77168ed4a864253a94f10d1d72fc4f2.bindPopup(popup_0bc5d3dbb2604644b53bb945e943d6cb)
+        ;
+
+        
+    
+    
+            var marker_8cdc8d5ecb2a40f3b80802ed3281e365 = L.marker(
+                [30.401125800000003, -97.7230343],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_3263a5d715954469a4e281d058e55ead = L.popup({"maxWidth": 450});
+
+        
+            var html_2f92da3093214bb1b2a655fc122d2822 = $(`<div id="html_2f92da3093214bb1b2a655fc122d2822" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Culinary Dropout</td>       <td>0.267</td>       <td>0.037</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3263a5d715954469a4e281d058e55ead.setContent(html_2f92da3093214bb1b2a655fc122d2822);
+        
+
+        marker_8cdc8d5ecb2a40f3b80802ed3281e365.bindPopup(popup_3263a5d715954469a4e281d058e55ead)
+        ;
+
+        
+    
+    
+            var marker_619404ac4ea24aa099d33e67f5884090 = L.marker(
+                [30.284812, -97.7139617565447],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_3ae7f447b85044fb8883330e6c047345 = L.popup({"maxWidth": 450});
+
+        
+            var html_f1290f3d74ac4375897dd5a0f80695b8 = $(`<div id="html_f1290f3d74ac4375897dd5a0f80695b8" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Bird Bird Biscuit</td>       <td>0.278</td>       <td>0.032</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3ae7f447b85044fb8883330e6c047345.setContent(html_f1290f3d74ac4375897dd5a0f80695b8);
+        
+
+        marker_619404ac4ea24aa099d33e67f5884090.bindPopup(popup_3ae7f447b85044fb8883330e6c047345)
+        ;
+
+        
+    
+    
+            var marker_594661e6db114022b51e633645bb3c63 = L.marker(
+                [30.2658668, -97.7356652],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_fc86aded1d1b4c19898ebac0e0a2c2b7 = L.popup({"maxWidth": 450});
+
+        
+            var html_5293fe2e2da0405fa06711375571f6b4 = $(`<div id="html_5293fe2e2da0405fa06711375571f6b4" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Easy Tiger</td>       <td>0.266</td>       <td>0.054</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_fc86aded1d1b4c19898ebac0e0a2c2b7.setContent(html_5293fe2e2da0405fa06711375571f6b4);
+        
+
+        marker_594661e6db114022b51e633645bb3c63.bindPopup(popup_fc86aded1d1b4c19898ebac0e0a2c2b7)
+        ;
+
+        
+    
+    
+            var marker_af012bcfe62743c59461f7e0354cb4a8 = L.marker(
+                [30.321171999999997, -97.73953287490471],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_9ad54a79264b4380a06905aa78755e11 = L.popup({"maxWidth": 450});
+
+        
+            var html_d7948416d43b41c28a5bd04b7ef0b909 = $(`<div id="html_d7948416d43b41c28a5bd04b7ef0b909" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Jewboy Burgers</td>       <td>0.325</td>       <td>0.027</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_9ad54a79264b4380a06905aa78755e11.setContent(html_d7948416d43b41c28a5bd04b7ef0b909);
+        
+
+        marker_af012bcfe62743c59461f7e0354cb4a8.bindPopup(popup_9ad54a79264b4380a06905aa78755e11)
+        ;
+
+        
+    
+    
+            var marker_47ca18ec0c5a4de0afa41fde8b591f33 = L.marker(
+                [30.2548555318471, -97.76230993312099],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_3f25544488d2483cb517729b9b076a4b = L.popup({"maxWidth": 450});
+
+        
+            var html_0a917540a5f644489ff5f346c38d45ec = $(`<div id="html_0a917540a5f644489ff5f346c38d45ec" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Odd Duck</td>       <td>0.271</td>       <td>0.05</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_3f25544488d2483cb517729b9b076a4b.setContent(html_0a917540a5f644489ff5f346c38d45ec);
+        
+
+        marker_47ca18ec0c5a4de0afa41fde8b591f33.bindPopup(popup_3f25544488d2483cb517729b9b076a4b)
+        ;
+
+        
+    
+    
+            var marker_dd8e241663444f17bceff563528a2499 = L.marker(
+                [30.304361, -97.72652099999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_43e7728c4cc44a0eaa6a7616c57aa029 = L.popup({"maxWidth": 450});
+
+        
+            var html_7178e1988b4c47ea8f6e38421ea74106 = $(`<div id="html_7178e1988b4c47ea8f6e38421ea74106" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Uncle Nicky闂佺偨鍎查悰锟�</td>       <td>0.337</td>       <td>0.025</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_43e7728c4cc44a0eaa6a7616c57aa029.setContent(html_7178e1988b4c47ea8f6e38421ea74106);
+        
+
+        marker_dd8e241663444f17bceff563528a2499.bindPopup(popup_43e7728c4cc44a0eaa6a7616c57aa029)
+        ;
+
+        
+    
+    
+            var marker_68f1db65bc954a31a1c23b710d2c52b6 = L.marker(
+                [30.253956, -97.763274],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_a08fa27d693b421789935d24314e06f9 = L.popup({"maxWidth": 450});
+
+        
+            var html_89cdd0db52a5459e9f292331d688ad83 = $(`<div id="html_89cdd0db52a5459e9f292331d688ad83" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Ramen Tatsu-Ya</td>       <td>0.206</td>       <td>0.044</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_a08fa27d693b421789935d24314e06f9.setContent(html_89cdd0db52a5459e9f292331d688ad83);
+        
+
+        marker_68f1db65bc954a31a1c23b710d2c52b6.bindPopup(popup_a08fa27d693b421789935d24314e06f9)
+        ;
+
+        
+    
+    
+            var marker_1b2faae0daef419ab34fce29be46c857 = L.marker(
+                [30.278943199999997, -97.77264346186442],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_34aa4f4f73514defacf3ec01dc0f1c42 = L.popup({"maxWidth": 450});
+
+        
+            var html_d40c0ec4238b425b97a29bde93df832f = $(`<div id="html_d40c0ec4238b425b97a29bde93df832f" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Fabi + Rosi</td>       <td>0.291</td>       <td>0.032</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_34aa4f4f73514defacf3ec01dc0f1c42.setContent(html_d40c0ec4238b425b97a29bde93df832f);
+        
+
+        marker_1b2faae0daef419ab34fce29be46c857.bindPopup(popup_34aa4f4f73514defacf3ec01dc0f1c42)
+        ;
+
+        
+    
+    
+            var marker_ba4d1906db924cf8aad122f481a64348 = L.marker(
+                [30.330854, -97.72353199999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_88ef1fe45f8c4913b0da02a4b3d2bf9d = L.popup({"maxWidth": 450});
+
+        
+            var html_d2ab478e567d4907a06202004c568130 = $(`<div id="html_d2ab478e567d4907a06202004c568130" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Heo Eatery</td>       <td>0.27</td>       <td>0.031</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_88ef1fe45f8c4913b0da02a4b3d2bf9d.setContent(html_d2ab478e567d4907a06202004c568130);
+        
+
+        marker_ba4d1906db924cf8aad122f481a64348.bindPopup(popup_88ef1fe45f8c4913b0da02a4b3d2bf9d)
+        ;
+
+        
+    
+    
+            var marker_77d38d4842df43c79ff83abd1c5c48bb = L.marker(
+                [30.283723, -97.71741362152589],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_2acd9782dbad4d9fbc26edfef37cf5c5 = L.popup({"maxWidth": 450});
+
+        
+            var html_58df1ad75f9c47d8b7c426571a354965 = $(`<div id="html_58df1ad75f9c47d8b7c426571a354965" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Patrizi闂佺偨鍎查悰锟�</td>       <td>0.26</td>       <td>0.034</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_2acd9782dbad4d9fbc26edfef37cf5c5.setContent(html_58df1ad75f9c47d8b7c426571a354965);
+        
+
+        marker_77d38d4842df43c79ff83abd1c5c48bb.bindPopup(popup_2acd9782dbad4d9fbc26edfef37cf5c5)
+        ;
+
+        
+    
+    
+            var marker_1b4434e618334e5c9b1858374952fc22 = L.marker(
+                [30.269054999999998, -97.741973],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_c400ee1d24dc476394b03953fdaef6cc = L.popup({"maxWidth": 450});
+
+        
+            var html_15aac7edfbac4135b32bca27f2c02f1a = $(`<div id="html_15aac7edfbac4135b32bca27f2c02f1a" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Roaring Fork</td>       <td>0.288</td>       <td>0.031</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_c400ee1d24dc476394b03953fdaef6cc.setContent(html_15aac7edfbac4135b32bca27f2c02f1a);
+        
+
+        marker_1b4434e618334e5c9b1858374952fc22.bindPopup(popup_c400ee1d24dc476394b03953fdaef6cc)
+        ;
+
+        
+    
+    
+            var marker_6b300e9224884f8293cd22e195f4a978 = L.marker(
+                [30.267055499999998, -97.7359806],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_b0f5b735d73e4be19f252b9ec6ccd43d = L.popup({"maxWidth": 450});
+
+        
+            var html_b628c3c696624f788c306d639f4a59ae = $(`<div id="html_b628c3c696624f788c306d639f4a59ae" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Koriente</td>       <td>0.273</td>       <td>0.035</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_b0f5b735d73e4be19f252b9ec6ccd43d.setContent(html_b628c3c696624f788c306d639f4a59ae);
+        
+
+        marker_6b300e9224884f8293cd22e195f4a978.bindPopup(popup_b0f5b735d73e4be19f252b9ec6ccd43d)
+        ;
+
+        
+    
+    
+            var marker_705382aaef204e0f977fcb63523c6fb8 = L.marker(
+                [30.2790333, -97.74238709999999],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_140fced39f0a421088ec305578066484 = L.popup({"maxWidth": 450});
+
+        
+            var html_9b0ecd2094ab4a3b9f82cad6286622e4 = $(`<div id="html_9b0ecd2094ab4a3b9f82cad6286622e4" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Clay Pit</td>       <td>0.236</td>       <td>0.026</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_140fced39f0a421088ec305578066484.setContent(html_9b0ecd2094ab4a3b9f82cad6286622e4);
+        
+
+        marker_705382aaef204e0f977fcb63523c6fb8.bindPopup(popup_140fced39f0a421088ec305578066484)
+        ;
+
+        
+    
+    
+            var marker_5370f7d34e0044c38da6423d01ceea3c = L.marker(
+                [30.270113000000002, -97.73126600485442],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_0c89cf01908244b8909b4855822ec6e3 = L.popup({"maxWidth": 450});
+
+        
+            var html_e1c306d3f3a54196a0123ffb749b08dd = $(`<div id="html_e1c306d3f3a54196a0123ffb749b08dd" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Franklin Barbecue</td>       <td>0.208</td>       <td>0.046</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_0c89cf01908244b8909b4855822ec6e3.setContent(html_e1c306d3f3a54196a0123ffb749b08dd);
+        
+
+        marker_5370f7d34e0044c38da6423d01ceea3c.bindPopup(popup_0c89cf01908244b8909b4855822ec6e3)
+        ;
+
+        
+    
+    
+            var marker_eeebb67b441e45e4b564e3a261406b98 = L.marker(
+                [30.283795, -97.721271],
+                {}
+            ).addTo(map_978c16e0e1d342e9bf2cfe361a21879f);
+        
+    
+        var popup_eeb40ea5ff0f42bfbaf5d3484c52f928 = L.popup({"maxWidth": 450});
+
+        
+            var html_6cb126a454fd47f0be2f58741d423390 = $(`<div id="html_6cb126a454fd47f0be2f58741d423390" style="width: 100.0%; height: 100.0%;"><table border="1" class="dataframe">   <thead>     <tr style="text-align: right;">       <th></th>       <th>name</th>       <th>pos</th>       <th>neg</th>     </tr>   </thead>   <tbody>     <tr>       <th>0</th>       <td>Salty Sow</td>       <td>0.28</td>       <td>0.04</td>     </tr>   </tbody> </table></div>`)[0];
+            popup_eeb40ea5ff0f42bfbaf5d3484c52f928.setContent(html_6cb126a454fd47f0be2f58741d423390);
+        
+
+        marker_eeebb67b441e45e4b564e3a261406b98.bindPopup(popup_eeb40ea5ff0f42bfbaf5d3484c52f928)
+        ;
+
+        
+    
+</script>

@@ -5,7 +5,7 @@ import webbrowser
 import json
 import os
 
-dataMat = pd.read_csv('dataMap.csv', engine='python')
+dataMat = pd.read_csv('data/dataMap.csv', engine='python')
 x = dataMat['latitude']
 y = dataMat['longitude']
 name = dataMat['name']
@@ -32,7 +32,7 @@ for i in range(len(name)):
     folium.Marker(location=[lng,lat], popup=folium.Popup(html,max_width=450)).add_to(m)
 
 
-file_path = r"marker_chart.html"
+file_path = r"yelpAustin.html"
 m.save(file_path)
 
 webbrowser.open(file_path)

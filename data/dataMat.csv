@@ -1,0 +1,1321 @@
+,Unnamed: 0,name,address,date,neg,neu,pos
+1,1,AustinDailyPress,"        1900 E Martin Luther King Blvd B Austin, TX 78702    ",4_4_2017,0.037000000000000005,0.708,0.255
+2,2,AustinDailyPress,"        1900 E Martin Luther King Blvd B Austin, TX 78702    ",7_5_2016,0.032,0.75,0.218
+3,3,AustinDailyPress,"        1900 E Martin Luther King Blvd B Austin, TX 78702    ",1_30_2017,0.034,0.722,0.244
+4,4,AustinDailyPress,"        1900 E Martin Luther King Blvd B Austin, TX 78702    ",1_5_2018,0.057999999999999996,0.713,0.228
+5,5,AustinDailyPress,"        1900 E Martin Luther King Blvd B Austin, TX 78702    ",4_19_2017,0.053,0.7020000000000001,0.245
+6,6,AustinDailyPress,"        1900 E Martin Luther King Blvd B Austin, TX 78702    ",1_19_2017,0.055999999999999994,0.6970000000000001,0.247
+7,7,AustinDailyPress,"        1900 E Martin Luther King Blvd B Austin, TX 78702    ",10_21_2018,0.040999999999999995,0.737,0.222
+8,8,AustinDailyPress,"        1900 E Martin Luther King Blvd B Austin, TX 78702    ",1_30_2018,0.047,0.693,0.261
+9,9,LupeTortilla,"        701 S Capital Of Texas Hwy Ste K Austin, TX 78746    ",6_18_2015,0.053,0.715,0.23199999999999998
+10,10,LupeTortilla,"        701 S Capital Of Texas Hwy Ste K Austin, TX 78746    ",10_1_2013,0.077,0.748,0.175
+11,11,LupeTortilla,"        701 S Capital Of Texas Hwy Ste K Austin, TX 78746    ",10_5_2015,0.057,0.741,0.20199999999999999
+12,12,LupeTortilla,"        701 S Capital Of Texas Hwy Ste K Austin, TX 78746    ",11_30_2015,0.057999999999999996,0.74,0.20199999999999999
+13,13,LupeTortilla,"        701 S Capital Of Texas Hwy Ste K Austin, TX 78746    ",4_22_2016,0.05,0.7090000000000001,0.24100000000000002
+14,14,LupeTortilla,"        701 S Capital Of Texas Hwy Ste K Austin, TX 78746    ",4_14_2017,0.063,0.705,0.23199999999999998
+15,15,LupeTortilla,"        701 S Capital Of Texas Hwy Ste K Austin, TX 78746    ",7_11_2017,0.031,0.682,0.287
+16,16,LupeTortilla,"        701 S Capital Of Texas Hwy Ste K Austin, TX 78746    ",8_28_2018,0.068,0.753,0.179
+17,17,WorkhorseBar,"        100 N Loop Blvd E Ste B Austin, TX 78751    ",3_17_2015,0.038,0.6759999999999999,0.287
+18,18,WorkhorseBar,"        100 N Loop Blvd E Ste B Austin, TX 78751    ",8_15_2012,0.045,0.74,0.215
+19,19,WorkhorseBar,"        100 N Loop Blvd E Ste B Austin, TX 78751    ",12_31_2012,0.035,0.6759999999999999,0.289
+20,20,AustinDailyPress,"        1900 E Martin Luther King Blvd B Austin, TX 78702    ",2_12_2019,0.07400000000000001,0.721,0.205
+21,21,WorkhorseBar,"        100 N Loop Blvd E Ste B Austin, TX 78751    ",9_8_2014,0.043,0.652,0.304
+22,22,WorkhorseBar,"        100 N Loop Blvd E Ste B Austin, TX 78751    ",4_16_2016,0.073,0.71,0.218
+23,23,WorkhorseBar,"        100 N Loop Blvd E Ste B Austin, TX 78751    ",9_29_2016,0.051,0.684,0.264
+24,24,WorkhorseBar,"        100 N Loop Blvd E Ste B Austin, TX 78751    ",4_10_2012,0.042,0.722,0.23600000000000002
+25,25,WorkhorseBar,"        100 N Loop Blvd E Ste B Austin, TX 78751    ",8_27_2016,0.038,0.738,0.22399999999999998
+26,26,WorkhorseBar,"        100 N Loop Blvd E Ste B Austin, TX 78751    ",2_19_2018,0.051,0.6809999999999999,0.268
+27,27,WorkhorseBar,"        100 N Loop Blvd E Ste B Austin, TX 78751    ",6_30_2019,0.044000000000000004,0.722,0.233
+28,28,ThaiKun,"        11601 Rock Rose Ave Ste 100 Austin, TX 78758    ",8_15_2017,0.052000000000000005,0.7659999999999999,0.182
+29,29,ThaiKun,"        11601 Rock Rose Ave Ste 100 Austin, TX 78758    ",6_16_2018,0.033,0.768,0.19899999999999998
+30,30,ThaiKun,"        11601 Rock Rose Ave Ste 100 Austin, TX 78758    ",12_31_2017,0.053,0.708,0.239
+31,31,ThaiKun,"        11601 Rock Rose Ave Ste 100 Austin, TX 78758    ",7_27_2017,0.054000000000000006,0.7490000000000001,0.19699999999999998
+32,32,ThaiKun,"        11601 Rock Rose Ave Ste 100 Austin, TX 78758    ",5_4_2019,0.06,0.731,0.209
+33,33,ThaiKun,"        11601 Rock Rose Ave Ste 100 Austin, TX 78758    ",5_19_2019,0.048,0.7290000000000001,0.223
+34,34,ThaiKun,"        11601 Rock Rose Ave Ste 100 Austin, TX 78758    ",11_12_2018,0.037000000000000005,0.7070000000000001,0.257
+35,35,ThaiKun,"        11601 Rock Rose Ave Ste 100 Austin, TX 78758    ",12_15_2018,0.054000000000000006,0.738,0.20800000000000002
+36,36,LasTrancas,"        1210 E Cesar Chavez St Austin, TX 78702    ",3_20_2017,0.036000000000000004,0.711,0.252
+37,37,LasTrancas,"        1210 E Cesar Chavez St Austin, TX 78702    ",10_23_2016,0.04,0.727,0.233
+38,38,LasTrancas,"        1210 E Cesar Chavez St Austin, TX 78702    ",2_23_2018,0.06,0.737,0.203
+39,39,LasTrancas,"        1210 E Cesar Chavez St Austin, TX 78702    ",6_14_2017,0.033,0.682,0.285
+40,40,LasTrancas,"        1210 E Cesar Chavez St Austin, TX 78702    ",4_6_2018,0.040999999999999995,0.7170000000000001,0.242
+41,41,LasTrancas,"        1210 E Cesar Chavez St Austin, TX 78702    ",4_23_2018,0.032,0.757,0.21100000000000002
+42,42,JuanInAMillion,"        2300 E Cesar Chavez St Austin, TX 78702    ",8_7_2018,0.042,0.745,0.213
+43,43,JuanInAMillion,"        2300 E Cesar Chavez St Austin, TX 78702    ",7_1_2017,0.045,0.7509999999999999,0.204
+44,44,JuanInAMillion,"        2300 E Cesar Chavez St Austin, TX 78702    ",3_11_2018,0.067,0.747,0.18600000000000003
+45,45,JuanInAMillion,"        2300 E Cesar Chavez St Austin, TX 78702    ",12_22_2018,0.037000000000000005,0.7340000000000001,0.22899999999999998
+46,46,JuanInAMillion,"        2300 E Cesar Chavez St Austin, TX 78702    ",2_8_2019,0.046,0.735,0.218
+47,47,JuanInAMillion,"        2300 E Cesar Chavez St Austin, TX 78702    ",6_29_2019,0.043,0.748,0.209
+48,48,JuanInAMillion,"        2300 E Cesar Chavez St Austin, TX 78702    ",7_17_2019,0.027999999999999997,0.743,0.23
+49,49,JuanInAMillion,"        2300 E Cesar Chavez St Austin, TX 78702    ",3_12_2019,0.033,0.732,0.235
+50,50,JuanInAMillion,"        2300 E Cesar Chavez St Austin, TX 78702    ",4_28_2019,0.04,0.735,0.226
+51,51,RussianHouse,"        307 E 5th St Austin, TX 78701    ",1_17_2018,0.061,0.721,0.218
+52,52,RussianHouse,"        307 E 5th St Austin, TX 78701    ",1_4_2016,0.022000000000000002,0.747,0.231
+53,53,LasTrancas,"        1210 E Cesar Chavez St Austin, TX 78702    ",4_4_2019,0.046,0.733,0.221
+54,54,RussianHouse,"        307 E 5th St Austin, TX 78701    ",6_22_2018,0.051,0.71,0.239
+55,55,RussianHouse,"        307 E 5th St Austin, TX 78701    ",3_22_2018,0.040999999999999995,0.708,0.251
+56,56,RussianHouse,"        307 E 5th St Austin, TX 78701    ",2_1_2019,0.057999999999999996,0.6990000000000001,0.242
+57,57,RussianHouse,"        307 E 5th St Austin, TX 78701    ",4_23_2019,0.032,0.774,0.19399999999999998
+58,58,RussianHouse,"        307 E 5th St Austin, TX 78701    ",6_23_2019,0.038,0.705,0.258
+59,59,JuanInAMillion,"        2300 E Cesar Chavez St Austin, TX 78702    ",7_27_2019,0.028999999999999998,0.728,0.242
+60,60,Pch,"        208 W 4th St Austin, TX 78701    ",2_19_2018,0.039,0.647,0.314
+61,61,Pch,"        208 W 4th St Austin, TX 78701    ",4_14_2016,0.038,0.6940000000000001,0.268
+62,62,Pch,"        208 W 4th St Austin, TX 78701    ",4_19_2019,0.038,0.726,0.235
+63,63,Pch,"        208 W 4th St Austin, TX 78701    ",2_17_2019,0.045,0.6940000000000001,0.262
+64,64,Pch,"        208 W 4th St Austin, TX 78701    ",9_29_2018,0.045,0.6809999999999999,0.27399999999999997
+65,65,UNO,"        3801 N Capital Of Texas Hwy Ste G-100 Austin, TX 78746    ",1_28_2012,0.044000000000000004,0.738,0.218
+66,66,UNO,"        3801 N Capital Of Texas Hwy Ste G-100 Austin, TX 78746    ",5_4_2016,0.040999999999999995,0.718,0.24100000000000002
+67,67,UNO,"        3801 N Capital Of Texas Hwy Ste G-100 Austin, TX 78746    ",7_5_2014,0.047,0.753,0.2
+68,68,UNO,"        3801 N Capital Of Texas Hwy Ste G-100 Austin, TX 78746    ",1_12_2014,0.038,0.738,0.22399999999999998
+69,69,UNO,"        3801 N Capital Of Texas Hwy Ste G-100 Austin, TX 78746    ",1_16_2015,0.045,0.73,0.226
+70,70,UNO,"        3801 N Capital Of Texas Hwy Ste G-100 Austin, TX 78746    ",5_5_2013,0.044000000000000004,0.695,0.26
+71,71,UNO,"        3801 N Capital Of Texas Hwy Ste G-100 Austin, TX 78746    ",6_18_2016,0.068,0.6970000000000001,0.23399999999999999
+72,72,UNO,"        3801 N Capital Of Texas Hwy Ste G-100 Austin, TX 78746    ",11_18_2016,0.07400000000000001,0.727,0.19899999999999998
+73,73,UNO,"        3801 N Capital Of Texas Hwy Ste G-100 Austin, TX 78746    ",7_6_2019,0.035,0.687,0.278
+74,74,ShakeShack,"        1100 S Lamar Ste 2100 Austin, TX 78704    ",5_12_2015,0.071,0.73,0.19899999999999998
+75,75,ShakeShack,"        1100 S Lamar Ste 2100 Austin, TX 78704    ",7_29_2016,0.07400000000000001,0.687,0.239
+76,76,ShakeShack,"        1100 S Lamar Ste 2100 Austin, TX 78704    ",6_3_2016,0.063,0.696,0.24100000000000002
+77,77,ShakeShack,"        1100 S Lamar Ste 2100 Austin, TX 78704    ",6_26_2015,0.066,0.72,0.214
+78,78,ShakeShack,"        1100 S Lamar Ste 2100 Austin, TX 78704    ",5_5_2015,0.057,0.7509999999999999,0.192
+79,79,ShakeShack,"        1100 S Lamar Ste 2100 Austin, TX 78704    ",5_18_2018,0.07,0.721,0.209
+80,80,ShakeShack,"        1100 S Lamar Ste 2100 Austin, TX 78704    ",5_10_2016,0.077,0.7140000000000001,0.209
+81,81,ATXCocina,"        110 San Antonio St Ste 170 Austin, TX 78701    ",11_25_2017,0.042,0.7020000000000001,0.256
+82,82,ATXCocina,"        110 San Antonio St Ste 170 Austin, TX 78701    ",3_9_2018,0.035,0.698,0.267
+83,83,ATXCocina,"        110 San Antonio St Ste 170 Austin, TX 78701    ",12_14_2018,0.025,0.708,0.268
+84,84,ATXCocina,"        110 San Antonio St Ste 170 Austin, TX 78701    ",1_21_2018,0.049,0.6940000000000001,0.256
+85,85,ATXCocina,"        110 San Antonio St Ste 170 Austin, TX 78701    ",3_23_2019,0.05,0.685,0.264
+86,86,ATXCocina,"        110 San Antonio St Ste 170 Austin, TX 78701    ",4_24_2018,0.037000000000000005,0.693,0.27
+87,87,ATXCocina,"        110 San Antonio St Ste 170 Austin, TX 78701    ",5_15_2019,0.027000000000000003,0.7090000000000001,0.264
+88,88,ATXCocina,"        110 San Antonio St Ste 170 Austin, TX 78701    ",7_8_2019,0.026000000000000002,0.682,0.292
+89,89,ShakeShack,"        1100 S Lamar Ste 2100 Austin, TX 78704    ",4_1_2019,0.09,0.725,0.185
+90,90,ATXCocina,"        110 San Antonio St Ste 170 Austin, TX 78701    ",7_29_2019,0.028999999999999998,0.7120000000000001,0.259
+91,91,ChosunKoreanBBQ,"        713 E Huntland Dr Austin, TX 78752    ",5_8_2016,0.045,0.743,0.21100000000000002
+92,92,ChosunKoreanBBQ,"        713 E Huntland Dr Austin, TX 78752    ",8_22_2015,0.039,0.747,0.215
+93,93,ChosunKoreanBBQ,"        713 E Huntland Dr Austin, TX 78752    ",1_3_2012,0.038,0.7509999999999999,0.212
+94,94,ChosunKoreanBBQ,"        713 E Huntland Dr Austin, TX 78752    ",5_9_2016,0.042,0.767,0.191
+95,95,ChosunKoreanBBQ,"        713 E Huntland Dr Austin, TX 78752    ",3_6_2017,0.049,0.77,0.18100000000000002
+96,96,ChosunKoreanBBQ,"        713 E Huntland Dr Austin, TX 78752    ",3_12_2019,0.066,0.795,0.14
+97,97,ChosunKoreanBBQ,"        713 E Huntland Dr Austin, TX 78752    ",10_11_2016,0.061,0.755,0.184
+98,98,VespaioRistorante,"        1610 South Congress Ave Austin, TX 78704    ",2_24_2016,0.045,0.715,0.24
+99,99,VespaioRistorante,"        1610 South Congress Ave Austin, TX 78704    ",2_13_2014,0.040999999999999995,0.71,0.249
+100,100,VespaioRistorante,"        1610 South Congress Ave Austin, TX 78704    ",10_11_2014,0.032,0.6759999999999999,0.292
+101,101,VespaioRistorante,"        1610 South Congress Ave Austin, TX 78704    ",12_11_2015,0.038,0.6920000000000001,0.271
+102,102,VespaioRistorante,"        1610 South Congress Ave Austin, TX 78704    ",12_4_2017,0.027000000000000003,0.682,0.29100000000000004
+103,103,VespaioRistorante,"        1610 South Congress Ave Austin, TX 78704    ",2_5_2018,0.027999999999999997,0.7240000000000001,0.248
+104,104,VespaioRistorante,"        1610 South Congress Ave Austin, TX 78704    ",10_4_2018,0.042,0.725,0.233
+105,105,KoreaHouse,"        2700 W Anderson Ln Ste 501 Austin, TX 78757    ",10_9_2017,0.048,0.726,0.22699999999999998
+106,106,KoreaHouse,"        2700 W Anderson Ln Ste 501 Austin, TX 78757    ",8_1_2014,0.033,0.757,0.21
+107,107,ChosunKoreanBBQ,"        713 E Huntland Dr Austin, TX 78752    ",6_6_2019,0.042,0.805,0.153
+108,108,KoreaHouse,"        2700 W Anderson Ln Ste 501 Austin, TX 78757    ",6_13_2018,0.087,0.7490000000000001,0.16399999999999998
+109,109,KoreaHouse,"        2700 W Anderson Ln Ste 501 Austin, TX 78757    ",7_23_2015,0.08,0.7559999999999999,0.16399999999999998
+110,110,KoreaHouse,"        2700 W Anderson Ln Ste 501 Austin, TX 78757    ",12_15_2018,0.08,0.763,0.157
+111,111,KoreaHouse,"        2700 W Anderson Ln Ste 501 Austin, TX 78757    ",2_4_2019,0.04,0.757,0.204
+112,112,ArpeggioGrill,"        6619 Airport Blvd Austin, TX 78752    ",12_9_2017,0.051,0.687,0.262
+113,113,ArpeggioGrill,"        6619 Airport Blvd Austin, TX 78752    ",6_8_2016,0.051,0.6859999999999999,0.263
+114,114,VespaioRistorante,"        1610 South Congress Ave Austin, TX 78704    ",4_12_2019,0.038,0.706,0.256
+115,115,ArpeggioGrill,"        6619 Airport Blvd Austin, TX 78752    ",7_8_2017,0.039,0.7340000000000001,0.22699999999999998
+116,116,ArpeggioGrill,"        6619 Airport Blvd Austin, TX 78752    ",12_19_2017,0.04,0.684,0.276
+117,117,ArpeggioGrill,"        6619 Airport Blvd Austin, TX 78752    ",8_20_2018,0.071,0.7020000000000001,0.22699999999999998
+118,118,ArpeggioGrill,"        6619 Airport Blvd Austin, TX 78752    ",2_8_2018,0.035,0.722,0.243
+119,119,ArpeggioGrill,"        6619 Airport Blvd Austin, TX 78752    ",6_22_2019,0.055,0.716,0.22899999999999998
+120,120,FlowerChild,"        500 W 2nd St Austin, TX 78701    ",1_29_2018,0.039,0.7190000000000001,0.242
+121,121,KoreaHouse,"        2700 W Anderson Ln Ste 501 Austin, TX 78757    ",7_19_2019,0.059000000000000004,0.731,0.21100000000000002
+122,122,FlowerChild,"        500 W 2nd St Austin, TX 78701    ",3_31_2018,0.04,0.652,0.308
+123,123,FlowerChild,"        500 W 2nd St Austin, TX 78701    ",1_19_2019,0.051,0.7170000000000001,0.23199999999999998
+124,124,FlowerChild,"        500 W 2nd St Austin, TX 78701    ",11_7_2018,0.036000000000000004,0.657,0.306
+125,125,FlowerChild,"        500 W 2nd St Austin, TX 78701    ",3_13_2018,0.045,0.7090000000000001,0.24600000000000002
+126,126,FlowerChild,"        500 W 2nd St Austin, TX 78701    ",2_16_2019,0.027000000000000003,0.6779999999999999,0.295
+127,127,CitizenEatery,"        5011 Burnet Rd Austin, TX 78756    ",2_9_2017,0.034,0.706,0.26
+128,128,CitizenEatery,"        5011 Burnet Rd Austin, TX 78756    ",7_3_2017,0.027000000000000003,0.733,0.24100000000000002
+129,129,ArpeggioGrill,"        6619 Airport Blvd Austin, TX 78752    ",7_21_2019,0.035,0.723,0.243
+130,130,CitizenEatery,"        5011 Burnet Rd Austin, TX 78756    ",5_20_2018,0.054000000000000006,0.718,0.228
+131,131,CitizenEatery,"        5011 Burnet Rd Austin, TX 78756    ",3_9_2019,0.043,0.71,0.24600000000000002
+132,132,CitizenEatery,"        5011 Burnet Rd Austin, TX 78756    ",6_14_2019,0.045,0.7170000000000001,0.239
+133,133,CitizenEatery,"        5011 Burnet Rd Austin, TX 78756    ",5_11_2019,0.062,0.7040000000000001,0.23399999999999999
+134,134,CitizenEatery,"        5011 Burnet Rd Austin, TX 78756    ",1_21_2019,0.07400000000000001,0.7120000000000001,0.214
+135,135,CitizenEatery,"        5011 Burnet Rd Austin, TX 78756    ",10_31_2018,0.04,0.711,0.249
+136,136,CitizenEatery,"        5011 Burnet Rd Austin, TX 78756    ",9_26_2018,0.027000000000000003,0.662,0.311
+137,137,TheBonneville,"        202 W Cesar Chavez St Austin, TX 78701    ",3_12_2017,0.065,0.657,0.278
+138,138,TheBonneville,"        202 W Cesar Chavez St Austin, TX 78701    ",8_8_2016,0.051,0.706,0.243
+139,139,FlowerChild,"        500 W 2nd St Austin, TX 78701    ",7_23_2019,0.022000000000000002,0.672,0.306
+140,140,TheBonneville,"        202 W Cesar Chavez St Austin, TX 78701    ",8_19_2016,0.042,0.69,0.268
+141,141,TheBonneville,"        202 W Cesar Chavez St Austin, TX 78701    ",6_29_2018,0.044000000000000004,0.746,0.21
+142,142,TheBonneville,"        202 W Cesar Chavez St Austin, TX 78701    ",1_9_2018,0.045,0.698,0.257
+143,143,TheBonneville,"        202 W Cesar Chavez St Austin, TX 78701    ",2_26_2017,0.031,0.703,0.265
+144,144,Nasha,"        1614 E 7th St Austin, TX 78702    ",1_3_2016,0.054000000000000006,0.701,0.24600000000000002
+145,145,Nasha,"        1614 E 7th St Austin, TX 78702    ",3_24_2015,0.037000000000000005,0.736,0.22699999999999998
+146,146,Nasha,"        1614 E 7th St Austin, TX 78702    ",11_22_2017,0.096,0.718,0.185
+147,147,CitizenEatery,"        5011 Burnet Rd Austin, TX 78756    ",7_31_2019,0.047,0.727,0.226
+148,148,Nasha,"        1614 E 7th St Austin, TX 78702    ",4_20_2017,0.06,0.746,0.19399999999999998
+149,149,Nasha,"        1614 E 7th St Austin, TX 78702    ",5_27_2018,0.07,0.7070000000000001,0.223
+150,150,Nasha,"        1614 E 7th St Austin, TX 78702    ",12_10_2017,0.076,0.6859999999999999,0.23800000000000002
+151,151,Nasha,"        1614 E 7th St Austin, TX 78702    ",12_3_2018,0.040999999999999995,0.721,0.237
+152,152,Nasha,"        1614 E 7th St Austin, TX 78702    ",6_24_2019,0.061,0.74,0.19899999999999998
+153,153,TheBonneville,"        202 W Cesar Chavez St Austin, TX 78701    ",2_23_2019,0.07,0.72,0.21
+154,154,Nasha,"        1614 E 7th St Austin, TX 78702    ",5_12_2019,0.039,0.716,0.245
+155,155,BatonCreole,"        1016 E 6th St Austin, TX 78702    ",3_16_2013,0.021,0.713,0.266
+156,156,BatonCreole,"        1016 E 6th St Austin, TX 78702    ",5_3_2014,0.035,0.688,0.27699999999999997
+157,157,BatonCreole,"        1016 E 6th St Austin, TX 78702    ",4_19_2015,0.033,0.726,0.24
+158,158,BatonCreole,"        1016 E 6th St Austin, TX 78702    ",10_31_2015,0.04,0.7,0.26
+159,159,BatonCreole,"        1016 E 6th St Austin, TX 78702    ",7_20_2015,0.059000000000000004,0.7090000000000001,0.233
+160,160,BatonCreole,"        1016 E 6th St Austin, TX 78702    ",5_21_2017,0.037000000000000005,0.7140000000000001,0.249
+161,161,BatonCreole,"        1016 E 6th St Austin, TX 78702    ",8_14_2016,0.044000000000000004,0.718,0.23800000000000002
+162,162,BatonCreole,"        1016 E 6th St Austin, TX 78702    ",10_20_2017,0.059000000000000004,0.762,0.179
+163,163,BatonCreole,"        1016 E 6th St Austin, TX 78702    ",12_13_2017,0.031,0.679,0.29
+164,164,VivoAustin,"        6406 N I 35 Ste 2343 Austin, TX 78752    ",7_27_2015,0.044000000000000004,0.71,0.24600000000000002
+165,165,VivoAustin,"        6406 N I 35 Ste 2343 Austin, TX 78752    ",7_19_2015,0.066,0.745,0.18899999999999997
+166,166,VivoAustin,"        6406 N I 35 Ste 2343 Austin, TX 78752    ",6_4_2016,0.062,0.69,0.248
+167,167,VivoAustin,"        6406 N I 35 Ste 2343 Austin, TX 78752    ",11_15_2015,0.034,0.6609999999999999,0.305
+168,168,VivoAustin,"        6406 N I 35 Ste 2343 Austin, TX 78752    ",4_23_2017,0.033,0.737,0.23
+169,169,VivoAustin,"        6406 N I 35 Ste 2343 Austin, TX 78752    ",4_14_2018,0.045,0.711,0.244
+170,170,VivoAustin,"        6406 N I 35 Ste 2343 Austin, TX 78752    ",2_21_2018,0.033,0.6940000000000001,0.273
+171,171,VivoAustin,"        6406 N I 35 Ste 2343 Austin, TX 78752    ",7_21_2018,0.047,0.705,0.248
+172,172,VivoAustin,"        6406 N I 35 Ste 2343 Austin, TX 78752    ",3_31_2019,0.054000000000000006,0.71,0.23600000000000002
+173,173,NeWorlDeli,"        4101 Guadalupe St Ste 100 Austin, TX 78751    ",3_3_2010,0.047,0.7390000000000001,0.214
+174,174,NeWorlDeli,"        4101 Guadalupe St Ste 100 Austin, TX 78751    ",5_16_2016,0.03,0.7140000000000001,0.256
+175,175,NeWorlDeli,"        4101 Guadalupe St Ste 100 Austin, TX 78751    ",11_2_2015,0.033,0.721,0.24600000000000002
+176,176,NeWorlDeli,"        4101 Guadalupe St Ste 100 Austin, TX 78751    ",1_16_2015,0.027999999999999997,0.736,0.23600000000000002
+177,177,NeWorlDeli,"        4101 Guadalupe St Ste 100 Austin, TX 78751    ",10_24_2018,0.023,0.7020000000000001,0.275
+178,178,NeWorlDeli,"        4101 Guadalupe St Ste 100 Austin, TX 78751    ",3_21_2019,0.035,0.736,0.228
+181,181,LuckyRobot,"        1303 S Congress Austin, TX 78704    ",8_19_2017,0.049,0.726,0.225
+182,182,LuckyRobot,"        1303 S Congress Austin, TX 78704    ",10_29_2018,0.028999999999999998,0.747,0.22399999999999998
+184,184,LuckyRobot,"        1303 S Congress Austin, TX 78704    ",11_27_2016,0.042,0.675,0.28300000000000003
+185,185,LuckyRobot,"        1303 S Congress Austin, TX 78704    ",12_2_2017,0.036000000000000004,0.72,0.244
+186,186,LuckyRobot,"        1303 S Congress Austin, TX 78704    ",2_3_2019,0.039,0.735,0.226
+187,187,LuckyRobot,"        1303 S Congress Austin, TX 78704    ",12_7_2018,0.044000000000000004,0.728,0.228
+188,188,LuckyRobot,"        1303 S Congress Austin, TX 78704    ",3_24_2019,0.049,0.721,0.23
+189,189,LuckyRobot,"        1303 S Congress Austin, TX 78704    ",5_30_2019,0.062,0.721,0.217
+190,190,LuckyRobot,"        1303 S Congress Austin, TX 78704    ",2_19_2019,0.034,0.727,0.239
+191,191,JulioCaf,"        4230 Duval St Austin, TX 78751    ",5_18_2008,0.04,0.69,0.27
+192,192,JulioCaf,"        4230 Duval St Austin, TX 78751    ",8_26_2014,0.03,0.778,0.191
+193,193,JulioCaf,"        4230 Duval St Austin, TX 78751    ",9_28_2015,0.034,0.7120000000000001,0.254
+194,194,JulioCaf,"        4230 Duval St Austin, TX 78751    ",8_8_2011,0.052000000000000005,0.7609999999999999,0.187
+195,195,JulioCaf,"        4230 Duval St Austin, TX 78751    ",7_24_2014,0.046,0.735,0.21899999999999997
+196,196,JulioCaf,"        4230 Duval St Austin, TX 78751    ",5_4_2014,0.049,0.7040000000000001,0.247
+197,197,JulioCaf,"        4230 Duval St Austin, TX 78751    ",12_18_2014,0.051,0.728,0.221
+198,198,JulioCaf,"        4230 Duval St Austin, TX 78751    ",12_8_2018,0.051,0.69,0.259
+199,199,LuckyRobot,"        1303 S Congress Austin, TX 78704    ",7_20_2019,0.048,0.745,0.207
+200,200,Cipollina,"        1213 W Lynn St Austin, TX 78703    ",11_15_2007,0.042,0.763,0.195
+201,201,Cipollina,"        1213 W Lynn St Austin, TX 78703    ",11_12_2010,0.043,0.716,0.24100000000000002
+202,202,Cipollina,"        1213 W Lynn St Austin, TX 78703    ",11_12_2013,0.033,0.759,0.20800000000000002
+203,203,JulioCaf,"        4230 Duval St Austin, TX 78751    ",6_21_2019,0.053,0.711,0.23600000000000002
+204,204,Cipollina,"        1213 W Lynn St Austin, TX 78703    ",3_2_2014,0.057999999999999996,0.7440000000000001,0.198
+205,205,Cipollina,"        1213 W Lynn St Austin, TX 78703    ",5_16_2015,0.061,0.726,0.214
+206,206,Cipollina,"        1213 W Lynn St Austin, TX 78703    ",1_2_2016,0.065,0.727,0.20800000000000002
+207,207,Cipollina,"        1213 W Lynn St Austin, TX 78703    ",9_5_2018,0.031,0.723,0.24600000000000002
+208,208,Cipollina,"        1213 W Lynn St Austin, TX 78703    ",12_1_2018,0.066,0.71,0.22399999999999998
+209,209,Cipollina,"        1213 W Lynn St Austin, TX 78703    ",6_4_2019,0.038,0.723,0.239
+219,219,Chuy,"        1728 Barton Springs Rd Austin, TX 78704    ",8_13_2017,0.039,0.705,0.256
+220,220,Chuy,"        1728 Barton Springs Rd Austin, TX 78704    ",11_5_2018,0.039,0.727,0.233
+221,221,Chuy,"        1728 Barton Springs Rd Austin, TX 78704    ",2_20_2019,0.037000000000000005,0.7140000000000001,0.249
+222,222,Chuy,"        1728 Barton Springs Rd Austin, TX 78704    ",6_6_2017,0.046,0.672,0.28300000000000003
+223,223,Chuy,"        1728 Barton Springs Rd Austin, TX 78704    ",2_25_2019,0.043,0.7490000000000001,0.20800000000000002
+224,224,Chuy,"        1728 Barton Springs Rd Austin, TX 78704    ",5_4_2019,0.054000000000000006,0.6709999999999999,0.275
+225,225,Chuy,"        1728 Barton Springs Rd Austin, TX 78704    ",1_20_2019,0.026000000000000002,0.743,0.23
+228,228,GinoVinoOsteria,"        1239 E 51st St Austin, TX 78723    ",8_7_2017,0.037000000000000005,0.66,0.303
+229,229,GinoVinoOsteria,"        1239 E 51st St Austin, TX 78723    ",7_7_2018,0.043,0.713,0.244
+230,230,GinoVinoOsteria,"        1239 E 51st St Austin, TX 78723    ",12_9_2017,0.012,0.642,0.34600000000000003
+231,231,Chuy,"        1728 Barton Springs Rd Austin, TX 78704    ",6_3_2019,0.04,0.685,0.275
+232,232,GinoVinoOsteria,"        1239 E 51st St Austin, TX 78723    ",4_12_2017,0.06,0.6990000000000001,0.24100000000000002
+233,233,GinoVinoOsteria,"        1239 E 51st St Austin, TX 78723    ",5_25_2018,0.013000000000000001,0.637,0.349
+234,234,GinoVinoOsteria,"        1239 E 51st St Austin, TX 78723    ",11_6_2018,0.018000000000000002,0.687,0.295
+235,235,GinoVinoOsteria,"        1239 E 51st St Austin, TX 78723    ",5_21_2018,0.038,0.687,0.275
+236,236,GinoVinoOsteria,"        1239 E 51st St Austin, TX 78723    ",12_1_2018,0.048,0.7,0.252
+237,237,Lcadro,"        1900 Simond Ave Austin, TX 78723    ",5_22_2017,0.044000000000000004,0.731,0.22399999999999998
+238,238,Lcadro,"        1900 Simond Ave Austin, TX 78723    ",3_2_2018,0.034,0.76,0.20600000000000002
+240,240,Lcadro,"        1900 Simond Ave Austin, TX 78723    ",5_27_2018,0.047,0.688,0.265
+241,241,Lcadro,"        1900 Simond Ave Austin, TX 78723    ",7_29_2018,0.040999999999999995,0.713,0.247
+242,242,Lcadro,"        1900 Simond Ave Austin, TX 78723    ",7_30_2018,0.032,0.69,0.27699999999999997
+243,243,GinoVinoOsteria,"        1239 E 51st St Austin, TX 78723    ",4_28_2019,0.05,0.71,0.24
+244,244,TheBackspace,"        507 San Jacinto St Austin, TX 78701    ",6_2_2014,0.045,0.682,0.273
+245,245,TheBackspace,"        507 San Jacinto St Austin, TX 78701    ",4_29_2018,0.04,0.7390000000000001,0.221
+246,246,TheBackspace,"        507 San Jacinto St Austin, TX 78701    ",5_12_2016,0.047,0.679,0.27399999999999997
+247,247,TheBackspace,"        507 San Jacinto St Austin, TX 78701    ",12_5_2017,0.062,0.7390000000000001,0.19899999999999998
+248,248,TheBackspace,"        507 San Jacinto St Austin, TX 78701    ",3_18_2018,0.044000000000000004,0.7040000000000001,0.252
+249,249,TheBackspace,"        507 San Jacinto St Austin, TX 78701    ",5_6_2018,0.027000000000000003,0.708,0.266
+250,250,TheBackspace,"        507 San Jacinto St Austin, TX 78701    ",4_20_2017,0.048,0.7190000000000001,0.23399999999999999
+251,251,TheBackspace,"        507 San Jacinto St Austin, TX 78701    ",12_1_2018,0.055999999999999994,0.695,0.249
+252,252,TheBackspace,"        507 San Jacinto St Austin, TX 78701    ",2_18_2019,0.063,0.759,0.17800000000000002
+253,253,KBop,"        2002 Guadalupe St Ste B Austin, TX 78705    ",1_6_2017,0.032,0.74,0.22899999999999998
+254,254,TheBackspace,"        507 San Jacinto St Austin, TX 78701    ",6_4_2019,0.052000000000000005,0.742,0.20600000000000002
+255,255,KBop,"        2002 Guadalupe St Ste B Austin, TX 78705    ",2_13_2017,0.06,0.669,0.271
+256,256,KBop,"        2002 Guadalupe St Ste B Austin, TX 78705    ",9_9_2017,0.047,0.715,0.239
+257,257,KBop,"        2002 Guadalupe St Ste B Austin, TX 78705    ",3_30_2018,0.034,0.752,0.214
+258,258,KBop,"        2002 Guadalupe St Ste B Austin, TX 78705    ",4_25_2017,0.025,0.721,0.254
+259,259,KBop,"        2002 Guadalupe St Ste B Austin, TX 78705    ",5_21_2018,0.040999999999999995,0.741,0.218
+260,260,KBop,"        2002 Guadalupe St Ste B Austin, TX 78705    ",10_26_2018,0.063,0.762,0.17600000000000002
+261,261,SouthCongressCafe,"        1600 S Congress Ave Austin, TX 78704    ",8_6_2018,0.043,0.711,0.24600000000000002
+262,262,SouthCongressCafe,"        1600 S Congress Ave Austin, TX 78704    ",12_17_2018,0.044000000000000004,0.7190000000000001,0.237
+263,263,SouthCongressCafe,"        1600 S Congress Ave Austin, TX 78704    ",3_10_2019,0.059000000000000004,0.7020000000000001,0.239
+264,264,SouthCongressCafe,"        1600 S Congress Ave Austin, TX 78704    ",6_13_2018,0.040999999999999995,0.753,0.20600000000000002
+265,265,SouthCongressCafe,"        1600 S Congress Ave Austin, TX 78704    ",8_12_2018,0.043,0.7140000000000001,0.243
+266,266,SouthCongressCafe,"        1600 S Congress Ave Austin, TX 78704    ",7_10_2019,0.034,0.705,0.261
+267,267,KBop,"        2002 Guadalupe St Ste B Austin, TX 78705    ",7_11_2019,0.062,0.753,0.185
+268,268,SouthCongressCafe,"        1600 S Congress Ave Austin, TX 78704    ",7_31_2019,0.046,0.7440000000000001,0.21100000000000002
+269,269,Eureka,"        200 E 6th St Austin, TX 78701    ",9_6_2018,0.057999999999999996,0.682,0.26
+270,270,Eureka,"        200 E 6th St Austin, TX 78701    ",12_2_2018,0.035,0.7070000000000001,0.259
+271,271,Eureka,"        200 E 6th St Austin, TX 78701    ",2_17_2017,0.065,0.7040000000000001,0.231
+272,272,Eureka,"        200 E 6th St Austin, TX 78701    ",9_4_2018,0.04,0.6940000000000001,0.266
+273,273,Eureka,"        200 E 6th St Austin, TX 78701    ",5_10_2018,0.046,0.6970000000000001,0.257
+274,274,Eureka,"        200 E 6th St Austin, TX 78701    ",3_1_2019,0.033,0.6679999999999999,0.299
+275,275,Eureka,"        200 E 6th St Austin, TX 78701    ",6_14_2018,0.046,0.737,0.217
+276,276,Eureka,"        200 E 6th St Austin, TX 78701    ",2_24_2019,0.027999999999999997,0.684,0.287
+277,277,PokePoke,"        3100 S Congress Ave Ste A Austin, TX 78704    ",8_26_2016,0.06,0.71,0.23
+278,278,PokePoke,"        3100 S Congress Ave Ste A Austin, TX 78704    ",8_18_2016,0.049,0.752,0.19899999999999998
+279,279,PokePoke,"        3100 S Congress Ave Ste A Austin, TX 78704    ",4_8_2017,0.064,0.6890000000000001,0.247
+280,280,Eureka,"        200 E 6th St Austin, TX 78701    ",7_30_2019,0.026000000000000002,0.71,0.264
+281,281,PokePoke,"        3100 S Congress Ave Ste A Austin, TX 78704    ",9_21_2016,0.04,0.728,0.23199999999999998
+282,282,PokePoke,"        3100 S Congress Ave Ste A Austin, TX 78704    ",1_9_2019,0.036000000000000004,0.72,0.244
+283,283,PokePoke,"        3100 S Congress Ave Ste A Austin, TX 78704    ",1_20_2017,0.042,0.746,0.213
+284,284,PokePoke,"        3100 S Congress Ave Ste A Austin, TX 78704    ",1_3_2018,0.045,0.675,0.28
+285,285,BillyonBurnet,"        2105 Hancock Dr Austin, TX 78756    ",2_2_2014,0.047,0.746,0.207
+286,286,BillyonBurnet,"        2105 Hancock Dr Austin, TX 78756    ",7_26_2014,0.045,0.675,0.27899999999999997
+287,287,BillyonBurnet,"        2105 Hancock Dr Austin, TX 78756    ",5_13_2014,0.057,0.716,0.22699999999999998
+288,288,BillyonBurnet,"        2105 Hancock Dr Austin, TX 78756    ",1_10_2017,0.064,0.7040000000000001,0.233
+289,289,BillyonBurnet,"        2105 Hancock Dr Austin, TX 78756    ",5_6_2014,0.038,0.703,0.259
+290,290,BillyonBurnet,"        2105 Hancock Dr Austin, TX 78756    ",5_29_2014,0.043,0.735,0.223
+291,291,BillyonBurnet,"        2105 Hancock Dr Austin, TX 78756    ",1_19_2015,0.043,0.753,0.204
+292,292,BillyonBurnet,"        2105 Hancock Dr Austin, TX 78756    ",7_25_2017,0.071,0.7170000000000001,0.212
+293,293,GalaxyCafe,"        1000 W Lynn St Austin, TX 78703    ",1_14_2008,0.061,0.7120000000000001,0.22699999999999998
+294,294,GalaxyCafe,"        1000 W Lynn St Austin, TX 78703    ",2_10_2012,0.049,0.722,0.22899999999999998
+295,295,GalaxyCafe,"        1000 W Lynn St Austin, TX 78703    ",12_17_2015,0.061,0.684,0.256
+296,296,GalaxyCafe,"        1000 W Lynn St Austin, TX 78703    ",9_26_2015,0.045,0.7120000000000001,0.244
+297,297,GalaxyCafe,"        1000 W Lynn St Austin, TX 78703    ",4_6_2017,0.046,0.6970000000000001,0.257
+298,298,GalaxyCafe,"        1000 W Lynn St Austin, TX 78703    ",7_12_2016,0.07,0.653,0.27699999999999997
+299,299,GalaxyCafe,"        1000 W Lynn St Austin, TX 78703    ",7_29_2017,0.036000000000000004,0.6859999999999999,0.278
+300,300,GalaxyCafe,"        1000 W Lynn St Austin, TX 78703    ",10_26_2018,0.053,0.7020000000000001,0.24600000000000002
+301,301,MaiThaiRestaurant,"        207 San Jacinto Blvd Ste 201 Austin, TX 78701    ",9_9_2014,0.040999999999999995,0.754,0.205
+302,302,MaiThaiRestaurant,"        207 San Jacinto Blvd Ste 201 Austin, TX 78701    ",6_29_2017,0.065,0.763,0.172
+303,303,MaiThaiRestaurant,"        207 San Jacinto Blvd Ste 201 Austin, TX 78701    ",12_3_2015,0.028999999999999998,0.754,0.21600000000000003
+304,304,MaiThaiRestaurant,"        207 San Jacinto Blvd Ste 201 Austin, TX 78701    ",2_24_2019,0.032,0.725,0.243
+305,305,MaiThaiRestaurant,"        207 San Jacinto Blvd Ste 201 Austin, TX 78701    ",12_30_2018,0.032,0.743,0.225
+306,306,MaiThaiRestaurant,"        207 San Jacinto Blvd Ste 201 Austin, TX 78701    ",8_1_2016,0.064,0.687,0.249
+307,307,MaiThaiRestaurant,"        207 San Jacinto Blvd Ste 201 Austin, TX 78701    ",6_11_2017,0.033,0.7170000000000001,0.25
+308,308,MaiThaiRestaurant,"        207 San Jacinto Blvd Ste 201 Austin, TX 78701    ",10_7_2018,0.044000000000000004,0.728,0.228
+309,309,GalaxyCafe,"        1000 W Lynn St Austin, TX 78703    ",7_18_2019,0.044000000000000004,0.703,0.254
+310,310,HalalBros,"        419 E 7th St Austin, TX 78701    ",8_6_2011,0.01,0.675,0.315
+311,311,HalalBros,"        419 E 7th St Austin, TX 78701    ",11_28_2011,0.057,0.7020000000000001,0.24100000000000002
+312,312,HalalBros,"        419 E 7th St Austin, TX 78701    ",3_18_2013,0.062,0.759,0.179
+313,313,HalalBros,"        419 E 7th St Austin, TX 78701    ",6_12_2017,0.06,0.718,0.222
+314,314,MaiThaiRestaurant,"        207 San Jacinto Blvd Ste 201 Austin, TX 78701    ",7_21_2019,0.036000000000000004,0.7020000000000001,0.262
+315,315,HalalBros,"        419 E 7th St Austin, TX 78701    ",2_5_2019,0.059000000000000004,0.726,0.215
+316,316,ColleenKitchen,"        1911 Aldrich St Ste 100 Austin, TX 78723    ",6_18_2018,0.048,0.655,0.297
+317,317,ColleenKitchen,"        1911 Aldrich St Ste 100 Austin, TX 78723    ",11_23_2018,0.043,0.688,0.26899999999999996
+318,318,ColleenKitchen,"        1911 Aldrich St Ste 100 Austin, TX 78723    ",2_21_2018,0.045,0.7190000000000001,0.23600000000000002
+319,319,ColleenKitchen,"        1911 Aldrich St Ste 100 Austin, TX 78723    ",4_26_2018,0.073,0.7170000000000001,0.21
+320,320,ColleenKitchen,"        1911 Aldrich St Ste 100 Austin, TX 78723    ",6_24_2018,0.059000000000000004,0.7120000000000001,0.22899999999999998
+321,321,ColleenKitchen,"        1911 Aldrich St Ste 100 Austin, TX 78723    ",12_31_2018,0.037000000000000005,0.7,0.263
+322,322,ColleenKitchen,"        1911 Aldrich St Ste 100 Austin, TX 78723    ",6_22_2019,0.047,0.7090000000000001,0.244
+323,323,ColleenKitchen,"        1911 Aldrich St Ste 100 Austin, TX 78723    ",4_8_2019,0.031,0.735,0.23399999999999999
+325,325,ElTaquito,"        1713 E Riverside Dr Austin, TX 78741    ",8_30_2015,0.048,0.754,0.198
+326,326,ElTaquito,"        1713 E Riverside Dr Austin, TX 78741    ",11_24_2014,0.064,0.768,0.16899999999999998
+327,327,ElTaquito,"        1713 E Riverside Dr Austin, TX 78741    ",2_9_2015,0.078,0.693,0.22899999999999998
+328,328,ElTaquito,"        1713 E Riverside Dr Austin, TX 78741    ",1_25_2018,0.083,0.753,0.16399999999999998
+329,329,ElTaquito,"        1713 E Riverside Dr Austin, TX 78741    ",3_5_2019,0.055999999999999994,0.7340000000000001,0.21
+330,330,ElTaquito,"        1713 E Riverside Dr Austin, TX 78741    ",3_11_2019,0.057999999999999996,0.716,0.226
+331,331,ElTaquito,"        1713 E Riverside Dr Austin, TX 78741    ",10_6_2018,0.057,0.7240000000000001,0.21899999999999997
+332,332,ElTaquito,"        1713 E Riverside Dr Austin, TX 78741    ",6_17_2018,0.057,0.7440000000000001,0.19899999999999998
+333,333,TinyBoxwoods,"        1503 W 35th St Austin, TX 78703    ",11_30_2017,0.07400000000000001,0.7559999999999999,0.171
+334,334,TinyBoxwoods,"        1503 W 35th St Austin, TX 78703    ",11_10_2017,0.057999999999999996,0.715,0.22699999999999998
+335,335,TinyBoxwoods,"        1503 W 35th St Austin, TX 78703    ",10_14_2018,0.039,0.72,0.24100000000000002
+336,336,TinyBoxwoods,"        1503 W 35th St Austin, TX 78703    ",9_2_2018,0.057999999999999996,0.71,0.23199999999999998
+337,337,TinyBoxwoods,"        1503 W 35th St Austin, TX 78703    ",4_14_2019,0.055999999999999994,0.721,0.223
+338,338,TinyBoxwoods,"        1503 W 35th St Austin, TX 78703    ",5_13_2019,0.07,0.695,0.235
+339,339,ElTaquito,"        1713 E Riverside Dr Austin, TX 78741    ",7_17_2019,0.024,0.716,0.261
+342,342,PappasitoCantina,"        6513 I-35 N Austin, TX 78752    ",5_23_2017,0.077,0.732,0.191
+343,343,PappasitoCantina,"        6513 I-35 N Austin, TX 78752    ",5_31_2017,0.062,0.732,0.20600000000000002
+344,344,PappasitoCantina,"        6513 I-35 N Austin, TX 78752    ",7_15_2018,0.045,0.767,0.188
+345,345,PappasitoCantina,"        6513 I-35 N Austin, TX 78752    ",9_6_2018,0.047,0.731,0.222
+346,346,PappasitoCantina,"        6513 I-35 N Austin, TX 78752    ",12_19_2018,0.066,0.741,0.193
+347,347,PappasitoCantina,"        6513 I-35 N Austin, TX 78752    ",8_4_2018,0.08900000000000001,0.721,0.19
+348,348,PappasitoCantina,"        6513 I-35 N Austin, TX 78752    ",10_7_2018,0.063,0.747,0.19
+349,349,Launderette,"        2115 Holly St Austin, TX 78702    ",10_24_2016,0.033,0.7090000000000001,0.257
+350,350,Launderette,"        2115 Holly St Austin, TX 78702    ",6_8_2018,0.042,0.6920000000000001,0.265
+351,351,Launderette,"        2115 Holly St Austin, TX 78702    ",3_5_2018,0.038,0.68,0.282
+352,352,Launderette,"        2115 Holly St Austin, TX 78702    ",9_11_2018,0.036000000000000004,0.682,0.282
+353,353,Launderette,"        2115 Holly St Austin, TX 78702    ",6_14_2019,0.04,0.721,0.239
+354,354,Launderette,"        2115 Holly St Austin, TX 78702    ",5_5_2019,0.031,0.705,0.265
+355,355,PappasitoCantina,"        6513 I-35 N Austin, TX 78752    ",5_28_2019,0.071,0.775,0.154
+358,358,Launderette,"        2115 Holly St Austin, TX 78702    ",6_21_2019,0.039,0.6809999999999999,0.28
+362,362,DEEDEE,"        4204 Manchaca Rd Austin, TX 78745    ",4_30_2017,0.028999999999999998,0.733,0.23800000000000002
+363,363,DEEDEE,"        4204 Manchaca Rd Austin, TX 78745    ",3_24_2018,0.037000000000000005,0.7240000000000001,0.239
+365,365,DEEDEE,"        4204 Manchaca Rd Austin, TX 78745    ",2_23_2019,0.040999999999999995,0.7040000000000001,0.255
+366,366,DEEDEE,"        4204 Manchaca Rd Austin, TX 78745    ",9_23_2017,0.03,0.7440000000000001,0.225
+367,367,DEEDEE,"        4204 Manchaca Rd Austin, TX 78745    ",4_15_2018,0.037000000000000005,0.7709999999999999,0.192
+368,368,SheNotHere,"        440 W 2nd St Austin, TX 78701    ",9_6_2018,0.065,0.733,0.20199999999999999
+369,369,SheNotHere,"        440 W 2nd St Austin, TX 78701    ",9_13_2018,0.037000000000000005,0.6709999999999999,0.292
+370,370,SheNotHere,"        440 W 2nd St Austin, TX 78701    ",9_26_2018,0.069,0.713,0.218
+371,371,SheNotHere,"        440 W 2nd St Austin, TX 78701    ",8_14_2018,0.051,0.6859999999999999,0.263
+372,372,SheNotHere,"        440 W 2nd St Austin, TX 78701    ",6_18_2019,0.034,0.7140000000000001,0.252
+373,373,LichaCantina,"        1306 E 6th St Austin, TX 78702    ",5_28_2018,0.045,0.7190000000000001,0.23600000000000002
+374,374,LichaCantina,"        1306 E 6th St Austin, TX 78702    ",8_4_2018,0.035,0.672,0.294
+375,375,LichaCantina,"        1306 E 6th St Austin, TX 78702    ",9_9_2018,0.06,0.71,0.23
+376,376,LichaCantina,"        1306 E 6th St Austin, TX 78702    ",8_16_2016,0.055999999999999994,0.718,0.226
+377,377,LichaCantina,"        1306 E 6th St Austin, TX 78702    ",2_24_2019,0.057999999999999996,0.711,0.231
+378,378,LichaCantina,"        1306 E 6th St Austin, TX 78702    ",3_8_2019,0.035,0.6559999999999999,0.31
+379,379,LichaCantina,"        1306 E 6th St Austin, TX 78702    ",12_10_2018,0.04,0.71,0.251
+380,380,SheNotHere,"        440 W 2nd St Austin, TX 78701    ",6_27_2019,0.054000000000000006,0.716,0.23
+381,381,IronWorksBarbecue,"        100 Red River St Austin, TX 78701    ",11_10_2018,0.098,0.721,0.18100000000000002
+382,382,IronWorksBarbecue,"        100 Red River St Austin, TX 78701    ",1_16_2019,0.036000000000000004,0.7509999999999999,0.214
+383,383,IronWorksBarbecue,"        100 Red River St Austin, TX 78701    ",3_4_2019,0.066,0.723,0.21100000000000002
+384,384,LichaCantina,"        1306 E 6th St Austin, TX 78702    ",6_8_2019,0.027000000000000003,0.711,0.263
+385,385,IronWorksBarbecue,"        100 Red River St Austin, TX 78701    ",1_28_2019,0.055,0.7290000000000001,0.21600000000000003
+386,386,IronWorksBarbecue,"        100 Red River St Austin, TX 78701    ",4_23_2019,0.054000000000000006,0.7170000000000001,0.22899999999999998
+387,387,IronWorksBarbecue,"        100 Red River St Austin, TX 78701    ",10_30_2017,0.042,0.71,0.248
+388,388,IronWorksBarbecue,"        100 Red River St Austin, TX 78701    ",7_15_2019,0.052000000000000005,0.7170000000000001,0.231
+389,389,IronWorksBarbecue,"        100 Red River St Austin, TX 78701    ",2_27_2019,0.068,0.696,0.237
+390,390,IronWorksBarbecue,"        100 Red River St Austin, TX 78701    ",7_1_2019,0.035,0.7559999999999999,0.209
+391,391,LaTraviata,"        314 Congress Ave Austin, TX 78701    ",5_1_2016,0.055,0.725,0.221
+392,392,LaTraviata,"        314 Congress Ave Austin, TX 78701    ",9_24_2013,0.032,0.7,0.26899999999999996
+393,393,LaTraviata,"        314 Congress Ave Austin, TX 78701    ",5_27_2017,0.053,0.7,0.24600000000000002
+394,394,LaTraviata,"        314 Congress Ave Austin, TX 78701    ",10_10_2017,0.044000000000000004,0.6920000000000001,0.265
+395,395,LaTraviata,"        314 Congress Ave Austin, TX 78701    ",11_20_2015,0.061,0.705,0.23399999999999999
+396,396,LaTraviata,"        314 Congress Ave Austin, TX 78701    ",9_9_2017,0.04,0.706,0.254
+397,397,LaTraviata,"        314 Congress Ave Austin, TX 78701    ",4_16_2018,0.064,0.705,0.231
+398,398,LaTraviata,"        314 Congress Ave Austin, TX 78701    ",4_27_2019,0.04,0.7040000000000001,0.257
+402,402,LaTraviata,"        314 Congress Ave Austin, TX 78701    ",5_12_2019,0.025,0.6890000000000001,0.28600000000000003
+403,403,DarumaRamen,"        612-B E 6th St Austin, TX 78701    ",2_18_2018,0.057,0.718,0.225
+405,405,DarumaRamen,"        612-B E 6th St Austin, TX 78701    ",3_4_2016,0.044000000000000004,0.743,0.213
+406,406,DarumaRamen,"        612-B E 6th St Austin, TX 78701    ",11_18_2018,0.052000000000000005,0.7559999999999999,0.193
+407,407,DarumaRamen,"        612-B E 6th St Austin, TX 78701    ",7_13_2018,0.045,0.732,0.223
+408,408,DarumaRamen,"        612-B E 6th St Austin, TX 78701    ",6_25_2017,0.044000000000000004,0.71,0.24600000000000002
+409,409,DarumaRamen,"        612-B E 6th St Austin, TX 78701    ",8_26_2018,0.039,0.723,0.23800000000000002
+410,410,DarumaRamen,"        612-B E 6th St Austin, TX 78701    ",6_30_2018,0.07200000000000001,0.71,0.217
+413,413,DarumaRamen,"        612-B E 6th St Austin, TX 78701    ",7_22_2019,0.033,0.721,0.24600000000000002
+416,416,Caroline,"        621 Congress Ave Austin, TX 78701    ",11_12_2018,0.037000000000000005,0.638,0.324
+417,417,Caroline,"        621 Congress Ave Austin, TX 78701    ",7_6_2018,0.035,0.6990000000000001,0.266
+418,418,Caroline,"        621 Congress Ave Austin, TX 78701    ",3_28_2019,0.033,0.648,0.319
+419,419,Caroline,"        621 Congress Ave Austin, TX 78701    ",7_14_2019,0.046,0.674,0.28
+420,420,Caroline,"        621 Congress Ave Austin, TX 78701    ",3_14_2019,0.052000000000000005,0.7070000000000001,0.24100000000000002
+421,421,Caroline,"        621 Congress Ave Austin, TX 78701    ",7_10_2019,0.031,0.6859999999999999,0.28300000000000003
+422,422,Caroline,"        621 Congress Ave Austin, TX 78701    ",7_19_2019,0.026000000000000002,0.6709999999999999,0.304
+424,424,Caroline,"        621 Congress Ave Austin, TX 78701    ",6_29_2019,0.028999999999999998,0.773,0.198
+427,427,ChezNous,"        510 Neches St Austin, TX 78701    ",1_3_2013,0.03,0.6970000000000001,0.273
+428,428,ChezNous,"        510 Neches St Austin, TX 78701    ",5_25_2013,0.055,0.69,0.255
+429,429,ChezNous,"        510 Neches St Austin, TX 78701    ",10_14_2014,0.038,0.7240000000000001,0.23800000000000002
+430,430,ChezNous,"        510 Neches St Austin, TX 78701    ",1_9_2016,0.024,0.747,0.22899999999999998
+431,431,ChezNous,"        510 Neches St Austin, TX 78701    ",1_6_2018,0.038,0.75,0.212
+432,432,ChezNous,"        510 Neches St Austin, TX 78701    ",7_15_2018,0.047,0.7020000000000001,0.251
+433,433,ChezNous,"        510 Neches St Austin, TX 78701    ",11_16_2018,0.053,0.67,0.27699999999999997
+434,434,Diner,"        600 N Lamar Blvd Ste 200 Austin, TX 78703    ",12_8_2017,0.057,0.726,0.217
+435,435,Diner,"        600 N Lamar Blvd Ste 200 Austin, TX 78703    ",11_8_2018,0.07400000000000001,0.726,0.2
+436,436,Diner,"        600 N Lamar Blvd Ste 200 Austin, TX 78703    ",2_27_2018,0.086,0.727,0.187
+437,437,Diner,"        600 N Lamar Blvd Ste 200 Austin, TX 78703    ",8_15_2018,0.055999999999999994,0.716,0.22899999999999998
+438,438,Diner,"        600 N Lamar Blvd Ste 200 Austin, TX 78703    ",2_13_2018,0.049,0.706,0.245
+439,439,Diner,"        600 N Lamar Blvd Ste 200 Austin, TX 78703    ",3_31_2019,0.054000000000000006,0.705,0.24100000000000002
+440,440,Diner,"        600 N Lamar Blvd Ste 200 Austin, TX 78703    ",8_1_2018,0.07400000000000001,0.688,0.23800000000000002
+441,441,Diner,"        600 N Lamar Blvd Ste 200 Austin, TX 78703    ",11_30_2018,0.08,0.726,0.195
+442,442,Diner,"        600 N Lamar Blvd Ste 200 Austin, TX 78703    ",4_30_2019,0.051,0.725,0.223
+443,443,HopdoddyBurgerBar,"        4615 N Lamar Blvd Ste 307 Austin, TX 78756    ",7_17_2017,0.071,0.746,0.183
+444,444,HopdoddyBurgerBar,"        4615 N Lamar Blvd Ste 307 Austin, TX 78756    ",6_28_2017,0.079,0.711,0.21
+445,445,HopdoddyBurgerBar,"        4615 N Lamar Blvd Ste 307 Austin, TX 78756    ",6_7_2017,0.045,0.6940000000000001,0.261
+446,446,ChezNous,"        510 Neches St Austin, TX 78701    ",4_10_2019,0.028999999999999998,0.727,0.244
+447,447,HopdoddyBurgerBar,"        4615 N Lamar Blvd Ste 307 Austin, TX 78756    ",3_20_2017,0.049,0.708,0.243
+448,448,HopdoddyBurgerBar,"        4615 N Lamar Blvd Ste 307 Austin, TX 78756    ",6_27_2017,0.071,0.701,0.228
+449,449,HopdoddyBurgerBar,"        4615 N Lamar Blvd Ste 307 Austin, TX 78756    ",10_29_2018,0.06,0.743,0.19699999999999998
+450,450,Loro,"        2115 S Lamar Blvd Austin, TX 78704    ",3_31_2019,0.036000000000000004,0.7240000000000001,0.24
+451,451,Loro,"        2115 S Lamar Blvd Austin, TX 78704    ",12_19_2018,0.040999999999999995,0.6859999999999999,0.273
+452,452,Loro,"        2115 S Lamar Blvd Austin, TX 78704    ",11_27_2018,0.013999999999999999,0.711,0.275
+453,453,Diner,"        600 N Lamar Blvd Ste 200 Austin, TX 78703    ",6_15_2019,0.046,0.735,0.21899999999999997
+454,454,Loro,"        2115 S Lamar Blvd Austin, TX 78704    ",6_17_2018,0.037000000000000005,0.747,0.21600000000000003
+455,455,Loro,"        2115 S Lamar Blvd Austin, TX 78704    ",5_9_2019,0.045,0.728,0.228
+456,456,Loro,"        2115 S Lamar Blvd Austin, TX 78704    ",6_4_2019,0.03,0.696,0.27399999999999997
+457,457,Loro,"        2115 S Lamar Blvd Austin, TX 78704    ",7_24_2019,0.033,0.733,0.233
+458,458,Loro,"        2115 S Lamar Blvd Austin, TX 78704    ",1_15_2019,0.037000000000000005,0.721,0.242
+459,459,Loro,"        2115 S Lamar Blvd Austin, TX 78704    ",7_4_2019,0.04,0.73,0.23
+460,460,Arlo,"        900 Red River St Austin, TX 78701    ",10_9_2017,0.07200000000000001,0.67,0.258
+461,461,Arlo,"        900 Red River St Austin, TX 78701    ",6_26_2018,0.05,0.665,0.284
+462,462,HopdoddyBurgerBar,"        4615 N Lamar Blvd Ste 307 Austin, TX 78756    ",5_15_2019,0.073,0.73,0.19699999999999998
+463,463,Arlo,"        900 Red River St Austin, TX 78701    ",4_4_2018,0.055999999999999994,0.6890000000000001,0.255
+464,464,Arlo,"        900 Red River St Austin, TX 78701    ",1_30_2018,0.052000000000000005,0.711,0.237
+465,465,Arlo,"        900 Red River St Austin, TX 78701    ",8_11_2018,0.034,0.7170000000000001,0.249
+466,466,Arlo,"        900 Red River St Austin, TX 78701    ",9_3_2018,0.05,0.7020000000000001,0.249
+467,467,Arlo,"        900 Red River St Austin, TX 78701    ",5_26_2019,0.043,0.7040000000000001,0.253
+468,468,Arlo,"        900 Red River St Austin, TX 78701    ",10_6_2018,0.044000000000000004,0.735,0.221
+469,469,BouldinCreekCafe,"        1900 S 1st St Austin, TX 78704    ",3_27_2018,0.032,0.691,0.27699999999999997
+470,470,BouldinCreekCafe,"        1900 S 1st St Austin, TX 78704    ",5_11_2019,0.045,0.684,0.271
+471,471,Arlo,"        900 Red River St Austin, TX 78701    ",6_7_2019,0.045,0.72,0.235
+472,472,BouldinCreekCafe,"        1900 S 1st St Austin, TX 78704    ",1_19_2019,0.03,0.67,0.3
+473,473,BouldinCreekCafe,"        1900 S 1st St Austin, TX 78704    ",4_5_2019,0.057,0.731,0.212
+474,474,BouldinCreekCafe,"        1900 S 1st St Austin, TX 78704    ",7_24_2018,0.027000000000000003,0.693,0.27899999999999997
+475,475,BouldinCreekCafe,"        1900 S 1st St Austin, TX 78704    ",11_2_2018,0.017,0.7170000000000001,0.267
+478,478,BouldinCreekCafe,"        1900 S 1st St Austin, TX 78704    ",7_31_2019,0.059000000000000004,0.7440000000000001,0.198
+479,479,CafeJosie,"        1200 W 6th St Ste B Austin, TX 78703    ",9_29_2012,0.042,0.7120000000000001,0.247
+480,480,CafeJosie,"        1200 W 6th St Ste B Austin, TX 78703    ",3_27_2016,0.016,0.725,0.259
+481,481,CafeJosie,"        1200 W 6th St Ste B Austin, TX 78703    ",7_2_2017,0.045,0.73,0.22399999999999998
+482,482,CafeJosie,"        1200 W 6th St Ste B Austin, TX 78703    ",9_8_2017,0.05,0.677,0.273
+483,483,CafeJosie,"        1200 W 6th St Ste B Austin, TX 78703    ",10_3_2018,0.04,0.742,0.218
+484,484,CafeJosie,"        1200 W 6th St Ste B Austin, TX 78703    ",10_8_2018,0.036000000000000004,0.745,0.21899999999999997
+485,485,CafeJosie,"        1200 W 6th St Ste B Austin, TX 78703    ",6_15_2019,0.033,0.72,0.247
+486,486,HiWings,"        2525 W Anderson Ln Ste 135 Austin, TX 78757    ",3_28_2018,0.025,0.63,0.345
+487,487,HiWings,"        2525 W Anderson Ln Ste 135 Austin, TX 78757    ",5_10_2018,0.027999999999999997,0.669,0.303
+488,488,HiWings,"        2525 W Anderson Ln Ste 135 Austin, TX 78757    ",3_25_2018,0.038,0.698,0.265
+489,489,HiWings,"        2525 W Anderson Ln Ste 135 Austin, TX 78757    ",9_26_2018,0.024,0.695,0.281
+490,490,HiWings,"        2525 W Anderson Ln Ste 135 Austin, TX 78757    ",7_25_2018,0.033,0.696,0.271
+491,491,Uchi,"        801 S Lamar Blvd Austin, TX 78704    ",5_12_2018,0.032,0.6859999999999999,0.281
+492,492,Uchi,"        801 S Lamar Blvd Austin, TX 78704    ",5_21_2019,0.027000000000000003,0.735,0.237
+493,493,Uchi,"        801 S Lamar Blvd Austin, TX 78704    ",1_5_2018,0.032,0.7040000000000001,0.264
+494,494,Uchi,"        801 S Lamar Blvd Austin, TX 78704    ",1_31_2018,0.038,0.7240000000000001,0.23800000000000002
+495,495,Uchi,"        801 S Lamar Blvd Austin, TX 78704    ",5_22_2019,0.026000000000000002,0.726,0.248
+496,496,Uchi,"        801 S Lamar Blvd Austin, TX 78704    ",1_25_2019,0.042,0.7559999999999999,0.20199999999999999
+497,497,Uchi,"        801 S Lamar Blvd Austin, TX 78704    ",11_2_2018,0.022000000000000002,0.737,0.24100000000000002
+498,498,Uchi,"        801 S Lamar Blvd Austin, TX 78704    ",3_23_2019,0.035,0.731,0.23399999999999999
+499,499,Uchi,"        801 S Lamar Blvd Austin, TX 78704    ",5_29_2019,0.054000000000000006,0.7040000000000001,0.242
+500,500,HiWings,"        2525 W Anderson Ln Ste 135 Austin, TX 78757    ",7_3_2019,0.026000000000000002,0.7090000000000001,0.266
+504,504,Sophia,"        500 W 6th St Austin, TX 78701    ",2_18_2017,0.053,0.7140000000000001,0.23399999999999999
+505,505,Sophia,"        500 W 6th St Austin, TX 78701    ",6_12_2017,0.046,0.7290000000000001,0.225
+506,506,Sophia,"        500 W 6th St Austin, TX 78701    ",8_5_2016,0.025,0.67,0.305
+507,507,Sophia,"        500 W 6th St Austin, TX 78701    ",3_26_2018,0.055,0.711,0.23399999999999999
+508,508,Sophia,"        500 W 6th St Austin, TX 78701    ",10_4_2016,0.047,0.736,0.217
+509,509,Sophia,"        500 W 6th St Austin, TX 78701    ",8_25_2018,0.052000000000000005,0.735,0.213
+510,510,Chiantro,"        823 Congress Ave Austin, TX 78701    ",10_24_2015,0.032,0.7509999999999999,0.217
+511,511,Chiantro,"        823 Congress Ave Austin, TX 78701    ",3_25_2015,0.06,0.774,0.166
+513,513,Chiantro,"        823 Congress Ave Austin, TX 78701    ",7_21_2017,0.049,0.732,0.21899999999999997
+514,514,Chiantro,"        823 Congress Ave Austin, TX 78701    ",4_23_2016,0.062,0.736,0.201
+515,515,Chiantro,"        823 Congress Ave Austin, TX 78701    ",10_13_2017,0.055999999999999994,0.731,0.213
+516,516,Chiantro,"        823 Congress Ave Austin, TX 78701    ",3_27_2018,0.024,0.73,0.245
+517,517,Yuyo,"        1900 Manor Rd Austin, TX 78722    ",2_17_2018,0.084,0.6859999999999999,0.23
+518,518,Sophia,"        500 W 6th St Austin, TX 78701    ",7_22_2019,0.054000000000000006,0.7440000000000001,0.20199999999999999
+519,519,Yuyo,"        1900 Manor Rd Austin, TX 78722    ",11_9_2018,0.037000000000000005,0.722,0.24100000000000002
+520,520,Yuyo,"        1900 Manor Rd Austin, TX 78722    ",7_14_2018,0.048,0.688,0.264
+521,521,Yuyo,"        1900 Manor Rd Austin, TX 78722    ",2_10_2019,0.025,0.722,0.254
+522,522,Yuyo,"        1900 Manor Rd Austin, TX 78722    ",12_8_2018,0.026000000000000002,0.716,0.258
+523,523,Yuyo,"        1900 Manor Rd Austin, TX 78722    ",4_7_2019,0.016,0.685,0.299
+524,524,Chiantro,"        823 Congress Ave Austin, TX 78701    ",3_23_2019,0.038,0.752,0.21
+525,525,Yuyo,"        1900 Manor Rd Austin, TX 78722    ",7_25_2019,0.025,0.726,0.249
+526,526,Eberly,"        615 S Lamar Blvd Austin, TX 78704    ",10_23_2017,0.052000000000000005,0.6940000000000001,0.254
+527,527,Eberly,"        615 S Lamar Blvd Austin, TX 78704    ",1_27_2018,0.052000000000000005,0.7090000000000001,0.24
+528,528,Eberly,"        615 S Lamar Blvd Austin, TX 78704    ",12_6_2016,0.034,0.7070000000000001,0.26
+529,529,Eberly,"        615 S Lamar Blvd Austin, TX 78704    ",1_20_2019,0.045,0.6779999999999999,0.278
+530,530,Eberly,"        615 S Lamar Blvd Austin, TX 78704    ",6_20_2019,0.03,0.679,0.29100000000000004
+531,531,Eberly,"        615 S Lamar Blvd Austin, TX 78704    ",7_17_2019,0.033,0.695,0.271
+533,533,NervousCharlie,"        5501 N Lamar Blvd Austin, TX 78751    ",9_23_2018,0.047,0.7,0.253
+534,534,NervousCharlie,"        5501 N Lamar Blvd Austin, TX 78751    ",11_4_2018,0.036000000000000004,0.72,0.244
+535,535,NervousCharlie,"        5501 N Lamar Blvd Austin, TX 78751    ",10_18_2018,0.068,0.698,0.23399999999999999
+536,536,NervousCharlie,"        5501 N Lamar Blvd Austin, TX 78751    ",10_24_2018,0.055,0.736,0.21
+537,537,NervousCharlie,"        5501 N Lamar Blvd Austin, TX 78751    ",7_5_2019,0.035,0.74,0.225
+538,538,NervousCharlie,"        5501 N Lamar Blvd Austin, TX 78751    ",7_13_2019,0.042,0.755,0.203
+539,539,FricanoDeli,"        2405 Nueces St Ste G Austin, TX 78705    ",1_22_2015,0.019,0.7070000000000001,0.27399999999999997
+540,540,FricanoDeli,"        2405 Nueces St Ste G Austin, TX 78705    ",4_15_2017,0.042,0.6709999999999999,0.287
+541,541,FricanoDeli,"        2405 Nueces St Ste G Austin, TX 78705    ",12_9_2017,0.046,0.69,0.264
+542,542,FricanoDeli,"        2405 Nueces St Ste G Austin, TX 78705    ",3_30_2018,0.033,0.7559999999999999,0.21100000000000002
+543,543,FricanoDeli,"        2405 Nueces St Ste G Austin, TX 78705    ",7_26_2018,0.039,0.7240000000000001,0.237
+544,544,FricanoDeli,"        2405 Nueces St Ste G Austin, TX 78705    ",2_17_2019,0.036000000000000004,0.6920000000000001,0.272
+545,545,FricanoDeli,"        2405 Nueces St Ste G Austin, TX 78705    ",11_29_2018,0.05,0.725,0.225
+546,546,Sway,"        1417 S 1st St Austin, TX 78704    ",5_3_2017,0.038,0.732,0.23
+547,547,Sway,"        1417 S 1st St Austin, TX 78704    ",6_4_2018,0.049,0.7509999999999999,0.2
+548,548,Sway,"        1417 S 1st St Austin, TX 78704    ",12_11_2018,0.049,0.7509999999999999,0.2
+549,549,Sway,"        1417 S 1st St Austin, TX 78704    ",12_11_2018,0.043,0.758,0.19899999999999998
+550,550,Sway,"        1417 S 1st St Austin, TX 78704    ",7_12_2019,0.062,0.701,0.237
+551,551,FricanoDeli,"        2405 Nueces St Ste G Austin, TX 78705    ",6_17_2019,0.048,0.728,0.22399999999999998
+552,552,Uchiko,"        4200 N Lamar Blvd Ste 140 Austin, TX 78756    ",7_27_2018,0.039,0.7240000000000001,0.23800000000000002
+553,553,Uchiko,"        4200 N Lamar Blvd Ste 140 Austin, TX 78756    ",12_9_2017,0.048,0.7040000000000001,0.248
+554,554,Uchiko,"        4200 N Lamar Blvd Ste 140 Austin, TX 78756    ",11_9_2018,0.057,0.745,0.19899999999999998
+555,555,Uchiko,"        4200 N Lamar Blvd Ste 140 Austin, TX 78756    ",9_29_2017,0.025,0.725,0.25
+556,556,Uchiko,"        4200 N Lamar Blvd Ste 140 Austin, TX 78756    ",9_30_2018,0.023,0.7070000000000001,0.27
+557,557,Uchiko,"        4200 N Lamar Blvd Ste 140 Austin, TX 78756    ",4_16_2018,0.016,0.7140000000000001,0.27
+558,558,Uchiko,"        4200 N Lamar Blvd Ste 140 Austin, TX 78756    ",4_17_2018,0.040999999999999995,0.713,0.24600000000000002
+559,559,Uchiko,"        4200 N Lamar Blvd Ste 140 Austin, TX 78756    ",3_26_2019,0.02,0.7040000000000001,0.276
+560,560,Uchiko,"        4200 N Lamar Blvd Ste 140 Austin, TX 78756    ",11_7_2018,0.038,0.72,0.243
+561,561,Contigo,"        2027 Anchor Ln Austin, TX 78723    ",12_12_2016,0.042,0.723,0.235
+562,562,Contigo,"        2027 Anchor Ln Austin, TX 78723    ",6_28_2018,0.040999999999999995,0.753,0.20600000000000002
+563,563,Contigo,"        2027 Anchor Ln Austin, TX 78723    ",5_21_2017,0.057999999999999996,0.7170000000000001,0.225
+564,564,Contigo,"        2027 Anchor Ln Austin, TX 78723    ",6_2_2016,0.043,0.6990000000000001,0.258
+565,565,Contigo,"        2027 Anchor Ln Austin, TX 78723    ",9_16_2018,0.04,0.727,0.233
+566,566,Contigo,"        2027 Anchor Ln Austin, TX 78723    ",4_25_2019,0.055999999999999994,0.691,0.253
+567,567,Pokeatery,"        1201 Barbara Jordan Blvd Ste 1410 Austin, TX 78723    ",4_16_2018,0.019,0.588,0.39299999999999996
+568,568,Uchiko,"        4200 N Lamar Blvd Ste 140 Austin, TX 78756    ",7_24_2019,0.049,0.7120000000000001,0.239
+569,569,Pokeatery,"        1201 Barbara Jordan Blvd Ste 1410 Austin, TX 78723    ",6_6_2018,0.04,0.652,0.308
+570,570,Pokeatery,"        1201 Barbara Jordan Blvd Ste 1410 Austin, TX 78723    ",2_22_2018,0.040999999999999995,0.711,0.248
+571,571,Pokeatery,"        1201 Barbara Jordan Blvd Ste 1410 Austin, TX 78723    ",2_5_2018,0.057,0.715,0.228
+572,572,Pokeatery,"        1201 Barbara Jordan Blvd Ste 1410 Austin, TX 78723    ",12_20_2017,0.062,0.7290000000000001,0.21
+573,573,Pokeatery,"        1201 Barbara Jordan Blvd Ste 1410 Austin, TX 78723    ",3_16_2019,0.042,0.733,0.225
+574,574,Pokeatery,"        1201 Barbara Jordan Blvd Ste 1410 Austin, TX 78723    ",6_20_2019,0.045,0.7609999999999999,0.19399999999999998
+578,578,Juniper,"        2400 E Cesar Chavez Ste 304 Austin, TX 78702    ",9_17_2016,0.06,0.7090000000000001,0.231
+579,579,Juniper,"        2400 E Cesar Chavez Ste 304 Austin, TX 78702    ",5_28_2018,0.067,0.722,0.21100000000000002
+580,580,Juniper,"        2400 E Cesar Chavez Ste 304 Austin, TX 78702    ",10_27_2018,0.027000000000000003,0.7190000000000001,0.254
+581,581,Juniper,"        2400 E Cesar Chavez Ste 304 Austin, TX 78702    ",6_26_2018,0.044000000000000004,0.726,0.23
+582,582,Juniper,"        2400 E Cesar Chavez Ste 304 Austin, TX 78702    ",12_1_2018,0.034,0.7190000000000001,0.247
+583,583,Juniper,"        2400 E Cesar Chavez Ste 304 Austin, TX 78702    ",1_5_2019,0.044000000000000004,0.725,0.23199999999999998
+585,585,TasteofEthiopia,"        3801 S Congress Ave Ste 107 Austin, TX 78704    ",1_28_2018,0.027999999999999997,0.687,0.285
+586,586,TasteofEthiopia,"        3801 S Congress Ave Ste 107 Austin, TX 78704    ",7_29_2017,0.019,0.664,0.317
+587,587,TasteofEthiopia,"        3801 S Congress Ave Ste 107 Austin, TX 78704    ",1_21_2018,0.049,0.7170000000000001,0.23399999999999999
+588,588,Juniper,"        2400 E Cesar Chavez Ste 304 Austin, TX 78702    ",4_5_2019,0.027999999999999997,0.711,0.261
+589,589,TasteofEthiopia,"        3801 S Congress Ave Ste 107 Austin, TX 78704    ",11_23_2018,0.048,0.693,0.259
+590,590,TasteofEthiopia,"        3801 S Congress Ave Ste 107 Austin, TX 78704    ",11_12_2016,0.028999999999999998,0.6809999999999999,0.29
+591,591,TasteofEthiopia,"        3801 S Congress Ave Ste 107 Austin, TX 78704    ",9_20_2018,0.027999999999999997,0.7490000000000001,0.223
+592,592,TasteofEthiopia,"        3801 S Congress Ave Ste 107 Austin, TX 78704    ",11_26_2018,0.025,0.7020000000000001,0.273
+593,593,TasteofEthiopia,"        3801 S Congress Ave Ste 107 Austin, TX 78704    ",1_2_2019,0.01,0.6890000000000001,0.301
+595,595,Bufalina,"        1519 E Cesar Chavez Ste 200 Austin, TX 78702    ",7_21_2013,0.045,0.721,0.23399999999999999
+596,596,Bufalina,"        1519 E Cesar Chavez Ste 200 Austin, TX 78702    ",12_11_2017,0.055,0.7140000000000001,0.231
+597,597,TasteofEthiopia,"        3801 S Congress Ave Ste 107 Austin, TX 78704    ",6_16_2019,0.011000000000000001,0.711,0.278
+598,598,Bufalina,"        1519 E Cesar Chavez Ste 200 Austin, TX 78702    ",7_10_2015,0.038,0.718,0.244
+599,599,Bufalina,"        1519 E Cesar Chavez Ste 200 Austin, TX 78702    ",2_16_2019,0.047,0.73,0.223
+600,600,Bufalina,"        1519 E Cesar Chavez Ste 200 Austin, TX 78702    ",9_20_2018,0.021,0.742,0.237
+601,601,PinthousePizza,"        4236 S Lamar Blvd Austin, TX 78704    ",12_17_2016,0.018000000000000002,0.7040000000000001,0.278
+602,602,PinthousePizza,"        4236 S Lamar Blvd Austin, TX 78704    ",11_27_2015,0.052000000000000005,0.68,0.268
+603,603,PinthousePizza,"        4236 S Lamar Blvd Austin, TX 78704    ",10_24_2018,0.027000000000000003,0.701,0.272
+604,604,PinthousePizza,"        4236 S Lamar Blvd Austin, TX 78704    ",10_18_2017,0.013999999999999999,0.71,0.276
+605,605,PinthousePizza,"        4236 S Lamar Blvd Austin, TX 78704    ",6_9_2019,0.027999999999999997,0.6809999999999999,0.292
+606,606,PinthousePizza,"        4236 S Lamar Blvd Austin, TX 78704    ",6_7_2019,0.055999999999999994,0.652,0.292
+607,607,PinthousePizza,"        4236 S Lamar Blvd Austin, TX 78704    ",7_22_2019,0.043,0.664,0.293
+608,608,Parkside,"        301 E 6th St Austin, TX 78701    ",9_16_2015,0.049,0.726,0.225
+609,609,Parkside,"        301 E 6th St Austin, TX 78701    ",4_5_2017,0.047,0.679,0.27399999999999997
+610,610,PinthousePizza,"        4236 S Lamar Blvd Austin, TX 78704    ",7_27_2019,0.034,0.732,0.23399999999999999
+611,611,Parkside,"        301 E 6th St Austin, TX 78701    ",6_11_2016,0.057,0.735,0.209
+612,612,Parkside,"        301 E 6th St Austin, TX 78701    ",1_10_2015,0.066,0.7170000000000001,0.217
+613,613,Parkside,"        301 E 6th St Austin, TX 78701    ",4_11_2017,0.062,0.721,0.217
+614,614,Parkside,"        301 E 6th St Austin, TX 78701    ",5_4_2016,0.053,0.725,0.222
+615,615,Parkside,"        301 E 6th St Austin, TX 78701    ",11_2_2017,0.033,0.731,0.23600000000000002
+616,616,Parkside,"        301 E 6th St Austin, TX 78701    ",10_20_2018,0.045,0.6920000000000001,0.262
+617,617,HonestMary,"        9828 Great Hills Trl Ste 300 Austin, TX 78759    ",11_1_2018,0.066,0.7090000000000001,0.225
+618,618,HonestMary,"        9828 Great Hills Trl Ste 300 Austin, TX 78759    ",4_15_2019,0.027000000000000003,0.688,0.285
+619,619,HonestMary,"        9828 Great Hills Trl Ste 300 Austin, TX 78759    ",2_25_2018,0.043,0.687,0.27
+620,620,HonestMary,"        9828 Great Hills Trl Ste 300 Austin, TX 78759    ",4_28_2018,0.019,0.675,0.306
+621,621,HonestMary,"        9828 Great Hills Trl Ste 300 Austin, TX 78759    ",1_8_2019,0.055,0.68,0.265
+622,622,HonestMary,"        9828 Great Hills Trl Ste 300 Austin, TX 78759    ",6_28_2019,0.021,0.685,0.294
+623,623,HonestMary,"        9828 Great Hills Trl Ste 300 Austin, TX 78759    ",5_8_2019,0.034,0.7290000000000001,0.237
+626,626,Cuba,"        6800 West Gate Blvd Ste 112 Austin, TX 78745    ",5_11_2018,0.073,0.72,0.20800000000000002
+627,627,Cuba,"        6800 West Gate Blvd Ste 112 Austin, TX 78745    ",10_10_2018,0.057999999999999996,0.7170000000000001,0.225
+628,628,HonestMary,"        9828 Great Hills Trl Ste 300 Austin, TX 78759    ",7_21_2019,0.035,0.6990000000000001,0.266
+629,629,Cuba,"        6800 West Gate Blvd Ste 112 Austin, TX 78745    ",8_16_2018,0.032,0.672,0.29600000000000004
+630,630,Cuba,"        6800 West Gate Blvd Ste 112 Austin, TX 78745    ",3_15_2019,0.042,0.741,0.217
+631,631,Cuba,"        6800 West Gate Blvd Ste 112 Austin, TX 78745    ",1_20_2019,0.062,0.738,0.2
+632,632,Cuba,"        6800 West Gate Blvd Ste 112 Austin, TX 78745    ",2_11_2018,0.027000000000000003,0.693,0.28
+633,633,Cuba,"        6800 West Gate Blvd Ste 112 Austin, TX 78745    ",3_15_2018,0.05,0.736,0.215
+638,638,Chiantro,"        5222 Burnet Rd Austin, TX 78756    ",7_9_2017,0.040999999999999995,0.698,0.262
+639,639,Chiantro,"        5222 Burnet Rd Austin, TX 78756    ",11_30_2016,0.032,0.7040000000000001,0.264
+640,640,Cuba,"        6800 West Gate Blvd Ste 112 Austin, TX 78745    ",7_2_2019,0.07400000000000001,0.728,0.198
+641,641,Chiantro,"        5222 Burnet Rd Austin, TX 78756    ",5_31_2016,0.05,0.736,0.214
+642,642,Chiantro,"        5222 Burnet Rd Austin, TX 78756    ",7_5_2018,0.057,0.752,0.191
+643,643,Chiantro,"        5222 Burnet Rd Austin, TX 78756    ",7_28_2017,0.035,0.74,0.225
+648,648,Boteco,"        1209 E 6th St Austin, TX 78702    ",7_4_2016,0.023,0.631,0.34700000000000003
+649,649,Boteco,"        1209 E 6th St Austin, TX 78702    ",6_9_2016,0.046,0.675,0.28
+650,650,Boteco,"        1209 E 6th St Austin, TX 78702    ",9_3_2017,0.034,0.655,0.311
+651,651,Boteco,"        1209 E 6th St Austin, TX 78702    ",7_9_2017,0.027000000000000003,0.6859999999999999,0.28800000000000003
+652,652,Boteco,"        1209 E 6th St Austin, TX 78702    ",7_17_2018,0.02,0.71,0.271
+653,653,Boteco,"        1209 E 6th St Austin, TX 78702    ",2_10_2016,0.025,0.718,0.257
+654,654,Boteco,"        1209 E 6th St Austin, TX 78702    ",9_7_2017,0.031,0.6970000000000001,0.272
+655,655,Boteco,"        1209 E 6th St Austin, TX 78702    ",12_22_2018,0.015,0.6990000000000001,0.287
+656,656,BunBelly,"        5001 Airport Blvd Austin, TX 78751    ",11_4_2016,0.038,0.737,0.225
+657,657,BunBelly,"        5001 Airport Blvd Austin, TX 78751    ",3_6_2017,0.039,0.6890000000000001,0.272
+659,659,BunBelly,"        5001 Airport Blvd Austin, TX 78751    ",4_9_2016,0.057999999999999996,0.731,0.21
+660,660,BunBelly,"        5001 Airport Blvd Austin, TX 78751    ",12_23_2016,0.044000000000000004,0.6629999999999999,0.293
+661,661,BunBelly,"        5001 Airport Blvd Austin, TX 78751    ",11_18_2017,0.066,0.733,0.201
+662,662,BunBelly,"        5001 Airport Blvd Austin, TX 78751    ",8_18_2017,0.065,0.7829999999999999,0.153
+663,663,BunBelly,"        5001 Airport Blvd Austin, TX 78751    ",4_5_2019,0.034,0.732,0.23399999999999999
+664,664,AustinTacoProject,"        500 E 4th St Austin, TX 78701    ",5_7_2017,0.035,0.695,0.27
+665,665,AustinTacoProject,"        500 E 4th St Austin, TX 78701    ",5_21_2017,0.048,0.711,0.24100000000000002
+666,666,AustinTacoProject,"        500 E 4th St Austin, TX 78701    ",10_10_2018,0.064,0.76,0.17600000000000002
+667,667,Boteco,"        1209 E 6th St Austin, TX 78702    ",6_26_2019,0.026000000000000002,0.726,0.248
+668,668,AustinTacoProject,"        500 E 4th St Austin, TX 78701    ",5_20_2019,0.049,0.6890000000000001,0.262
+669,669,AustinTacoProject,"        500 E 4th St Austin, TX 78701    ",6_17_2019,0.054000000000000006,0.721,0.225
+670,670,AustinTacoProject,"        500 E 4th St Austin, TX 78701    ",9_15_2018,0.057,0.73,0.213
+671,671,AustinTacoProject,"        500 E 4th St Austin, TX 78701    ",12_14_2018,0.054000000000000006,0.708,0.23800000000000002
+672,672,BunBelly,"        5001 Airport Blvd Austin, TX 78751    ",7_11_2019,0.03,0.7190000000000001,0.251
+673,673,TioPepeChicken,"        6406 N Interstate 35 Ste 2510 Austin, TX 78752    ",2_23_2019,0.022000000000000002,0.7240000000000001,0.254
+674,674,TioPepeChicken,"        6406 N Interstate 35 Ste 2510 Austin, TX 78752    ",4_13_2019,0.011000000000000001,0.655,0.33399999999999996
+675,675,AustinTacoProject,"        500 E 4th St Austin, TX 78701    ",7_14_2019,0.068,0.738,0.193
+676,676,TioPepeChicken,"        6406 N Interstate 35 Ste 2510 Austin, TX 78752    ",2_10_2019,0.024,0.6920000000000001,0.284
+677,677,TioPepeChicken,"        6406 N Interstate 35 Ste 2510 Austin, TX 78752    ",12_20_2018,0.021,0.6859999999999999,0.294
+678,678,TioPepeChicken,"        6406 N Interstate 35 Ste 2510 Austin, TX 78752    ",3_22_2019,0.039,0.6829999999999999,0.278
+679,679,TioPepeChicken,"        6406 N Interstate 35 Ste 2510 Austin, TX 78752    ",11_9_2018,0.032,0.655,0.313
+680,680,TioPepeChicken,"        6406 N Interstate 35 Ste 2510 Austin, TX 78752    ",11_22_2018,0.027000000000000003,0.6579999999999999,0.315
+681,681,TioPepeChicken,"        6406 N Interstate 35 Ste 2510 Austin, TX 78752    ",11_11_2018,0.032,0.6990000000000001,0.268
+682,682,CountryBoyzFixins,"        4140 E 12th St Austin, TX 78721    ",5_29_2015,0.0,0.674,0.326
+683,683,CountryBoyzFixins,"        4140 E 12th St Austin, TX 78721    ",3_30_2016,0.042,0.733,0.225
+684,684,CountryBoyzFixins,"        4140 E 12th St Austin, TX 78721    ",5_21_2015,0.043,0.746,0.21100000000000002
+685,685,CountryBoyzFixins,"        4140 E 12th St Austin, TX 78721    ",5_10_2016,0.073,0.674,0.253
+686,686,CountryBoyzFixins,"        4140 E 12th St Austin, TX 78721    ",3_29_2018,0.064,0.6779999999999999,0.258
+687,687,CountryBoyzFixins,"        4140 E 12th St Austin, TX 78721    ",6_5_2018,0.063,0.71,0.22699999999999998
+688,688,TommyWantWingy,"        94 Rainey St Austin, TX 78701    ",12_28_2016,0.033,0.695,0.273
+689,689,TommyWantWingy,"        94 Rainey St Austin, TX 78701    ",7_15_2017,0.063,0.6859999999999999,0.25
+690,690,TommyWantWingy,"        94 Rainey St Austin, TX 78701    ",4_9_2017,0.063,0.701,0.235
+691,691,TioPepeChicken,"        6406 N Interstate 35 Ste 2510 Austin, TX 78752    ",7_23_2019,0.028999999999999998,0.711,0.261
+692,692,TommyWantWingy,"        94 Rainey St Austin, TX 78701    ",3_3_2016,0.055999999999999994,0.722,0.223
+693,693,TommyWantWingy,"        94 Rainey St Austin, TX 78701    ",7_31_2018,0.063,0.6970000000000001,0.24
+694,694,TommyWantWingy,"        94 Rainey St Austin, TX 78701    ",3_31_2019,0.071,0.688,0.24100000000000002
+695,695,KemuriTatsuya,"        2713 E 2nd St Austin, TX 78702    ",4_4_2019,0.043,0.722,0.235
+696,696,KemuriTatsuya,"        2713 E 2nd St Austin, TX 78702    ",4_30_2019,0.053,0.759,0.188
+697,697,KemuriTatsuya,"        2713 E 2nd St Austin, TX 78702    ",12_12_2018,0.051,0.746,0.203
+698,698,CountryBoyzFixins,"        4140 E 12th St Austin, TX 78721    ",6_15_2019,0.052000000000000005,0.706,0.242
+699,699,KemuriTatsuya,"        2713 E 2nd St Austin, TX 78702    ",10_29_2018,0.031,0.7240000000000001,0.24600000000000002
+700,700,KemuriTatsuya,"        2713 E 2nd St Austin, TX 78702    ",6_15_2018,0.042,0.723,0.235
+701,701,KemuriTatsuya,"        2713 E 2nd St Austin, TX 78702    ",12_11_2018,0.046,0.723,0.23
+702,702,BarleySwine,"        6555 Burnet Rd Ste 400 Austin, TX 78757    ",4_29_2018,0.036000000000000004,0.722,0.242
+703,703,BarleySwine,"        6555 Burnet Rd Ste 400 Austin, TX 78757    ",11_14_2015,0.019,0.723,0.258
+704,704,TommyWantWingy,"        94 Rainey St Austin, TX 78701    ",5_4_2019,0.06,0.736,0.204
+705,705,BarleySwine,"        6555 Burnet Rd Ste 400 Austin, TX 78757    ",2_4_2018,0.022000000000000002,0.6859999999999999,0.292
+706,706,BarleySwine,"        6555 Burnet Rd Ste 400 Austin, TX 78757    ",9_14_2017,0.035,0.72,0.244
+707,707,BarleySwine,"        6555 Burnet Rd Ste 400 Austin, TX 78757    ",2_8_2019,0.045,0.7170000000000001,0.23800000000000002
+708,708,BarleySwine,"        6555 Burnet Rd Ste 400 Austin, TX 78757    ",4_24_2018,0.018000000000000002,0.723,0.259
+709,709,BarleySwine,"        6555 Burnet Rd Ste 400 Austin, TX 78757    ",2_19_2019,0.013999999999999999,0.7140000000000001,0.272
+710,710,BarleySwine,"        6555 Burnet Rd Ste 400 Austin, TX 78757    ",8_16_2018,0.02,0.722,0.259
+711,711,NorthItalia,"        500 W 2nd St Ste 123 Austin, TX 78701    ",7_18_2018,0.031,0.708,0.261
+712,712,NorthItalia,"        500 W 2nd St Ste 123 Austin, TX 78701    ",2_20_2019,0.039,0.7090000000000001,0.252
+713,713,NorthItalia,"        500 W 2nd St Ste 123 Austin, TX 78701    ",12_30_2018,0.06,0.708,0.231
+714,714,NorthItalia,"        500 W 2nd St Ste 123 Austin, TX 78701    ",12_7_2018,0.038,0.7120000000000001,0.25
+715,715,NorthItalia,"        500 W 2nd St Ste 123 Austin, TX 78701    ",2_1_2019,0.03,0.685,0.284
+716,716,NorthItalia,"        500 W 2nd St Ste 123 Austin, TX 78701    ",6_17_2019,0.037000000000000005,0.6679999999999999,0.295
+717,717,NorthItalia,"        500 W 2nd St Ste 123 Austin, TX 78701    ",7_1_2019,0.048,0.7190000000000001,0.23199999999999998
+718,718,NorthItalia,"        500 W 2nd St Ste 123 Austin, TX 78701    ",6_14_2019,0.064,0.7040000000000001,0.233
+719,719,KoreanGrill,"        10901 N Lamar Blvd Ste B204 Austin, TX 78753    ",6_10_2016,0.042,0.7040000000000001,0.254
+720,720,KoreanGrill,"        10901 N Lamar Blvd Ste B204 Austin, TX 78753    ",5_29_2017,0.035,0.726,0.23800000000000002
+721,721,KoreanGrill,"        10901 N Lamar Blvd Ste B204 Austin, TX 78753    ",6_8_2018,0.043,0.71,0.247
+722,722,BarleySwine,"        6555 Burnet Rd Ste 400 Austin, TX 78757    ",7_7_2019,0.034,0.723,0.243
+723,723,KoreanGrill,"        10901 N Lamar Blvd Ste B204 Austin, TX 78753    ",5_2_2017,0.038,0.728,0.23399999999999999
+724,724,KoreanGrill,"        10901 N Lamar Blvd Ste B204 Austin, TX 78753    ",1_27_2019,0.054000000000000006,0.71,0.237
+725,725,KoreanGrill,"        10901 N Lamar Blvd Ste B204 Austin, TX 78753    ",9_26_2018,0.035,0.71,0.255
+726,726,ThreeLittlePigs,"        6507 Burnet Rd Austin, TX 78757    ",3_8_2011,0.027999999999999997,0.759,0.213
+727,727,NorthItalia,"        500 W 2nd St Ste 123 Austin, TX 78701    ",7_8_2019,0.03,0.6859999999999999,0.284
+728,728,ThreeLittlePigs,"        6507 Burnet Rd Austin, TX 78757    ",8_21_2011,0.045,0.7190000000000001,0.23600000000000002
+729,729,ThreeLittlePigs,"        6507 Burnet Rd Austin, TX 78757    ",3_12_2011,0.045,0.701,0.254
+730,730,ThreeLittlePigs,"        6507 Burnet Rd Austin, TX 78757    ",7_7_2012,0.044000000000000004,0.691,0.265
+731,731,ThreeLittlePigs,"        6507 Burnet Rd Austin, TX 78757    ",5_2_2011,0.028999999999999998,0.726,0.245
+732,732,ThreeLittlePigs,"        6507 Burnet Rd Austin, TX 78757    ",7_20_2015,0.048,0.7190000000000001,0.233
+733,733,KoreanGrill,"        10901 N Lamar Blvd Ste B204 Austin, TX 78753    ",3_11_2019,0.053,0.738,0.209
+734,734,ThreeLittlePigs,"        6507 Burnet Rd Austin, TX 78757    ",3_11_2019,0.049,0.733,0.218
+735,735,RedAsh,"        303 Colorado St Austin, TX 78701    ",4_5_2019,0.038,0.679,0.28300000000000003
+736,736,RedAsh,"        303 Colorado St Austin, TX 78701    ",12_16_2017,0.028999999999999998,0.679,0.292
+737,737,RedAsh,"        303 Colorado St Austin, TX 78701    ",8_20_2018,0.039,0.7040000000000001,0.258
+738,738,RedAsh,"        303 Colorado St Austin, TX 78701    ",1_27_2018,0.026000000000000002,0.672,0.302
+739,739,RedAsh,"        303 Colorado St Austin, TX 78701    ",4_23_2019,0.03,0.6890000000000001,0.281
+740,740,RedAsh,"        303 Colorado St Austin, TX 78701    ",2_19_2018,0.033,0.718,0.248
+741,741,RedAsh,"        303 Colorado St Austin, TX 78701    ",5_15_2019,0.033,0.6809999999999999,0.28600000000000003
+742,742,RedAsh,"        303 Colorado St Austin, TX 78701    ",6_22_2019,0.037000000000000005,0.703,0.261
+743,743,OliveJune,"        3411 Glenview Ave Austin, TX 78703    ",10_2_2013,0.038,0.688,0.27399999999999997
+744,744,OliveJune,"        3411 Glenview Ave Austin, TX 78703    ",9_4_2016,0.033,0.7070000000000001,0.261
+745,745,OliveJune,"        3411 Glenview Ave Austin, TX 78703    ",11_26_2016,0.04,0.713,0.247
+746,746,RedAsh,"        303 Colorado St Austin, TX 78701    ",7_26_2019,0.032,0.684,0.284
+747,747,OliveJune,"        3411 Glenview Ave Austin, TX 78703    ",10_4_2017,0.043,0.718,0.239
+748,748,OliveJune,"        3411 Glenview Ave Austin, TX 78703    ",4_24_2017,0.04,0.672,0.28800000000000003
+749,749,OliveJune,"        3411 Glenview Ave Austin, TX 78703    ",12_14_2018,0.07200000000000001,0.66,0.268
+750,750,OliveJune,"        3411 Glenview Ave Austin, TX 78703    ",4_19_2018,0.043,0.733,0.22399999999999998
+751,751,OliveJune,"        3411 Glenview Ave Austin, TX 78703    ",5_22_2019,0.051,0.7240000000000001,0.225
+752,752,OliveJune,"        3411 Glenview Ave Austin, TX 78703    ",10_20_2018,0.065,0.7120000000000001,0.223
+755,755,HopdoddyBurgerBar,"        1400 S Congress Ave Ste A190 Austin, TX 78704    ",8_14_2018,0.027000000000000003,0.7240000000000001,0.249
+756,756,HopdoddyBurgerBar,"        1400 S Congress Ave Ste A190 Austin, TX 78704    ",11_7_2018,0.032,0.7559999999999999,0.212
+757,757,HopdoddyBurgerBar,"        1400 S Congress Ave Ste A190 Austin, TX 78704    ",12_3_2017,0.034,0.6809999999999999,0.28600000000000003
+758,758,HopdoddyBurgerBar,"        1400 S Congress Ave Ste A190 Austin, TX 78704    ",3_13_2018,0.057999999999999996,0.7,0.242
+759,759,HopdoddyBurgerBar,"        1400 S Congress Ave Ste A190 Austin, TX 78704    ",5_12_2019,0.057,0.733,0.21100000000000002
+760,760,HopdoddyBurgerBar,"        1400 S Congress Ave Ste A190 Austin, TX 78704    ",2_12_2019,0.044000000000000004,0.7809999999999999,0.175
+761,761,HopdoddyBurgerBar,"        1400 S Congress Ave Ste A190 Austin, TX 78704    ",5_26_2019,0.023,0.7170000000000001,0.26
+762,762,TurfNSurfPoBoy,"        407 Lavaca St Austin, TX 78701    ",12_3_2017,0.084,0.7020000000000001,0.214
+763,763,TurfNSurfPoBoy,"        407 Lavaca St Austin, TX 78701    ",2_28_2018,0.083,0.736,0.18
+764,764,TurfNSurfPoBoy,"        407 Lavaca St Austin, TX 78701    ",5_12_2016,0.07200000000000001,0.713,0.215
+765,765,TurfNSurfPoBoy,"        407 Lavaca St Austin, TX 78701    ",5_9_2018,0.061,0.735,0.204
+766,766,TurfNSurfPoBoy,"        407 Lavaca St Austin, TX 78701    ",2_28_2018,0.07400000000000001,0.696,0.23
+767,767,TurfNSurfPoBoy,"        407 Lavaca St Austin, TX 78701    ",8_16_2018,0.064,0.7020000000000001,0.23399999999999999
+768,768,TurfNSurfPoBoy,"        407 Lavaca St Austin, TX 78701    ",6_25_2019,0.055999999999999994,0.698,0.24600000000000002
+769,769,RamenTatsuYa,"        8557 Research Blvd Ste 126 Austin, TX 78758    ",3_17_2019,0.055,0.733,0.212
+770,770,RamenTatsuYa,"        8557 Research Blvd Ste 126 Austin, TX 78758    ",8_2_2018,0.035,0.75,0.214
+771,771,RamenTatsuYa,"        8557 Research Blvd Ste 126 Austin, TX 78758    ",11_12_2018,0.063,0.7509999999999999,0.18600000000000003
+772,772,HopdoddyBurgerBar,"        1400 S Congress Ave Ste A190 Austin, TX 78704    ",6_30_2019,0.034,0.7170000000000001,0.249
+773,773,RamenTatsuYa,"        8557 Research Blvd Ste 126 Austin, TX 78758    ",6_22_2018,0.032,0.718,0.25
+774,774,RamenTatsuYa,"        8557 Research Blvd Ste 126 Austin, TX 78758    ",7_3_2019,0.055999999999999994,0.696,0.249
+775,775,RamenTatsuYa,"        8557 Research Blvd Ste 126 Austin, TX 78758    ",3_10_2019,0.061,0.698,0.24100000000000002
+776,776,RamenTatsuYa,"        8557 Research Blvd Ste 126 Austin, TX 78758    ",5_27_2019,0.043,0.7290000000000001,0.228
+777,777,RamenTatsuYa,"        8557 Research Blvd Ste 126 Austin, TX 78758    ",7_31_2019,0.062,0.742,0.196
+778,778,JustineBrasserie,"        4710 E 5th St Austin, TX 78702    ",6_14_2017,0.045,0.73,0.225
+779,779,JustineBrasserie,"        4710 E 5th St Austin, TX 78702    ",1_25_2018,0.073,0.727,0.201
+780,780,JustineBrasserie,"        4710 E 5th St Austin, TX 78702    ",6_15_2018,0.05,0.66,0.29
+781,781,JustineBrasserie,"        4710 E 5th St Austin, TX 78702    ",9_14_2018,0.040999999999999995,0.747,0.21100000000000002
+782,782,JustineBrasserie,"        4710 E 5th St Austin, TX 78702    ",3_13_2018,0.068,0.7120000000000001,0.22
+783,783,JustineBrasserie,"        4710 E 5th St Austin, TX 78702    ",6_22_2018,0.062,0.722,0.215
+784,784,JustineBrasserie,"        4710 E 5th St Austin, TX 78702    ",4_16_2019,0.07200000000000001,0.6940000000000001,0.23399999999999999
+785,785,JustineBrasserie,"        4710 E 5th St Austin, TX 78702    ",7_1_2019,0.059000000000000004,0.6779999999999999,0.263
+786,786,TheBrewerTable,"        4715 E 5th St Austin, TX 78702    ",12_30_2018,0.022000000000000002,0.6579999999999999,0.32
+787,787,TheBrewerTable,"        4715 E 5th St Austin, TX 78702    ",6_3_2018,0.039,0.672,0.289
+788,788,TheBrewerTable,"        4715 E 5th St Austin, TX 78702    ",7_28_2018,0.018000000000000002,0.716,0.266
+789,789,TheBrewerTable,"        4715 E 5th St Austin, TX 78702    ",9_29_2018,0.044000000000000004,0.713,0.243
+790,790,TheBrewerTable,"        4715 E 5th St Austin, TX 78702    ",1_27_2019,0.052000000000000005,0.7090000000000001,0.239
+791,791,TheBrewerTable,"        4715 E 5th St Austin, TX 78702    ",7_15_2018,0.042,0.721,0.23600000000000002
+792,792,ClarkOysterBar,"        1200 W 6th St Austin, TX 78703    ",6_9_2017,0.053,0.662,0.285
+793,793,ClarkOysterBar,"        1200 W 6th St Austin, TX 78703    ",3_25_2017,0.075,0.736,0.18899999999999997
+794,794,TheBrewerTable,"        4715 E 5th St Austin, TX 78702    ",6_23_2019,0.040999999999999995,0.695,0.264
+795,795,ClarkOysterBar,"        1200 W 6th St Austin, TX 78703    ",11_2_2018,0.043,0.708,0.249
+796,796,ClarkOysterBar,"        1200 W 6th St Austin, TX 78703    ",6_21_2018,0.062,0.698,0.24
+797,797,ClarkOysterBar,"        1200 W 6th St Austin, TX 78703    ",11_24_2017,0.049,0.708,0.243
+798,798,ClarkOysterBar,"        1200 W 6th St Austin, TX 78703    ",3_24_2019,0.048,0.684,0.268
+799,799,ClarkOysterBar,"        1200 W 6th St Austin, TX 78703    ",7_15_2018,0.054000000000000006,0.716,0.231
+800,800,PhoebeDiner,"        533 W Oltorf St Austin, TX 78704    ",2_18_2019,0.052000000000000005,0.7040000000000001,0.244
+801,801,PhoebeDiner,"        533 W Oltorf St Austin, TX 78704    ",3_13_2019,0.052000000000000005,0.684,0.264
+802,802,PhoebeDiner,"        533 W Oltorf St Austin, TX 78704    ",1_30_2018,0.03,0.7090000000000001,0.26
+803,803,PhoebeDiner,"        533 W Oltorf St Austin, TX 78704    ",4_14_2019,0.038,0.6829999999999999,0.27899999999999997
+804,804,PhoebeDiner,"        533 W Oltorf St Austin, TX 78704    ",5_16_2019,0.043,0.7440000000000001,0.213
+805,805,PhoebeDiner,"        533 W Oltorf St Austin, TX 78704    ",7_7_2019,0.065,0.723,0.212
+806,806,MandolaItalian,"        4700 W Guadalupe St Ste 12 Austin, TX 78751    ",12_6_2017,0.052000000000000005,0.6859999999999999,0.262
+807,807,MandolaItalian,"        4700 W Guadalupe St Ste 12 Austin, TX 78751    ",5_1_2018,0.032,0.706,0.262
+808,808,ClarkOysterBar,"        1200 W 6th St Austin, TX 78703    ",7_23_2019,0.07400000000000001,0.722,0.204
+809,809,MandolaItalian,"        4700 W Guadalupe St Ste 12 Austin, TX 78751    ",7_5_2017,0.044000000000000004,0.6970000000000001,0.258
+810,810,MandolaItalian,"        4700 W Guadalupe St Ste 12 Austin, TX 78751    ",4_2_2016,0.013999999999999999,0.69,0.29600000000000004
+811,811,MandolaItalian,"        4700 W Guadalupe St Ste 12 Austin, TX 78751    ",4_15_2019,0.048,0.6779999999999999,0.273
+812,812,MandolaItalian,"        4700 W Guadalupe St Ste 12 Austin, TX 78751    ",7_29_2018,0.036000000000000004,0.696,0.268
+813,813,PhoebeDiner,"        533 W Oltorf St Austin, TX 78704    ",7_13_2019,0.039,0.762,0.19899999999999998
+814,814,MandolaItalian,"        4700 W Guadalupe St Ste 12 Austin, TX 78751    ",6_16_2019,0.027000000000000003,0.7509999999999999,0.222
+815,815,KomeSushiKitchen,"        5301 Airport Blvd Ste 100 Austin, TX 78751    ",6_27_2017,0.034,0.723,0.242
+816,816,KomeSushiKitchen,"        5301 Airport Blvd Ste 100 Austin, TX 78751    ",7_15_2018,0.034,0.752,0.214
+817,817,KomeSushiKitchen,"        5301 Airport Blvd Ste 100 Austin, TX 78751    ",2_17_2017,0.051,0.698,0.251
+818,818,KomeSushiKitchen,"        5301 Airport Blvd Ste 100 Austin, TX 78751    ",5_15_2018,0.032,0.736,0.23199999999999998
+819,819,KomeSushiKitchen,"        5301 Airport Blvd Ste 100 Austin, TX 78751    ",3_20_2018,0.039,0.745,0.21600000000000003
+820,820,KomeSushiKitchen,"        5301 Airport Blvd Ste 100 Austin, TX 78751    ",5_25_2019,0.044000000000000004,0.715,0.24100000000000002
+821,821,KomeSushiKitchen,"        5301 Airport Blvd Ste 100 Austin, TX 78751    ",1_16_2019,0.042,0.732,0.226
+822,822,WuChow,"        500 W 5th St Austin, TX 78701    ",6_25_2018,0.071,0.72,0.209
+823,823,WuChow,"        500 W 5th St Austin, TX 78701    ",8_21_2018,0.057,0.703,0.24
+824,824,KomeSushiKitchen,"        5301 Airport Blvd Ste 100 Austin, TX 78751    ",7_30_2019,0.047,0.715,0.237
+825,825,WuChow,"        500 W 5th St Austin, TX 78701    ",11_21_2018,0.073,0.73,0.19699999999999998
+826,826,WuChow,"        500 W 5th St Austin, TX 78701    ",9_8_2018,0.07400000000000001,0.7290000000000001,0.19699999999999998
+827,827,WuChow,"        500 W 5th St Austin, TX 78701    ",4_10_2019,0.04,0.7290000000000001,0.23199999999999998
+828,828,CaboBobBurritos,"        2828 Rio Grande St Austin, TX 78705    ",5_3_2018,0.063,0.7190000000000001,0.218
+829,829,CaboBobBurritos,"        2828 Rio Grande St Austin, TX 78705    ",7_4_2017,0.032,0.733,0.235
+830,830,CaboBobBurritos,"        2828 Rio Grande St Austin, TX 78705    ",12_28_2017,0.044000000000000004,0.688,0.268
+831,831,CaboBobBurritos,"        2828 Rio Grande St Austin, TX 78705    ",4_22_2018,0.036000000000000004,0.677,0.287
+832,832,Saffron,"        3616 Far W Blvd Ste 113 Austin, TX 78731    ",8_21_2016,0.027000000000000003,0.6809999999999999,0.29100000000000004
+833,833,WuChow,"        500 W 5th St Austin, TX 78701    ",7_29_2019,0.038,0.7190000000000001,0.243
+834,834,Saffron,"        3616 Far W Blvd Ste 113 Austin, TX 78731    ",7_3_2017,0.038,0.732,0.231
+835,835,Saffron,"        3616 Far W Blvd Ste 113 Austin, TX 78731    ",9_4_2018,0.028999999999999998,0.722,0.25
+836,836,Saffron,"        3616 Far W Blvd Ste 113 Austin, TX 78731    ",5_20_2018,0.049,0.735,0.21600000000000003
+837,837,Saffron,"        3616 Far W Blvd Ste 113 Austin, TX 78731    ",2_14_2019,0.034,0.733,0.23199999999999998
+838,838,Saffron,"        3616 Far W Blvd Ste 113 Austin, TX 78731    ",9_26_2018,0.015,0.708,0.27699999999999997
+839,839,Saffron,"        3616 Far W Blvd Ste 113 Austin, TX 78731    ",1_12_2019,0.039,0.728,0.233
+840,840,CaboBobBurritos,"        2828 Rio Grande St Austin, TX 78705    ",7_27_2019,0.027000000000000003,0.718,0.255
+841,841,PokePoke,"        2320 Hancock Dr Austin, TX 78756    ",5_31_2017,0.047,0.6890000000000001,0.264
+842,842,PokePoke,"        2320 Hancock Dr Austin, TX 78756    ",9_24_2017,0.048,0.625,0.32799999999999996
+843,843,PokePoke,"        2320 Hancock Dr Austin, TX 78756    ",2_22_2018,0.035,0.705,0.26
+844,844,PokePoke,"        2320 Hancock Dr Austin, TX 78756    ",7_11_2017,0.016,0.6859999999999999,0.298
+845,845,PokePoke,"        2320 Hancock Dr Austin, TX 78756    ",7_1_2018,0.035,0.7190000000000001,0.24600000000000002
+846,846,Saffron,"        3616 Far W Blvd Ste 113 Austin, TX 78731    ",6_24_2019,0.027000000000000003,0.74,0.233
+847,847,LimaCriolla,"        6406 N Interstate 35 Frontage Rd Ste 1550 Austin, TX 78752    ",7_21_2016,0.047,0.723,0.23
+848,848,LimaCriolla,"        6406 N Interstate 35 Frontage Rd Ste 1550 Austin, TX 78752    ",10_16_2017,0.053,0.728,0.22
+850,850,LimaCriolla,"        6406 N Interstate 35 Frontage Rd Ste 1550 Austin, TX 78752    ",3_3_2017,0.055,0.7440000000000001,0.20199999999999999
+851,851,LimaCriolla,"        6406 N Interstate 35 Frontage Rd Ste 1550 Austin, TX 78752    ",6_22_2017,0.055,0.737,0.20800000000000002
+852,852,LimaCriolla,"        6406 N Interstate 35 Frontage Rd Ste 1550 Austin, TX 78752    ",2_1_2016,0.061,0.7,0.239
+853,853,LimaCriolla,"        6406 N Interstate 35 Frontage Rd Ste 1550 Austin, TX 78752    ",11_28_2016,0.05,0.738,0.213
+854,854,LimaCriolla,"        6406 N Interstate 35 Frontage Rd Ste 1550 Austin, TX 78752    ",6_16_2019,0.034,0.7340000000000001,0.231
+855,855,LimaCriolla,"        6406 N Interstate 35 Frontage Rd Ste 1550 Austin, TX 78752    ",11_7_2018,0.040999999999999995,0.745,0.214
+856,856,LimaCriolla,"        6406 N Interstate 35 Frontage Rd Ste 1550 Austin, TX 78752    ",4_6_2019,0.048,0.732,0.221
+858,858,TacoJoint,"        134 E Riverside Dr Austin, TX 78704    ",12_27_2018,0.052000000000000005,0.7040000000000001,0.244
+859,859,TacoJoint,"        134 E Riverside Dr Austin, TX 78704    ",10_1_2018,0.05,0.75,0.2
+860,860,TacoJoint,"        134 E Riverside Dr Austin, TX 78704    ",6_30_2017,0.042,0.684,0.27399999999999997
+861,861,TacoJoint,"        134 E Riverside Dr Austin, TX 78704    ",1_28_2019,0.032,0.7190000000000001,0.249
+862,862,TacoJoint,"        134 E Riverside Dr Austin, TX 78704    ",3_12_2019,0.03,0.667,0.302
+863,863,TacoJoint,"        134 E Riverside Dr Austin, TX 78704    ",2_21_2019,0.039,0.7070000000000001,0.254
+864,864,TacoJoint,"        134 E Riverside Dr Austin, TX 78704    ",2_26_2019,0.033,0.7390000000000001,0.228
+867,867,TacoJoint,"        134 E Riverside Dr Austin, TX 78704    ",7_18_2019,0.04,0.7240000000000001,0.23600000000000002
+868,868,AboYoussef,"        2101 Manor Rd Austin, TX 78722    ",12_13_2016,0.024,0.659,0.316
+869,869,AboYoussef,"        2101 Manor Rd Austin, TX 78722    ",5_25_2018,0.039,0.6890000000000001,0.272
+870,870,AboYoussef,"        2101 Manor Rd Austin, TX 78722    ",4_26_2017,0.025,0.716,0.259
+872,872,AboYoussef,"        2101 Manor Rd Austin, TX 78722    ",2_26_2016,0.04,0.7140000000000001,0.245
+873,873,AboYoussef,"        2101 Manor Rd Austin, TX 78722    ",4_12_2018,0.025,0.6679999999999999,0.307
+874,874,AboYoussef,"        2101 Manor Rd Austin, TX 78722    ",11_13_2017,0.03,0.7090000000000001,0.261
+875,875,AboYoussef,"        2101 Manor Rd Austin, TX 78722    ",7_8_2017,0.042,0.7440000000000001,0.214
+876,876,AboYoussef,"        2101 Manor Rd Austin, TX 78722    ",10_26_2018,0.051,0.6859999999999999,0.262
+877,877,AboYoussef,"        2101 Manor Rd Austin, TX 78722    ",10_24_2018,0.034,0.65,0.316
+878,878,MichiRamen,"        6519 N Lamar Blvd Austin, TX 78752    ",1_10_2015,0.028999999999999998,0.77,0.20199999999999999
+879,879,MichiRamen,"        6519 N Lamar Blvd Austin, TX 78752    ",9_15_2016,0.043,0.7609999999999999,0.196
+880,880,MichiRamen,"        6519 N Lamar Blvd Austin, TX 78752    ",12_12_2016,0.054000000000000006,0.7240000000000001,0.222
+881,881,MichiRamen,"        6519 N Lamar Blvd Austin, TX 78752    ",9_27_2018,0.047,0.769,0.184
+882,882,MichiRamen,"        6519 N Lamar Blvd Austin, TX 78752    ",2_14_2019,0.061,0.7340000000000001,0.20600000000000002
+883,883,MichiRamen,"        6519 N Lamar Blvd Austin, TX 78752    ",10_6_2017,0.048,0.752,0.2
+884,884,MichiRamen,"        6519 N Lamar Blvd Austin, TX 78752    ",4_26_2019,0.048,0.735,0.218
+885,885,AboYoussef,"        2101 Manor Rd Austin, TX 78722    ",7_17_2019,0.035,0.716,0.249
+886,886,Anthem,"        91 Rainey St Ste 120 Austin, TX 78701    ",2_27_2019,0.054000000000000006,0.831,0.115
+887,887,Anthem,"        91 Rainey St Ste 120 Austin, TX 78701    ",11_16_2018,0.057,0.6609999999999999,0.28300000000000003
+888,888,MichiRamen,"        6519 N Lamar Blvd Austin, TX 78752    ",7_10_2019,0.042,0.7809999999999999,0.177
+889,889,Anthem,"        91 Rainey St Ste 120 Austin, TX 78701    ",2_11_2019,0.045,0.7020000000000001,0.253
+890,890,Anthem,"        91 Rainey St Ste 120 Austin, TX 78701    ",3_31_2019,0.034,0.6759999999999999,0.29
+891,891,Anthem,"        91 Rainey St Ste 120 Austin, TX 78701    ",2_9_2019,0.025,0.667,0.309
+892,892,Anthem,"        91 Rainey St Ste 120 Austin, TX 78701    ",12_13_2018,0.043,0.67,0.287
+893,893,SLABBBQBeer,"        9012 Research Blvd Ste C4 Austin, TX 78758    ",4_2_2017,0.057999999999999996,0.6890000000000001,0.253
+894,894,SLABBBQBeer,"        9012 Research Blvd Ste C4 Austin, TX 78758    ",5_14_2016,0.026000000000000002,0.726,0.248
+895,895,SLABBBQBeer,"        9012 Research Blvd Ste C4 Austin, TX 78758    ",11_24_2018,0.051,0.7340000000000001,0.215
+896,896,SLABBBQBeer,"        9012 Research Blvd Ste C4 Austin, TX 78758    ",7_30_2018,0.03,0.726,0.244
+897,897,SLABBBQBeer,"        9012 Research Blvd Ste C4 Austin, TX 78758    ",5_26_2018,0.036000000000000004,0.6990000000000001,0.265
+898,898,SLABBBQBeer,"        9012 Research Blvd Ste C4 Austin, TX 78758    ",7_19_2019,0.027999999999999997,0.6809999999999999,0.29100000000000004
+899,899,SLABBBQBeer,"        9012 Research Blvd Ste C4 Austin, TX 78758    ",12_27_2018,0.034,0.73,0.235
+900,900,Anthem,"        91 Rainey St Ste 120 Austin, TX 78701    ",7_27_2019,0.057999999999999996,0.662,0.28
+901,901,SLABBBQBeer,"        9012 Research Blvd Ste C4 Austin, TX 78758    ",7_31_2019,0.057,0.733,0.21
+902,902,CaboBobBurritos,"        500 E Ben White Blvd Ste D100 Austin, TX 78704    ",6_25_2017,0.027000000000000003,0.705,0.268
+903,903,CaboBobBurritos,"        500 E Ben White Blvd Ste D100 Austin, TX 78704    ",7_29_2017,0.034,0.741,0.225
+904,904,CaboBobBurritos,"        500 E Ben White Blvd Ste D100 Austin, TX 78704    ",10_19_2017,0.065,0.703,0.231
+905,905,CaboBobBurritos,"        500 E Ben White Blvd Ste D100 Austin, TX 78704    ",7_1_2016,0.069,0.721,0.21
+906,906,CaboBobBurritos,"        500 E Ben White Blvd Ste D100 Austin, TX 78704    ",3_31_2019,0.034,0.7040000000000001,0.262
+907,907,CaboBobBurritos,"        500 E Ben White Blvd Ste D100 Austin, TX 78704    ",5_26_2019,0.027000000000000003,0.7090000000000001,0.264
+908,908,CaboBobBurritos,"        500 E Ben White Blvd Ste D100 Austin, TX 78704    ",5_13_2019,0.04,0.723,0.237
+909,909,CaboBobBurritos,"        500 E Ben White Blvd Ste D100 Austin, TX 78704    ",12_18_2018,0.043,0.738,0.218
+910,910,LavacaTeppan,"        1712 Lavaca St Austin, TX 78701    ",7_16_2013,0.035,0.718,0.247
+911,911,LavacaTeppan,"        1712 Lavaca St Austin, TX 78701    ",8_11_2012,0.044000000000000004,0.713,0.243
+912,912,CaboBobBurritos,"        500 E Ben White Blvd Ste D100 Austin, TX 78704    ",4_17_2019,0.051,0.701,0.248
+913,913,LavacaTeppan,"        1712 Lavaca St Austin, TX 78701    ",7_11_2015,0.036000000000000004,0.708,0.256
+914,914,LavacaTeppan,"        1712 Lavaca St Austin, TX 78701    ",8_4_2015,0.028999999999999998,0.747,0.22399999999999998
+915,915,LavacaTeppan,"        1712 Lavaca St Austin, TX 78701    ",1_28_2017,0.039,0.698,0.262
+916,916,Suerte,"        1800 E 6th St Austin, TX 78702    ",9_9_2018,0.06,0.7,0.24
+917,917,Suerte,"        1800 E 6th St Austin, TX 78702    ",9_14_2018,0.03,0.682,0.28800000000000003
+918,918,Suerte,"        1800 E 6th St Austin, TX 78702    ",4_1_2018,0.04,0.705,0.255
+919,919,Suerte,"        1800 E 6th St Austin, TX 78702    ",6_12_2019,0.032,0.69,0.27699999999999997
+920,920,Suerte,"        1800 E 6th St Austin, TX 78702    ",4_2_2019,0.057999999999999996,0.6920000000000001,0.249
+921,921,Suerte,"        1800 E 6th St Austin, TX 78702    ",6_21_2019,0.034,0.6809999999999999,0.285
+922,922,Suerte,"        1800 E 6th St Austin, TX 78702    ",12_9_2018,0.034,0.69,0.276
+923,923,Suerte,"        1800 E 6th St Austin, TX 78702    ",5_29_2019,0.031,0.703,0.266
+924,924,Perla,"        1400 S Congress Ave Ste B100 Austin, TX 78704    ",12_27_2016,0.043,0.708,0.249
+925,925,Perla,"        1400 S Congress Ave Ste B100 Austin, TX 78704    ",3_25_2018,0.054000000000000006,0.7070000000000001,0.239
+926,926,LavacaTeppan,"        1712 Lavaca St Austin, TX 78701    ",5_21_2019,0.034,0.727,0.239
+927,927,Perla,"        1400 S Congress Ave Ste B100 Austin, TX 78704    ",3_13_2018,0.028999999999999998,0.7190000000000001,0.251
+928,928,Perla,"        1400 S Congress Ave Ste B100 Austin, TX 78704    ",10_7_2017,0.04,0.6890000000000001,0.271
+929,929,Perla,"        1400 S Congress Ave Ste B100 Austin, TX 78704    ",1_28_2019,0.062,0.6679999999999999,0.27
+930,930,Perla,"        1400 S Congress Ave Ste B100 Austin, TX 78704    ",12_24_2018,0.037000000000000005,0.7,0.263
+931,931,Perla,"        1400 S Congress Ave Ste B100 Austin, TX 78704    ",3_21_2019,0.037000000000000005,0.703,0.26
+932,932,Suerte,"        1800 E 6th St Austin, TX 78702    ",7_27_2019,0.04,0.691,0.26899999999999996
+936,936,TukTukThaiCafe,"        5517 Manchaca Rd Austin, TX 78745    ",7_26_2018,0.044000000000000004,0.732,0.22399999999999998
+937,937,TukTukThaiCafe,"        5517 Manchaca Rd Austin, TX 78745    ",10_7_2018,0.04,0.6970000000000001,0.263
+938,938,TukTukThaiCafe,"        5517 Manchaca Rd Austin, TX 78745    ",10_17_2018,0.032,0.76,0.20800000000000002
+939,939,TukTukThaiCafe,"        5517 Manchaca Rd Austin, TX 78745    ",4_21_2018,0.027999999999999997,0.701,0.27
+940,940,TukTukThaiCafe,"        5517 Manchaca Rd Austin, TX 78745    ",7_18_2018,0.047,0.703,0.25
+941,941,TukTukThaiCafe,"        5517 Manchaca Rd Austin, TX 78745    ",9_14_2018,0.067,0.68,0.253
+942,942,TukTukThaiCafe,"        5517 Manchaca Rd Austin, TX 78745    ",1_3_2019,0.033,0.7040000000000001,0.264
+943,943,TukTukThaiCafe,"        5517 Manchaca Rd Austin, TX 78745    ",5_29_2019,0.047,0.721,0.23199999999999998
+944,944,TheHalalCorner,"        1200 Barbara Jordan Ste 300 Austin, TX 78723    ",5_8_2016,0.038,0.688,0.27399999999999997
+946,946,TheHalalCorner,"        1200 Barbara Jordan Ste 300 Austin, TX 78723    ",9_15_2015,0.031,0.769,0.2
+947,947,TheHalalCorner,"        1200 Barbara Jordan Ste 300 Austin, TX 78723    ",5_9_2018,0.040999999999999995,0.722,0.237
+948,948,TheHalalCorner,"        1200 Barbara Jordan Ste 300 Austin, TX 78723    ",8_19_2018,0.039,0.72,0.24100000000000002
+949,949,TheHalalCorner,"        1200 Barbara Jordan Ste 300 Austin, TX 78723    ",3_25_2018,0.063,0.74,0.19699999999999998
+950,950,TheHalalCorner,"        1200 Barbara Jordan Ste 300 Austin, TX 78723    ",7_10_2019,0.049,0.708,0.243
+951,951,ElAlma,"        1025 Barton Springs Rd Austin, TX 78704    ",7_13_2017,0.027000000000000003,0.711,0.262
+952,952,TukTukThaiCafe,"        5517 Manchaca Rd Austin, TX 78745    ",5_19_2019,0.036000000000000004,0.7390000000000001,0.225
+953,953,ElAlma,"        1025 Barton Springs Rd Austin, TX 78704    ",5_5_2019,0.03,0.6629999999999999,0.308
+954,954,ElAlma,"        1025 Barton Springs Rd Austin, TX 78704    ",7_29_2018,0.040999999999999995,0.6940000000000001,0.265
+955,955,ElAlma,"        1025 Barton Springs Rd Austin, TX 78704    ",10_16_2018,0.028999999999999998,0.687,0.284
+956,956,ElAlma,"        1025 Barton Springs Rd Austin, TX 78704    ",12_4_2018,0.028999999999999998,0.6940000000000001,0.276
+961,961,PinthousePizza,"        4729 Burnet Rd Austin, TX 78756    ",4_24_2018,0.055,0.732,0.213
+962,962,PinthousePizza,"        4729 Burnet Rd Austin, TX 78756    ",5_24_2018,0.037000000000000005,0.7020000000000001,0.261
+963,963,ElAlma,"        1025 Barton Springs Rd Austin, TX 78704    ",6_25_2019,0.017,0.735,0.248
+964,964,PinthousePizza,"        4729 Burnet Rd Austin, TX 78756    ",10_25_2017,0.028999999999999998,0.7559999999999999,0.21600000000000003
+965,965,PinthousePizza,"        4729 Burnet Rd Austin, TX 78756    ",4_18_2017,0.055,0.682,0.263
+966,966,PinthousePizza,"        4729 Burnet Rd Austin, TX 78756    ",3_24_2018,0.026000000000000002,0.7120000000000001,0.262
+967,967,PinthousePizza,"        4729 Burnet Rd Austin, TX 78756    ",1_25_2019,0.032,0.7170000000000001,0.251
+968,968,PinthousePizza,"        4729 Burnet Rd Austin, TX 78756    ",5_21_2018,0.039,0.7020000000000001,0.259
+969,969,PinthousePizza,"        4729 Burnet Rd Austin, TX 78756    ",1_7_2019,0.045,0.728,0.22699999999999998
+970,970,TheCarillon,"        1900 University Ave Austin, TX 78705    ",6_20_2015,0.02,0.718,0.262
+971,971,TheCarillon,"        1900 University Ave Austin, TX 78705    ",6_17_2011,0.037000000000000005,0.721,0.242
+972,972,TheCarillon,"        1900 University Ave Austin, TX 78705    ",8_31_2010,0.048,0.7440000000000001,0.20800000000000002
+973,973,TheCarillon,"        1900 University Ave Austin, TX 78705    ",11_27_2012,0.033,0.748,0.22
+974,974,TheCarillon,"        1900 University Ave Austin, TX 78705    ",5_30_2014,0.037000000000000005,0.6779999999999999,0.285
+975,975,TheCarillon,"        1900 University Ave Austin, TX 78705    ",5_28_2014,0.057,0.73,0.213
+976,976,TheCarillon,"        1900 University Ave Austin, TX 78705    ",2_8_2015,0.04,0.7190000000000001,0.24100000000000002
+977,977,TheCarillon,"        1900 University Ave Austin, TX 78705    ",3_7_2012,0.034,0.752,0.214
+978,978,TheCarillon,"        1900 University Ave Austin, TX 78705    ",6_26_2018,0.027000000000000003,0.742,0.231
+979,979,TheCarillon,"        1900 University Ave Austin, TX 78705    ",6_29_2019,0.052000000000000005,0.696,0.252
+981,981,laBarbecue,"        2027 E Cesar Chavez St Austin, TX 78702    ",6_9_2019,0.071,0.737,0.192
+982,982,laBarbecue,"        2027 E Cesar Chavez St Austin, TX 78702    ",6_14_2019,0.039,0.752,0.209
+983,983,laBarbecue,"        2027 E Cesar Chavez St Austin, TX 78702    ",3_22_2018,0.032,0.7709999999999999,0.19699999999999998
+984,984,laBarbecue,"        2027 E Cesar Chavez St Austin, TX 78702    ",11_26_2018,0.036000000000000004,0.769,0.195
+985,985,laBarbecue,"        2027 E Cesar Chavez St Austin, TX 78702    ",3_22_2019,0.04,0.769,0.191
+986,986,laBarbecue,"        2027 E Cesar Chavez St Austin, TX 78702    ",6_26_2019,0.038,0.7609999999999999,0.201
+987,987,laBarbecue,"        2027 E Cesar Chavez St Austin, TX 78702    ",2_18_2019,0.049,0.792,0.159
+988,988,TacoJoint,"        2807 & 2809 San Jacinto Blvd Austin, TX 78705    ",4_6_2017,0.024,0.721,0.254
+989,989,TacoJoint,"        2807 & 2809 San Jacinto Blvd Austin, TX 78705    ",6_17_2016,0.028999999999999998,0.73,0.24
+990,990,laBarbecue,"        2027 E Cesar Chavez St Austin, TX 78702    ",7_25_2019,0.057,0.7509999999999999,0.192
+991,991,TacoJoint,"        2807 & 2809 San Jacinto Blvd Austin, TX 78705    ",7_1_2017,0.047,0.733,0.21899999999999997
+992,992,TacoJoint,"        2807 & 2809 San Jacinto Blvd Austin, TX 78705    ",4_20_2016,0.051,0.727,0.222
+993,993,TacoJoint,"        2807 & 2809 San Jacinto Blvd Austin, TX 78705    ",4_10_2018,0.044000000000000004,0.706,0.25
+994,994,TacoJoint,"        2807 & 2809 San Jacinto Blvd Austin, TX 78705    ",7_15_2017,0.027999999999999997,0.7170000000000001,0.255
+995,995,TacoJoint,"        2807 & 2809 San Jacinto Blvd Austin, TX 78705    ",7_18_2018,0.069,0.727,0.204
+996,996,TacoJoint,"        2807 & 2809 San Jacinto Blvd Austin, TX 78705    ",4_2_2019,0.026000000000000002,0.748,0.226
+997,997,TacoJoint,"        2807 & 2809 San Jacinto Blvd Austin, TX 78705    ",7_3_2018,0.038,0.695,0.267
+998,998,BaoUp,"        1911 Aldrich St Ste A1 Austin, TX 78723    ",10_14_2017,0.057999999999999996,0.7559999999999999,0.187
+1000,1000,BaoUp,"        1911 Aldrich St Ste A1 Austin, TX 78723    ",3_18_2018,0.031,0.757,0.212
+1001,1001,BaoUp,"        1911 Aldrich St Ste A1 Austin, TX 78723    ",1_25_2019,0.039,0.687,0.275
+1002,1002,BaoUp,"        1911 Aldrich St Ste A1 Austin, TX 78723    ",8_4_2018,0.033,0.741,0.22699999999999998
+1003,1003,BaoUp,"        1911 Aldrich St Ste A1 Austin, TX 78723    ",2_6_2019,0.043,0.754,0.203
+1004,1004,BaoUp,"        1911 Aldrich St Ste A1 Austin, TX 78723    ",4_28_2019,0.047,0.735,0.218
+1005,1005,BaoUp,"        1911 Aldrich St Ste A1 Austin, TX 78723    ",2_16_2019,0.059000000000000004,0.711,0.23
+1006,1006,WhollyCow,"        3010 S Lamar Blvd Austin, TX 78704    ",6_7_2017,0.036000000000000004,0.731,0.233
+1007,1007,WhollyCow,"        3010 S Lamar Blvd Austin, TX 78704    ",2_10_2015,0.049,0.695,0.256
+1008,1008,WhollyCow,"        3010 S Lamar Blvd Austin, TX 78704    ",7_31_2016,0.036000000000000004,0.732,0.23199999999999998
+1009,1009,TacoJoint,"        2807 & 2809 San Jacinto Blvd Austin, TX 78705    ",7_23_2019,0.069,0.74,0.191
+1010,1010,WhollyCow,"        3010 S Lamar Blvd Austin, TX 78704    ",1_15_2018,0.073,0.7090000000000001,0.218
+1011,1011,WhollyCow,"        3010 S Lamar Blvd Austin, TX 78704    ",4_12_2016,0.071,0.711,0.217
+1012,1012,WhollyCow,"        3010 S Lamar Blvd Austin, TX 78704    ",12_10_2016,0.054000000000000006,0.7390000000000001,0.207
+1013,1013,WhollyCow,"        3010 S Lamar Blvd Austin, TX 78704    ",5_20_2018,0.053,0.725,0.222
+1014,1014,HulaHut,"        3825 Lake Austin Blvd Austin, TX 78703    ",5_12_2019,0.094,0.725,0.18100000000000002
+1015,1015,WhollyCow,"        3010 S Lamar Blvd Austin, TX 78704    ",12_17_2017,0.046,0.7140000000000001,0.239
+1016,1016,BaoUp,"        1911 Aldrich St Ste A1 Austin, TX 78723    ",7_26_2019,0.036000000000000004,0.7040000000000001,0.259
+1017,1017,HulaHut,"        3825 Lake Austin Blvd Austin, TX 78703    ",12_18_2018,0.08900000000000001,0.758,0.153
+1018,1018,HulaHut,"        3825 Lake Austin Blvd Austin, TX 78703    ",6_7_2019,0.042,0.7290000000000001,0.22899999999999998
+1019,1019,HulaHut,"        3825 Lake Austin Blvd Austin, TX 78703    ",12_15_2018,0.063,0.728,0.21
+1020,1020,HulaHut,"        3825 Lake Austin Blvd Austin, TX 78703    ",7_23_2019,0.07,0.7490000000000001,0.18100000000000002
+1021,1021,WhollyCow,"        3010 S Lamar Blvd Austin, TX 78704    ",7_10_2019,0.045,0.711,0.244
+1023,1023,JulieNoodles,"        8557 Research Blvd Ste 110 Austin, TX 78758    ",9_29_2018,0.071,0.727,0.20199999999999999
+1024,1024,JulieNoodles,"        8557 Research Blvd Ste 110 Austin, TX 78758    ",8_11_2016,0.048,0.7340000000000001,0.218
+1025,1025,JulieNoodles,"        8557 Research Blvd Ste 110 Austin, TX 78758    ",6_9_2018,0.042,0.75,0.20800000000000002
+1026,1026,HulaHut,"        3825 Lake Austin Blvd Austin, TX 78703    ",7_26_2019,0.066,0.7390000000000001,0.195
+1027,1027,JulieNoodles,"        8557 Research Blvd Ste 110 Austin, TX 78758    ",3_6_2018,0.055999999999999994,0.6940000000000001,0.25
+1028,1028,JulieNoodles,"        8557 Research Blvd Ste 110 Austin, TX 78758    ",6_7_2018,0.073,0.7290000000000001,0.198
+1029,1029,JulieNoodles,"        8557 Research Blvd Ste 110 Austin, TX 78758    ",4_13_2017,0.076,0.6990000000000001,0.225
+1030,1030,JulieNoodles,"        8557 Research Blvd Ste 110 Austin, TX 78758    ",2_8_2019,0.043,0.737,0.22
+1031,1031,JulieNoodles,"        8557 Research Blvd Ste 110 Austin, TX 78758    ",9_1_2018,0.048,0.715,0.237
+1032,1032,SalaandBetty,"        5201 Airport Blvd Austin, TX 78751    ",11_27_2015,0.039,0.721,0.24
+1033,1033,SalaandBetty,"        5201 Airport Blvd Austin, TX 78751    ",4_2_2016,0.049,0.6990000000000001,0.252
+1035,1035,SalaandBetty,"        5201 Airport Blvd Austin, TX 78751    ",5_30_2018,0.044000000000000004,0.7,0.256
+1036,1036,SalaandBetty,"        5201 Airport Blvd Austin, TX 78751    ",1_8_2018,0.026000000000000002,0.732,0.242
+1037,1037,SalaandBetty,"        5201 Airport Blvd Austin, TX 78751    ",10_8_2018,0.035,0.688,0.27699999999999997
+1038,1038,SalaandBetty,"        5201 Airport Blvd Austin, TX 78751    ",10_27_2018,0.044000000000000004,0.6890000000000001,0.267
+1039,1039,SalaandBetty,"        5201 Airport Blvd Austin, TX 78751    ",4_16_2019,0.05,0.7709999999999999,0.179
+1040,1040,Jeffrey,"        1204 W Lynn St Austin, TX 78703    ",9_1_2016,0.06,0.723,0.217
+1041,1041,Jeffrey,"        1204 W Lynn St Austin, TX 78703    ",1_15_2016,0.051,0.685,0.264
+1042,1042,Jeffrey,"        1204 W Lynn St Austin, TX 78703    ",8_14_2014,0.040999999999999995,0.737,0.221
+1043,1043,Jeffrey,"        1204 W Lynn St Austin, TX 78703    ",5_23_2018,0.064,0.738,0.198
+1044,1044,Jeffrey,"        1204 W Lynn St Austin, TX 78703    ",8_22_2017,0.099,0.703,0.198
+1045,1045,Jeffrey,"        1204 W Lynn St Austin, TX 78703    ",1_1_2018,0.065,0.715,0.221
+1046,1046,Jeffrey,"        1204 W Lynn St Austin, TX 78703    ",3_8_2019,0.047,0.7,0.253
+1047,1047,CasaColombia,"        2409 E 7th St Austin, TX 78702    ",9_29_2017,0.059000000000000004,0.6809999999999999,0.26
+1048,1048,CasaColombia,"        2409 E 7th St Austin, TX 78702    ",8_11_2018,0.065,0.7140000000000001,0.221
+1049,1049,CasaColombia,"        2409 E 7th St Austin, TX 78702    ",4_1_2018,0.044000000000000004,0.7040000000000001,0.252
+1050,1050,CasaColombia,"        2409 E 7th St Austin, TX 78702    ",8_29_2018,0.034,0.701,0.265
+1051,1051,Picnik,"        4801 Burnet Rd Austin, TX 78756    ",9_20_2017,0.024,0.6920000000000001,0.284
+1052,1052,Picnik,"        4801 Burnet Rd Austin, TX 78756    ",2_7_2018,0.037000000000000005,0.6920000000000001,0.27
+1053,1053,Picnik,"        4801 Burnet Rd Austin, TX 78756    ",4_8_2018,0.044000000000000004,0.693,0.263
+1054,1054,Picnik,"        4801 Burnet Rd Austin, TX 78756    ",4_18_2018,0.047,0.7040000000000001,0.249
+1055,1055,Picnik,"        4801 Burnet Rd Austin, TX 78756    ",11_4_2018,0.044000000000000004,0.6559999999999999,0.3
+1056,1056,Picnik,"        4801 Burnet Rd Austin, TX 78756    ",3_24_2019,0.043,0.727,0.23
+1057,1057,Picnik,"        4801 Burnet Rd Austin, TX 78756    ",5_24_2019,0.037000000000000005,0.6729999999999999,0.29100000000000004
+1058,1058,Picnik,"        4801 Burnet Rd Austin, TX 78756    ",7_19_2019,0.042,0.705,0.253
+1059,1059,CasaColombia,"        2409 E 7th St Austin, TX 78702    ",5_18_2019,0.022000000000000002,0.743,0.235
+1060,1060,Picnik,"        4801 Burnet Rd Austin, TX 78756    ",7_24_2019,0.052000000000000005,0.6920000000000001,0.256
+1061,1061,SwiftAttic,"        315 Congress Ave Ste 200 Austin, TX 78701    ",7_26_2016,0.03,0.705,0.265
+1062,1062,SwiftAttic,"        315 Congress Ave Ste 200 Austin, TX 78701    ",6_15_2015,0.057,0.713,0.23
+1063,1063,SwiftAttic,"        315 Congress Ave Ste 200 Austin, TX 78701    ",12_21_2016,0.057999999999999996,0.741,0.201
+1064,1064,SwiftAttic,"        315 Congress Ave Ste 200 Austin, TX 78701    ",4_2_2018,0.042,0.708,0.25
+1065,1065,SwiftAttic,"        315 Congress Ave Ste 200 Austin, TX 78701    ",8_29_2018,0.055,0.716,0.22899999999999998
+1066,1066,SwiftAttic,"        315 Congress Ave Ste 200 Austin, TX 78701    ",2_24_2019,0.027999999999999997,0.679,0.293
+1067,1067,SwiftAttic,"        315 Congress Ave Ste 200 Austin, TX 78701    ",10_28_2018,0.036000000000000004,0.696,0.268
+1068,1068,SwiftAttic,"        315 Congress Ave Ste 200 Austin, TX 78701    ",7_25_2018,0.032,0.71,0.258
+1069,1069,SwiftAttic,"        315 Congress Ave Ste 200 Austin, TX 78701    ",7_12_2019,0.04,0.6609999999999999,0.299
+1070,1070,TheBeerPlant,"        3110 Windsor Rd Austin, TX 78703    ",10_10_2016,0.055999999999999994,0.732,0.212
+1071,1071,TheBeerPlant,"        3110 Windsor Rd Austin, TX 78703    ",1_20_2017,0.048,0.69,0.261
+1072,1072,TheBeerPlant,"        3110 Windsor Rd Austin, TX 78703    ",8_10_2018,0.05,0.695,0.255
+1073,1073,TheBeerPlant,"        3110 Windsor Rd Austin, TX 78703    ",4_7_2019,0.039,0.708,0.253
+1074,1074,TheBeerPlant,"        3110 Windsor Rd Austin, TX 78703    ",6_10_2019,0.053,0.7390000000000001,0.20800000000000002
+1075,1075,RamenTatsuYa,"        1600 E 6th St Austin, TX 78702    ",8_25_2018,0.031,0.667,0.302
+1076,1076,RamenTatsuYa,"        1600 E 6th St Austin, TX 78702    ",2_17_2019,0.07400000000000001,0.7659999999999999,0.16
+1077,1077,RamenTatsuYa,"        1600 E 6th St Austin, TX 78702    ",10_10_2018,0.064,0.672,0.264
+1078,1078,RamenTatsuYa,"        1600 E 6th St Austin, TX 78702    ",4_8_2019,0.044000000000000004,0.728,0.22699999999999998
+1079,1079,SwiftAttic,"        315 Congress Ave Ste 200 Austin, TX 78701    ",7_29_2019,0.034,0.713,0.252
+1080,1080,RamenTatsuYa,"        1600 E 6th St Austin, TX 78702    ",8_2_2018,0.038,0.716,0.24600000000000002
+1081,1081,RamenTatsuYa,"        1600 E 6th St Austin, TX 78702    ",2_9_2019,0.04,0.7390000000000001,0.221
+1082,1082,LebowskiGrill,"        8909 Burnet Rd Austin, TX 78757    ",2_3_2017,0.049,0.725,0.226
+1083,1083,TheBeerPlant,"        3110 Windsor Rd Austin, TX 78703    ",7_1_2019,0.033,0.713,0.254
+1084,1084,LebowskiGrill,"        8909 Burnet Rd Austin, TX 78757    ",5_26_2016,0.024,0.728,0.248
+1085,1085,LebowskiGrill,"        8909 Burnet Rd Austin, TX 78757    ",8_13_2015,0.024,0.688,0.28800000000000003
+1086,1086,LebowskiGrill,"        8909 Burnet Rd Austin, TX 78757    ",7_22_2018,0.028999999999999998,0.7090000000000001,0.262
+1087,1087,LebowskiGrill,"        8909 Burnet Rd Austin, TX 78757    ",11_17_2016,0.025,0.738,0.23600000000000002
+1088,1088,LebowskiGrill,"        8909 Burnet Rd Austin, TX 78757    ",8_4_2018,0.038,0.716,0.24600000000000002
+1089,1089,LebowskiGrill,"        8909 Burnet Rd Austin, TX 78757    ",5_31_2019,0.040999999999999995,0.7120000000000001,0.248
+1090,1090,HomeSlicePizza,"        501 E 53rd St Austin, TX 78751    ",10_9_2018,0.039,0.73,0.231
+1091,1091,HomeSlicePizza,"        501 E 53rd St Austin, TX 78751    ",7_26_2018,0.036000000000000004,0.7340000000000001,0.231
+1092,1092,RamenTatsuYa,"        1600 E 6th St Austin, TX 78702    ",7_22_2019,0.05,0.738,0.212
+1093,1093,HomeSlicePizza,"        501 E 53rd St Austin, TX 78751    ",10_13_2018,0.036000000000000004,0.703,0.261
+1094,1094,HomeSlicePizza,"        501 E 53rd St Austin, TX 78751    ",5_6_2019,0.045,0.6859999999999999,0.26899999999999996
+1095,1095,HomeSlicePizza,"        501 E 53rd St Austin, TX 78751    ",2_11_2019,0.018000000000000002,0.703,0.27899999999999997
+1096,1096,HomeSlicePizza,"        501 E 53rd St Austin, TX 78751    ",1_31_2019,0.042,0.675,0.28300000000000003
+1097,1097,HomeSlicePizza,"        501 E 53rd St Austin, TX 78751    ",4_28_2019,0.037000000000000005,0.6920000000000001,0.271
+1098,1098,HomeSlicePizza,"        501 E 53rd St Austin, TX 78751    ",3_23_2019,0.033,0.67,0.298
+1099,1099,DragonbeardKitchen,"        8201 Cross Park Dr Ste B1 Austin, TX 78754    ",1_17_2018,0.027999999999999997,0.706,0.266
+1100,1100,DragonbeardKitchen,"        8201 Cross Park Dr Ste B1 Austin, TX 78754    ",6_4_2017,0.017,0.6859999999999999,0.297
+1101,1101,LebowskiGrill,"        8909 Burnet Rd Austin, TX 78757    ",7_18_2019,0.039,0.73,0.23199999999999998
+1102,1102,DragonbeardKitchen,"        8201 Cross Park Dr Ste B1 Austin, TX 78754    ",4_21_2018,0.023,0.69,0.287
+1103,1103,DragonbeardKitchen,"        8201 Cross Park Dr Ste B1 Austin, TX 78754    ",1_27_2017,0.027999999999999997,0.6970000000000001,0.275
+1104,1104,DragonbeardKitchen,"        8201 Cross Park Dr Ste B1 Austin, TX 78754    ",7_12_2017,0.03,0.711,0.259
+1105,1105,DragonbeardKitchen,"        8201 Cross Park Dr Ste B1 Austin, TX 78754    ",1_17_2017,0.038,0.7020000000000001,0.26
+1106,1106,DragonbeardKitchen,"        8201 Cross Park Dr Ste B1 Austin, TX 78754    ",4_24_2019,0.044000000000000004,0.685,0.271
+1107,1107,DragonbeardKitchen,"        8201 Cross Park Dr Ste B1 Austin, TX 78754    ",5_6_2018,0.034,0.726,0.24
+1108,1108,BarlataTapasBar,"        1500 S Lamar Blvd Ste 150 Austin, TX 78704    ",5_18_2017,0.040999999999999995,0.732,0.228
+1109,1109,BarlataTapasBar,"        1500 S Lamar Blvd Ste 150 Austin, TX 78704    ",11_12_2017,0.035,0.726,0.239
+1110,1110,HomeSlicePizza,"        501 E 53rd St Austin, TX 78751    ",6_27_2019,0.040999999999999995,0.7020000000000001,0.257
+1111,1111,BarlataTapasBar,"        1500 S Lamar Blvd Ste 150 Austin, TX 78704    ",4_2_2016,0.057999999999999996,0.769,0.17300000000000001
+1112,1112,BarlataTapasBar,"        1500 S Lamar Blvd Ste 150 Austin, TX 78704    ",7_1_2016,0.043,0.733,0.22399999999999998
+1113,1113,BarlataTapasBar,"        1500 S Lamar Blvd Ste 150 Austin, TX 78704    ",8_23_2018,0.035,0.693,0.272
+1114,1114,EastSideKing,"        2310 S Lamar Blvd Austin, TX 78704    ",5_28_2017,0.064,0.685,0.25
+1115,1115,EastSideKing,"        2310 S Lamar Blvd Austin, TX 78704    ",1_14_2016,0.04,0.7340000000000001,0.226
+1116,1116,DragonbeardKitchen,"        8201 Cross Park Dr Ste B1 Austin, TX 78754    ",3_5_2019,0.06,0.71,0.23
+1117,1117,EastSideKing,"        2310 S Lamar Blvd Austin, TX 78704    ",10_25_2016,0.048,0.736,0.21600000000000003
+1118,1118,EastSideKing,"        2310 S Lamar Blvd Austin, TX 78704    ",8_15_2015,0.047,0.723,0.22899999999999998
+1119,1119,EastSideKing,"        2310 S Lamar Blvd Austin, TX 78704    ",1_1_2017,0.040999999999999995,0.731,0.228
+1120,1120,EastSideKing,"        2310 S Lamar Blvd Austin, TX 78704    ",3_23_2017,0.055,0.7190000000000001,0.226
+1121,1121,EastSideKing,"        2310 S Lamar Blvd Austin, TX 78704    ",3_4_2019,0.05,0.708,0.242
+1122,1122,Hopfields,"        3110 Guadalupe St Ste 400 Austin, TX 78705    ",9_4_2017,0.051,0.723,0.226
+1123,1123,Hopfields,"        3110 Guadalupe St Ste 400 Austin, TX 78705    ",10_27_2014,0.042,0.6920000000000001,0.267
+1124,1124,Hopfields,"        3110 Guadalupe St Ste 400 Austin, TX 78705    ",6_25_2013,0.055,0.721,0.22399999999999998
+1125,1125,BarlataTapasBar,"        1500 S Lamar Blvd Ste 150 Austin, TX 78704    ",7_10_2019,0.055999999999999994,0.727,0.217
+1126,1126,Hopfields,"        3110 Guadalupe St Ste 400 Austin, TX 78705    ",1_16_2015,0.07200000000000001,0.711,0.217
+1127,1127,Hopfields,"        3110 Guadalupe St Ste 400 Austin, TX 78705    ",8_20_2017,0.048,0.737,0.215
+1128,1128,Hopfields,"        3110 Guadalupe St Ste 400 Austin, TX 78705    ",6_4_2017,0.03,0.71,0.26
+1129,1129,Hopfields,"        3110 Guadalupe St Ste 400 Austin, TX 78705    ",3_19_2018,0.046,0.7390000000000001,0.215
+1130,1130,EastSideKing,"        2310 S Lamar Blvd Austin, TX 78704    ",5_1_2019,0.055999999999999994,0.768,0.175
+1131,1131,HalalBros,"        2712 Guadalupe St Austin, TX 78705    ",3_18_2017,0.044000000000000004,0.746,0.21
+1132,1132,HalalBros,"        2712 Guadalupe St Austin, TX 78705    ",7_29_2016,0.045,0.741,0.213
+1133,1133,HalalBros,"        2712 Guadalupe St Austin, TX 78705    ",7_3_2018,0.057,0.76,0.183
+1134,1134,HalalBros,"        2712 Guadalupe St Austin, TX 78705    ",11_16_2017,0.047,0.716,0.237
+1135,1135,HalalBros,"        2712 Guadalupe St Austin, TX 78705    ",5_30_2019,0.05,0.765,0.184
+1136,1136,HalalBros,"        2712 Guadalupe St Austin, TX 78705    ",5_20_2019,0.046,0.733,0.221
+1137,1137,BeMorePacific,"        7858 Shoal Creek Blvd Austin, TX 78757    ",5_28_2018,0.033,0.718,0.249
+1138,1138,BeMorePacific,"        7858 Shoal Creek Blvd Austin, TX 78757    ",2_15_2018,0.013000000000000001,0.687,0.3
+1139,1139,BeMorePacific,"        7858 Shoal Creek Blvd Austin, TX 78757    ",10_19_2018,0.03,0.725,0.245
+1140,1140,BeMorePacific,"        7858 Shoal Creek Blvd Austin, TX 78757    ",6_20_2018,0.047,0.75,0.203
+1141,1141,BeMorePacific,"        7858 Shoal Creek Blvd Austin, TX 78757    ",5_18_2019,0.036000000000000004,0.7120000000000001,0.251
+1142,1142,BeMorePacific,"        7858 Shoal Creek Blvd Austin, TX 78757    ",6_30_2019,0.031,0.755,0.213
+1143,1143,BeMorePacific,"        7858 Shoal Creek Blvd Austin, TX 78757    ",5_24_2019,0.023,0.7240000000000001,0.253
+1144,1144,TLCAustin,"        1100 S Lamar Blvd Ste 1150 Austin, TX 78704    ",2_26_2018,0.065,0.722,0.213
+1145,1145,TLCAustin,"        1100 S Lamar Blvd Ste 1150 Austin, TX 78704    ",3_4_2018,0.027999999999999997,0.722,0.25
+1146,1146,HalalBros,"        2712 Guadalupe St Austin, TX 78705    ",7_8_2019,0.051,0.7140000000000001,0.235
+1147,1147,TLCAustin,"        1100 S Lamar Blvd Ste 1150 Austin, TX 78704    ",4_12_2018,0.07,0.6709999999999999,0.259
+1148,1148,TLCAustin,"        1100 S Lamar Blvd Ste 1150 Austin, TX 78704    ",3_16_2019,0.031,0.6729999999999999,0.29600000000000004
+1149,1149,TLCAustin,"        1100 S Lamar Blvd Ste 1150 Austin, TX 78704    ",7_1_2019,0.032,0.6729999999999999,0.295
+1150,1150,TLCAustin,"        1100 S Lamar Blvd Ste 1150 Austin, TX 78704    ",7_3_2018,0.038,0.6559999999999999,0.307
+1151,1151,Chiantro,"        1509 S Lamar Blvd Austin, TX 78704    ",6_3_2016,0.048,0.716,0.23600000000000002
+1152,1152,Chiantro,"        1509 S Lamar Blvd Austin, TX 78704    ",10_2_2017,0.044000000000000004,0.75,0.20600000000000002
+1153,1153,Chiantro,"        1509 S Lamar Blvd Austin, TX 78704    ",9_2_2016,0.032,0.72,0.248
+1154,1154,Chiantro,"        1509 S Lamar Blvd Austin, TX 78704    ",11_4_2016,0.03,0.705,0.265
+1155,1155,Chiantro,"        1509 S Lamar Blvd Austin, TX 78704    ",3_17_2019,0.059000000000000004,0.732,0.209
+1156,1156,Chiantro,"        1509 S Lamar Blvd Austin, TX 78704    ",7_21_2018,0.025,0.711,0.264
+1157,1157,Chiantro,"        1509 S Lamar Blvd Austin, TX 78704    ",2_3_2018,0.036000000000000004,0.726,0.239
+1158,1158,Troy,"        8105 Mesa Dr Ste A Austin, TX 78759    ",2_20_2018,0.04,0.698,0.262
+1159,1159,Troy,"        8105 Mesa Dr Ste A Austin, TX 78759    ",4_24_2015,0.04,0.6890000000000001,0.271
+1160,1160,Troy,"        8105 Mesa Dr Ste A Austin, TX 78759    ",4_12_2017,0.038,0.7490000000000001,0.214
+1161,1161,Troy,"        8105 Mesa Dr Ste A Austin, TX 78759    ",11_15_2016,0.061,0.71,0.22899999999999998
+1162,1162,Troy,"        8105 Mesa Dr Ste A Austin, TX 78759    ",3_10_2015,0.038,0.746,0.21600000000000003
+1163,1163,Troy,"        8105 Mesa Dr Ste A Austin, TX 78759    ",4_26_2017,0.031,0.693,0.27699999999999997
+1164,1164,Troy,"        8105 Mesa Dr Ste A Austin, TX 78759    ",7_28_2018,0.04,0.687,0.273
+1165,1165,Troy,"        8105 Mesa Dr Ste A Austin, TX 78759    ",1_23_2019,0.035,0.718,0.24600000000000002
+1166,1166,KismetCafe,"        1000 E 41st St Ste 200 Austin, TX 78751    ",1_31_2018,0.022000000000000002,0.633,0.345
+1167,1167,Chiantro,"        1509 S Lamar Blvd Austin, TX 78704    ",6_30_2019,0.039,0.722,0.24
+1168,1168,KismetCafe,"        1000 E 41st St Ste 200 Austin, TX 78751    ",4_16_2017,0.055,0.727,0.218
+1169,1169,KismetCafe,"        1000 E 41st St Ste 200 Austin, TX 78751    ",2_26_2018,0.063,0.72,0.217
+1170,1170,KismetCafe,"        1000 E 41st St Ste 200 Austin, TX 78751    ",10_16_2018,0.05,0.7290000000000001,0.221
+1171,1171,KismetCafe,"        1000 E 41st St Ste 200 Austin, TX 78751    ",4_23_2019,0.071,0.716,0.213
+1172,1172,KismetCafe,"        1000 E 41st St Ste 200 Austin, TX 78751    ",6_7_2019,0.039,0.7509999999999999,0.21
+1173,1173,CrepeCrazy,"        3103 S Lamar Blvd Austin, TX 78704    ",8_2_2017,0.054000000000000006,0.655,0.29100000000000004
+1174,1174,CrepeCrazy,"        3103 S Lamar Blvd Austin, TX 78704    ",5_27_2018,0.04,0.7170000000000001,0.242
+1175,1175,Troy,"        8105 Mesa Dr Ste A Austin, TX 78759    ",5_28_2019,0.026000000000000002,0.7,0.275
+1176,1176,CrepeCrazy,"        3103 S Lamar Blvd Austin, TX 78704    ",2_22_2019,0.036000000000000004,0.695,0.26899999999999996
+1177,1177,CrepeCrazy,"        3103 S Lamar Blvd Austin, TX 78704    ",2_18_2019,0.037000000000000005,0.6859999999999999,0.278
+1178,1178,CrepeCrazy,"        3103 S Lamar Blvd Austin, TX 78704    ",8_2_2018,0.021,0.6579999999999999,0.321
+1179,1179,CrepeCrazy,"        3103 S Lamar Blvd Austin, TX 78704    ",8_6_2018,0.04,0.638,0.322
+1180,1180,CrepeCrazy,"        3103 S Lamar Blvd Austin, TX 78704    ",5_17_2017,0.024,0.644,0.331
+1181,1181,KismetCafe,"        1000 E 41st St Ste 200 Austin, TX 78751    ",7_6_2019,0.043,0.705,0.252
+1182,1182,Tumble,"        7211 Burnet Rd Austin, TX 78701    ",7_13_2017,0.071,0.733,0.196
+1183,1183,Tumble,"        7211 Burnet Rd Austin, TX 78701    ",5_6_2018,0.059000000000000004,0.691,0.25
+1184,1184,Tumble,"        7211 Burnet Rd Austin, TX 78701    ",7_28_2017,0.07200000000000001,0.743,0.18600000000000003
+1185,1185,Tumble,"        7211 Burnet Rd Austin, TX 78701    ",5_31_2017,0.055999999999999994,0.71,0.23399999999999999
+1186,1186,Tumble,"        7211 Burnet Rd Austin, TX 78701    ",5_28_2017,0.051,0.742,0.207
+1187,1187,Tumble,"        7211 Burnet Rd Austin, TX 78701    ",4_22_2019,0.045,0.73,0.225
+1188,1188,Tumble,"        7211 Burnet Rd Austin, TX 78701    ",8_23_2018,0.032,0.7070000000000001,0.261
+1189,1189,Tumble,"        7211 Burnet Rd Austin, TX 78701    ",7_30_2019,0.062,0.746,0.192
+1190,1190,TanMyRestaurant,"        1601 Ohlen Rd Austin, TX 78758    ",5_15_2016,0.031,0.775,0.195
+1191,1191,TanMyRestaurant,"        1601 Ohlen Rd Austin, TX 78758    ",8_1_2017,0.051,0.7190000000000001,0.23
+1192,1192,TanMyRestaurant,"        1601 Ohlen Rd Austin, TX 78758    ",8_31_2017,0.045,0.732,0.222
+1193,1193,TanMyRestaurant,"        1601 Ohlen Rd Austin, TX 78758    ",7_10_2018,0.043,0.7709999999999999,0.18600000000000003
+1194,1194,TanMyRestaurant,"        1601 Ohlen Rd Austin, TX 78758    ",2_13_2018,0.067,0.732,0.201
+1195,1195,TanMyRestaurant,"        1601 Ohlen Rd Austin, TX 78758    ",5_3_2019,0.035,0.69,0.275
+1196,1196,TanMyRestaurant,"        1601 Ohlen Rd Austin, TX 78758    ",9_28_2018,0.031,0.701,0.26899999999999996
+1197,1197,Tumble,"        7211 Burnet Rd Austin, TX 78701    ",7_25_2019,0.043,0.75,0.207
+1198,1198,DegreesKitchen,"        2401 Lake Austin Blvd Austin, TX 78703    ",8_8_2017,0.036000000000000004,0.6679999999999999,0.297
+1199,1199,DegreesKitchen,"        2401 Lake Austin Blvd Austin, TX 78703    ",9_8_2017,0.039,0.7440000000000001,0.218
+1200,1200,DegreesKitchen,"        2401 Lake Austin Blvd Austin, TX 78703    ",2_11_2019,0.027999999999999997,0.738,0.23399999999999999
+1201,1201,DegreesKitchen,"        2401 Lake Austin Blvd Austin, TX 78703    ",9_3_2017,0.06,0.752,0.187
+1202,1202,CounterCulture,"        2337 E Cesar Chavez St Austin, TX 78702    ",10_24_2017,0.039,0.6990000000000001,0.262
+1203,1203,CounterCulture,"        2337 E Cesar Chavez St Austin, TX 78702    ",10_2_2017,0.067,0.608,0.325
+1204,1204,CounterCulture,"        2337 E Cesar Chavez St Austin, TX 78702    ",6_24_2017,0.079,0.6659999999999999,0.255
+1205,1205,TanMyRestaurant,"        1601 Ohlen Rd Austin, TX 78758    ",4_13_2019,0.028999999999999998,0.76,0.21100000000000002
+1206,1206,CounterCulture,"        2337 E Cesar Chavez St Austin, TX 78702    ",2_11_2017,0.057999999999999996,0.6890000000000001,0.253
+1207,1207,CounterCulture,"        2337 E Cesar Chavez St Austin, TX 78702    ",3_11_2019,0.034,0.6920000000000001,0.27399999999999997
+1208,1208,CounterCulture,"        2337 E Cesar Chavez St Austin, TX 78702    ",6_29_2018,0.040999999999999995,0.693,0.266
+1209,1209,CounterCulture,"        2337 E Cesar Chavez St Austin, TX 78702    ",11_28_2018,0.064,0.721,0.215
+1210,1210,CounterCulture,"        2337 E Cesar Chavez St Austin, TX 78702    ",5_2_2019,0.035,0.6970000000000001,0.26899999999999996
+1211,1211,Botticelli,"        1321 S Congress Ave Austin, TX 78704    ",10_1_2012,0.031,0.69,0.278
+1212,1212,Botticelli,"        1321 S Congress Ave Austin, TX 78704    ",6_1_2017,0.027999999999999997,0.677,0.295
+1213,1213,DegreesKitchen,"        2401 Lake Austin Blvd Austin, TX 78703    ",7_14_2019,0.045,0.73,0.22399999999999998
+1214,1214,Botticelli,"        1321 S Congress Ave Austin, TX 78704    ",12_30_2016,0.067,0.693,0.24
+1215,1215,Botticelli,"        1321 S Congress Ave Austin, TX 78704    ",2_3_2018,0.019,0.687,0.294
+1216,1216,Botticelli,"        1321 S Congress Ave Austin, TX 78704    ",1_5_2019,0.039,0.7090000000000001,0.252
+1217,1217,Botticelli,"        1321 S Congress Ave Austin, TX 78704    ",11_10_2018,0.043,0.69,0.266
+1218,1218,Botticelli,"        1321 S Congress Ave Austin, TX 78704    ",4_9_2019,0.021,0.6890000000000001,0.29100000000000004
+1219,1219,Botticelli,"        1321 S Congress Ave Austin, TX 78704    ",5_14_2019,0.038,0.755,0.207
+1220,1220,RoaringFork,"        10850 Stonelake Blvd Austin, TX 78759    ",4_21_2018,0.044000000000000004,0.713,0.243
+1221,1221,RoaringFork,"        10850 Stonelake Blvd Austin, TX 78759    ",12_27_2015,0.053,0.713,0.23399999999999999
+1222,1222,CounterCulture,"        2337 E Cesar Chavez St Austin, TX 78702    ",6_13_2019,0.04,0.7,0.26
+1223,1223,RoaringFork,"        10850 Stonelake Blvd Austin, TX 78759    ",9_19_2018,0.052000000000000005,0.7120000000000001,0.235
+1224,1224,RoaringFork,"        10850 Stonelake Blvd Austin, TX 78759    ",5_28_2019,0.05,0.705,0.245
+1225,1225,RoaringFork,"        10850 Stonelake Blvd Austin, TX 78759    ",7_2_2017,0.037000000000000005,0.6890000000000001,0.273
+1226,1226,RoaringFork,"        10850 Stonelake Blvd Austin, TX 78759    ",5_23_2019,0.028999999999999998,0.7090000000000001,0.263
+1227,1227,RoaringFork,"        10850 Stonelake Blvd Austin, TX 78759    ",5_11_2019,0.027000000000000003,0.705,0.268
+1228,1228,TChickenJoint,"        7211 Burnet Rd Austin, TX 78757    ",8_5_2018,0.061,0.73,0.209
+1229,1229,TChickenJoint,"        7211 Burnet Rd Austin, TX 78757    ",4_15_2019,0.059000000000000004,0.7340000000000001,0.207
+1230,1230,TChickenJoint,"        7211 Burnet Rd Austin, TX 78757    ",8_20_2018,0.034,0.7190000000000001,0.247
+1231,1231,TChickenJoint,"        7211 Burnet Rd Austin, TX 78757    ",6_14_2019,0.069,0.716,0.21600000000000003
+1232,1232,TChickenJoint,"        7211 Burnet Rd Austin, TX 78757    ",7_15_2019,0.038,0.7340000000000001,0.22699999999999998
+1233,1233,TChickenJoint,"        7211 Burnet Rd Austin, TX 78757    ",2_10_2019,0.044000000000000004,0.73,0.226
+1234,1234,MezzeMe,"        4700 W Guadalupe St The Triangle Austin, TX 78751    ",1_14_2018,0.04,0.642,0.318
+1235,1235,MezzeMe,"        4700 W Guadalupe St The Triangle Austin, TX 78751    ",10_1_2017,0.05,0.6990000000000001,0.251
+1236,1236,RoaringFork,"        10850 Stonelake Blvd Austin, TX 78759    ",5_24_2019,0.051,0.703,0.24600000000000002
+1237,1237,MezzeMe,"        4700 W Guadalupe St The Triangle Austin, TX 78751    ",11_1_2017,0.065,0.6729999999999999,0.263
+1238,1238,MezzeMe,"        4700 W Guadalupe St The Triangle Austin, TX 78751    ",10_27_2018,0.035,0.7170000000000001,0.248
+1239,1239,MezzeMe,"        4700 W Guadalupe St The Triangle Austin, TX 78751    ",11_24_2018,0.043,0.637,0.32
+1240,1240,MezzeMe,"        4700 W Guadalupe St The Triangle Austin, TX 78751    ",10_7_2018,0.046,0.6759999999999999,0.278
+1241,1241,MezzeMe,"        4700 W Guadalupe St The Triangle Austin, TX 78751    ",1_23_2019,0.043,0.645,0.312
+1242,1242,MezzeMe,"        4700 W Guadalupe St The Triangle Austin, TX 78751    ",8_30_2018,0.032,0.665,0.303
+1243,1243,TheHightower,"        1209 E 7th St Austin, TX 78702    ",11_16_2014,0.035,0.715,0.25
+1244,1244,TheHightower,"        1209 E 7th St Austin, TX 78702    ",4_27_2016,0.066,0.7020000000000001,0.233
+1245,1245,TheHightower,"        1209 E 7th St Austin, TX 78702    ",10_27_2015,0.031,0.718,0.251
+1246,1246,TChickenJoint,"        7211 Burnet Rd Austin, TX 78757    ",7_13_2019,0.044000000000000004,0.716,0.24
+1247,1247,TheHightower,"        1209 E 7th St Austin, TX 78702    ",1_13_2016,0.061,0.7240000000000001,0.215
+1248,1248,TheHightower,"        1209 E 7th St Austin, TX 78702    ",7_16_2016,0.037000000000000005,0.706,0.258
+1249,1249,TheHightower,"        1209 E 7th St Austin, TX 78702    ",3_5_2019,0.039,0.6829999999999999,0.278
+1250,1250,CulinaryDropout,"        11721 Rock Rose Ste 100 Austin, TX 78758    ",6_21_2019,0.037000000000000005,0.696,0.267
+1251,1251,CulinaryDropout,"        11721 Rock Rose Ste 100 Austin, TX 78758    ",1_12_2019,0.036000000000000004,0.667,0.297
+1252,1252,CulinaryDropout,"        11721 Rock Rose Ste 100 Austin, TX 78758    ",11_9_2018,0.05,0.657,0.293
+1253,1253,TheHightower,"        1209 E 7th St Austin, TX 78702    ",5_29_2019,0.065,0.695,0.24
+1254,1254,CulinaryDropout,"        11721 Rock Rose Ste 100 Austin, TX 78758    ",2_28_2019,0.025,0.6970000000000001,0.278
+1255,1255,CulinaryDropout,"        11721 Rock Rose Ste 100 Austin, TX 78758    ",6_16_2019,0.034,0.711,0.255
+1256,1256,CulinaryDropout,"        11721 Rock Rose Ste 100 Austin, TX 78758    ",1_6_2019,0.025,0.716,0.259
+1257,1257,CulinaryDropout,"        11721 Rock Rose Ste 100 Austin, TX 78758    ",3_17_2019,0.038,0.72,0.242
+1258,1258,CulinaryDropout,"        11721 Rock Rose Ste 100 Austin, TX 78758    ",5_15_2019,0.044000000000000004,0.7190000000000001,0.237
+1259,1259,CulinaryDropout,"        11721 Rock Rose Ste 100 Austin, TX 78758    ",7_28_2019,0.033,0.718,0.249
+1260,1260,HomeSlicePizza,"        1415 S Congress St Austin, TX 78704    ",6_27_2018,0.066,0.76,0.174
+1261,1261,HomeSlicePizza,"        1415 S Congress St Austin, TX 78704    ",1_29_2018,0.045,0.688,0.267
+1262,1262,HomeSlicePizza,"        1415 S Congress St Austin, TX 78704    ",4_5_2019,0.047,0.758,0.195
+1263,1263,HomeSlicePizza,"        1415 S Congress St Austin, TX 78704    ",5_29_2019,0.023,0.748,0.228
+1264,1264,HomeSlicePizza,"        1415 S Congress St Austin, TX 78704    ",7_15_2019,0.066,0.7070000000000001,0.22699999999999998
+1265,1265,HomeSlicePizza,"        1415 S Congress St Austin, TX 78704    ",6_14_2019,0.036000000000000004,0.732,0.233
+1266,1266,BirdBirdBiscuit,"        2701 Manor Rd Austin, TX 78722    ",6_1_2019,0.032,0.69,0.278
+1267,1267,BirdBirdBiscuit,"        2701 Manor Rd Austin, TX 78722    ",11_2_2018,0.05,0.6829999999999999,0.267
+1268,1268,BirdBirdBiscuit,"        2701 Manor Rd Austin, TX 78722    ",6_5_2019,0.033,0.695,0.272
+1269,1269,BirdBirdBiscuit,"        2701 Manor Rd Austin, TX 78722    ",7_12_2018,0.036000000000000004,0.6679999999999999,0.29600000000000004
+1270,1270,BirdBirdBiscuit,"        2701 Manor Rd Austin, TX 78722    ",6_13_2019,0.027000000000000003,0.74,0.233
+1271,1271,BirdBirdBiscuit,"        2701 Manor Rd Austin, TX 78722    ",2_2_2019,0.036000000000000004,0.7240000000000001,0.24100000000000002
+1272,1272,BirdBirdBiscuit,"        2701 Manor Rd Austin, TX 78722    ",3_26_2019,0.047,0.725,0.228
+1273,1273,EasyTiger,"        709 E 6th St Austin, TX 78701    ",11_2_2018,0.054000000000000006,0.68,0.266
+1274,1274,EasyTiger,"        709 E 6th St Austin, TX 78701    ",9_10_2018,0.03,0.679,0.29
+1275,1275,EasyTiger,"        709 E 6th St Austin, TX 78701    ",2_14_2018,0.025,0.726,0.25
+1276,1276,EasyTiger,"        709 E 6th St Austin, TX 78701    ",10_26_2018,0.027999999999999997,0.706,0.266
+1277,1277,EasyTiger,"        709 E 6th St Austin, TX 78701    ",1_15_2019,0.036000000000000004,0.687,0.27699999999999997
+1278,1278,EasyTiger,"        709 E 6th St Austin, TX 78701    ",3_4_2019,0.049,0.711,0.239
+1279,1279,EasyTiger,"        709 E 6th St Austin, TX 78701    ",6_17_2019,0.032,0.7120000000000001,0.256
+1280,1280,EasyTiger,"        709 E 6th St Austin, TX 78701    ",12_20_2018,0.049,0.723,0.228
+1281,1281,EasyTiger,"        709 E 6th St Austin, TX 78701    ",6_22_2019,0.049,0.7020000000000001,0.249
+1282,1282,JewboyBurgers,"        5000 Burnet Austin, TX 78756    ",11_28_2016,0.027000000000000003,0.648,0.325
+1283,1283,JewboyBurgers,"        5000 Burnet Austin, TX 78756    ",3_18_2017,0.042,0.706,0.252
+1284,1284,JewboyBurgers,"        5000 Burnet Austin, TX 78756    ",11_6_2018,0.017,0.6679999999999999,0.315
+1285,1285,JewboyBurgers,"        5000 Burnet Austin, TX 78756    ",12_3_2017,0.01,0.716,0.275
+1286,1286,JewboyBurgers,"        5000 Burnet Austin, TX 78756    ",10_27_2018,0.033,0.731,0.235
+1287,1287,JewboyBurgers,"        5000 Burnet Austin, TX 78756    ",7_20_2018,0.023,0.7040000000000001,0.273
+1288,1288,JewboyBurgers,"        5000 Burnet Austin, TX 78756    ",3_29_2018,0.025,0.6579999999999999,0.318
+1289,1289,JewboyBurgers,"        5000 Burnet Austin, TX 78756    ",7_23_2018,0.034,0.73,0.23600000000000002
+1290,1290,JewboyBurgers,"        5000 Burnet Austin, TX 78756    ",1_10_2019,0.032,0.7020000000000001,0.267
+1291,1291,PhoPlease,"        1920 East Riverside Dr Ste D140 Austin, TX 78741    ",1_25_2019,0.023,0.6729999999999999,0.305
+1292,1292,PhoPlease,"        1920 East Riverside Dr Ste D140 Austin, TX 78741    ",10_28_2017,0.03,0.698,0.272
+1293,1293,EasyTiger,"        709 E 6th St Austin, TX 78701    ",7_2_2019,0.040999999999999995,0.754,0.205
+1294,1294,PhoPlease,"        1920 East Riverside Dr Ste D140 Austin, TX 78741    ",2_16_2019,0.031,0.7040000000000001,0.265
+1295,1295,PhoPlease,"        1920 East Riverside Dr Ste D140 Austin, TX 78741    ",8_10_2018,0.022000000000000002,0.737,0.24
+1296,1296,PhoPlease,"        1920 East Riverside Dr Ste D140 Austin, TX 78741    ",6_2_2019,0.043,0.6859999999999999,0.271
+1297,1297,PhoPlease,"        1920 East Riverside Dr Ste D140 Austin, TX 78741    ",11_7_2018,0.032,0.7020000000000001,0.267
+1298,1298,OddDuck,"        1201 S Lamar Blvd Austin, TX 78704    ",5_1_2019,0.05,0.679,0.271
+1299,1299,OddDuck,"        1201 S Lamar Blvd Austin, TX 78704    ",5_20_2018,0.049,0.737,0.213
+1300,1300,OddDuck,"        1201 S Lamar Blvd Austin, TX 78704    ",12_28_2017,0.042,0.7070000000000001,0.251
+1301,1301,JewboyBurgers,"        5000 Burnet Austin, TX 78756    ",7_26_2019,0.019,0.711,0.27
+1302,1302,OddDuck,"        1201 S Lamar Blvd Austin, TX 78704    ",3_5_2019,0.048,0.691,0.26
+1303,1303,OddDuck,"        1201 S Lamar Blvd Austin, TX 78704    ",10_27_2018,0.04,0.6859999999999999,0.27399999999999997
+1304,1304,OddDuck,"        1201 S Lamar Blvd Austin, TX 78704    ",6_28_2018,0.042,0.698,0.26
+1305,1305,OddDuck,"        1201 S Lamar Blvd Austin, TX 78704    ",5_26_2019,0.028999999999999998,0.6970000000000001,0.275
+1306,1306,OddDuck,"        1201 S Lamar Blvd Austin, TX 78704    ",6_12_2019,0.038,0.667,0.295
+1307,1307,PhoPlease,"        1920 East Riverside Dr Ste D140 Austin, TX 78741    ",6_4_2019,0.027000000000000003,0.737,0.237
+1309,1309,OddDuck,"        1201 S Lamar Blvd Austin, TX 78704    ",7_28_2019,0.031,0.706,0.263
+1310,1310,RamenTatsuYa,"        1234 S Lamar Blvd Austin, TX 78704    ",2_5_2019,0.044000000000000004,0.75,0.20600000000000002
+1311,1311,RamenTatsuYa,"        1234 S Lamar Blvd Austin, TX 78704    ",6_11_2018,0.044000000000000004,0.74,0.21600000000000003
+1313,1313,RamenTatsuYa,"        1234 S Lamar Blvd Austin, TX 78704    ",5_28_2019,0.048,0.7290000000000001,0.222
+1314,1314,RamenTatsuYa,"        1234 S Lamar Blvd Austin, TX 78704    ",12_11_2018,0.055,0.728,0.21600000000000003
+1315,1315,RamenTatsuYa,"        1234 S Lamar Blvd Austin, TX 78704    ",6_5_2019,0.047,0.703,0.25
+1316,1316,RamenTatsuYa,"        1234 S Lamar Blvd Austin, TX 78704    ",7_21_2019,0.069,0.723,0.20800000000000002
+1317,1317,FabiRosi,"        509 Hearn St Austin, TX 78703    ",1_4_2014,0.032,0.6759999999999999,0.29100000000000004
+1318,1318,FabiRosi,"        509 Hearn St Austin, TX 78703    ",7_24_2016,0.032,0.715,0.253
+1319,1319,FabiRosi,"        509 Hearn St Austin, TX 78703    ",2_22_2014,0.037000000000000005,0.693,0.271
+1320,1320,FabiRosi,"        509 Hearn St Austin, TX 78703    ",4_19_2017,0.049,0.705,0.24600000000000002
+1321,1321,FabiRosi,"        509 Hearn St Austin, TX 78703    ",11_16_2016,0.040999999999999995,0.67,0.289
+1322,1322,FabiRosi,"        509 Hearn St Austin, TX 78703    ",10_22_2014,0.024,0.693,0.28300000000000003
+1323,1323,FabiRosi,"        509 Hearn St Austin, TX 78703    ",8_4_2018,0.024,0.6970000000000001,0.27899999999999997
+1324,1324,FabiRosi,"        509 Hearn St Austin, TX 78703    ",6_1_2019,0.028999999999999998,0.7120000000000001,0.259
+1325,1325,HeoEatery,"        6214 N Lamar Blvd Austin, TX 78752    ",11_13_2016,0.031,0.6990000000000001,0.27
+1326,1326,HeoEatery,"        6214 N Lamar Blvd Austin, TX 78752    ",4_26_2018,0.024,0.708,0.26899999999999996
+1327,1327,HeoEatery,"        6214 N Lamar Blvd Austin, TX 78752    ",3_26_2018,0.042,0.68,0.27699999999999997
+1328,1328,HeoEatery,"        6214 N Lamar Blvd Austin, TX 78752    ",12_26_2016,0.03,0.711,0.259
+1329,1329,FabiRosi,"        509 Hearn St Austin, TX 78703    ",7_16_2019,0.034,0.7070000000000001,0.259
+1330,1330,HeoEatery,"        6214 N Lamar Blvd Austin, TX 78752    ",3_2_2019,0.04,0.745,0.215
+1331,1331,HeoEatery,"        6214 N Lamar Blvd Austin, TX 78752    ",5_14_2018,0.046,0.718,0.23600000000000002
+1332,1332,HeoEatery,"        6214 N Lamar Blvd Austin, TX 78752    ",5_30_2017,0.03,0.74,0.23
+1333,1333,HeoEatery,"        6214 N Lamar Blvd Austin, TX 78752    ",12_30_2018,0.052000000000000005,0.716,0.231
+1334,1334,HeoEatery,"        6214 N Lamar Blvd Austin, TX 78752    ",6_19_2018,0.043,0.7290000000000001,0.22699999999999998
+1335,1335,TrueFoodKitchen,"        222 W Ave Ste HR100 Austin, TX 78701    ",1_13_2019,0.055,0.691,0.255
+1336,1336,TrueFoodKitchen,"        222 W Ave Ste HR100 Austin, TX 78701    ",2_21_2019,0.027999999999999997,0.669,0.302
+1337,1337,TrueFoodKitchen,"        222 W Ave Ste HR100 Austin, TX 78701    ",3_26_2017,0.023,0.6459999999999999,0.33
+1338,1338,HeoEatery,"        6214 N Lamar Blvd Austin, TX 78752    ",7_7_2019,0.021,0.716,0.263
+1339,1339,TrueFoodKitchen,"        222 W Ave Ste HR100 Austin, TX 78701    ",3_2_2019,0.05,0.684,0.266
+1340,1340,TrueFoodKitchen,"        222 W Ave Ste HR100 Austin, TX 78701    ",11_24_2018,0.05,0.718,0.23199999999999998
+1341,1341,TrueFoodKitchen,"        222 W Ave Ste HR100 Austin, TX 78701    ",12_9_2018,0.019,0.6920000000000001,0.289
+1342,1342,TrueFoodKitchen,"        222 W Ave Ste HR100 Austin, TX 78701    ",7_26_2019,0.055999999999999994,0.6970000000000001,0.247
+1343,1343,Patrizi,"        2307 Manor Rd Austin, TX 78722    ",9_6_2018,0.034,0.706,0.26
+1344,1344,Patrizi,"        2307 Manor Rd Austin, TX 78722    ",12_19_2018,0.040999999999999995,0.728,0.231
+1345,1345,Patrizi,"        2307 Manor Rd Austin, TX 78722    ",8_3_2018,0.039,0.701,0.26
+1346,1346,TrueFoodKitchen,"        222 W Ave Ste HR100 Austin, TX 78701    ",6_30_2019,0.036000000000000004,0.6409999999999999,0.32299999999999995
+1347,1347,Patrizi,"        2307 Manor Rd Austin, TX 78722    ",2_17_2018,0.035,0.755,0.21
+1348,1348,Patrizi,"        2307 Manor Rd Austin, TX 78722    ",5_2_2018,0.016,0.701,0.282
+1349,1349,Patrizi,"        2307 Manor Rd Austin, TX 78722    ",5_9_2019,0.026000000000000002,0.6809999999999999,0.294
+1350,1350,Patrizi,"        2307 Manor Rd Austin, TX 78722    ",1_20_2019,0.028999999999999998,0.6970000000000001,0.27399999999999997
+1351,1351,Patrizi,"        2307 Manor Rd Austin, TX 78722    ",6_28_2019,0.046,0.7070000000000001,0.247
+1352,1352,Patrizi,"        2307 Manor Rd Austin, TX 78722    ",7_2_2019,0.026000000000000002,0.736,0.23800000000000002
+1353,1353,CypressGrill,"        4404 W William Cannon Dr Ste L Austin, TX 78749    ",10_6_2017,0.024,0.695,0.281
+1354,1354,CypressGrill,"        4404 W William Cannon Dr Ste L Austin, TX 78749    ",6_16_2018,0.040999999999999995,0.726,0.233
+1355,1355,CypressGrill,"        4404 W William Cannon Dr Ste L Austin, TX 78749    ",8_2_2018,0.037000000000000005,0.6779999999999999,0.285
+1356,1356,CypressGrill,"        4404 W William Cannon Dr Ste L Austin, TX 78749    ",3_24_2018,0.038,0.736,0.226
+1357,1357,CypressGrill,"        4404 W William Cannon Dr Ste L Austin, TX 78749    ",4_5_2017,0.042,0.735,0.22399999999999998
+1358,1358,CypressGrill,"        4404 W William Cannon Dr Ste L Austin, TX 78749    ",6_10_2018,0.099,0.688,0.214
+1359,1359,CypressGrill,"        4404 W William Cannon Dr Ste L Austin, TX 78749    ",4_1_2019,0.038,0.696,0.266
+1360,1360,RoaringFork,"        701 Congress Ave Austin, TX 78701    ",5_3_2018,0.031,0.6809999999999999,0.28800000000000003
+1361,1361,RoaringFork,"        701 Congress Ave Austin, TX 78701    ",12_19_2017,0.043,0.6659999999999999,0.29100000000000004
+1362,1362,RoaringFork,"        701 Congress Ave Austin, TX 78701    ",12_9_2018,0.047,0.6679999999999999,0.285
+1363,1363,RoaringFork,"        701 Congress Ave Austin, TX 78701    ",10_27_2017,0.052000000000000005,0.736,0.212
+1364,1364,RoaringFork,"        701 Congress Ave Austin, TX 78701    ",10_20_2018,0.04,0.6629999999999999,0.297
+1365,1365,RoaringFork,"        701 Congress Ave Austin, TX 78701    ",2_13_2018,0.033,0.703,0.264
+1366,1366,RoaringFork,"        701 Congress Ave Austin, TX 78701    ",3_9_2019,0.039,0.72,0.24100000000000002
+1367,1367,Koriente,"        621 E 7th St Austin, TX 78701    ",1_3_2017,0.035,0.691,0.273
+1368,1368,Koriente,"        621 E 7th St Austin, TX 78701    ",6_25_2019,0.044000000000000004,0.7140000000000001,0.242
+1369,1369,CypressGrill,"        4404 W William Cannon Dr Ste L Austin, TX 78749    ",6_16_2019,0.096,0.693,0.21100000000000002
+1370,1370,Koriente,"        621 E 7th St Austin, TX 78701    ",8_4_2018,0.027000000000000003,0.684,0.29
+1371,1371,Koriente,"        621 E 7th St Austin, TX 78701    ",1_19_2019,0.021,0.713,0.266
+1372,1372,Koriente,"        621 E 7th St Austin, TX 78701    ",6_26_2019,0.023,0.6759999999999999,0.301
+1373,1373,Koriente,"        621 E 7th St Austin, TX 78701    ",7_6_2019,0.03,0.732,0.239
+1374,1374,ClayPit,"        1601 Guadalupe St Austin, TX 78701    ",3_9_2018,0.026000000000000002,0.737,0.23600000000000002
+1375,1375,ClayPit,"        1601 Guadalupe St Austin, TX 78701    ",10_18_2018,0.053,0.727,0.22
+1376,1376,ClayPit,"        1601 Guadalupe St Austin, TX 78701    ",1_29_2019,0.03,0.765,0.205
+1377,1377,RoaringFork,"        701 Congress Ave Austin, TX 78701    ",7_29_2019,0.03,0.677,0.292
+1378,1378,ClayPit,"        1601 Guadalupe St Austin, TX 78701    ",6_24_2018,0.037000000000000005,0.763,0.201
+1379,1379,ClayPit,"        1601 Guadalupe St Austin, TX 78701    ",6_9_2019,0.05,0.721,0.22899999999999998
+1380,1380,ClayPit,"        1601 Guadalupe St Austin, TX 78701    ",11_11_2018,0.046,0.7509999999999999,0.203
+1381,1381,ClayPit,"        1601 Guadalupe St Austin, TX 78701    ",3_7_2019,0.052000000000000005,0.715,0.233
+1382,1382,Koriente,"        621 E 7th St Austin, TX 78701    ",7_21_2019,0.026000000000000002,0.711,0.262
+1383,1383,ClayPit,"        1601 Guadalupe St Austin, TX 78701    ",5_31_2019,0.043,0.747,0.21100000000000002
+1384,1384,FranklinBarbecue,"        900 E 11th St Austin, TX 78702    ",7_3_2019,0.046,0.746,0.20800000000000002
+1385,1385,FranklinBarbecue,"        900 E 11th St Austin, TX 78702    ",7_9_2018,0.025,0.75,0.225
+1386,1386,FranklinBarbecue,"        900 E 11th St Austin, TX 78702    ",7_8_2018,0.044000000000000004,0.745,0.21100000000000002
+1387,1387,FranklinBarbecue,"        900 E 11th St Austin, TX 78702    ",7_18_2019,0.036000000000000004,0.736,0.228
+1388,1388,FranklinBarbecue,"        900 E 11th St Austin, TX 78702    ",7_21_2019,0.031,0.741,0.22699999999999998
+1389,1389,FranklinBarbecue,"        900 E 11th St Austin, TX 78702    ",1_26_2019,0.05,0.7829999999999999,0.16699999999999998
+1390,1390,FranklinBarbecue,"        900 E 11th St Austin, TX 78702    ",5_13_2019,0.033,0.7809999999999999,0.18600000000000003
+1391,1391,FranklinBarbecue,"        900 E 11th St Austin, TX 78702    ",7_13_2019,0.047,0.7759999999999999,0.177
+1392,1392,FranklinBarbecue,"        900 E 11th St Austin, TX 78702    ",7_27_2019,0.040999999999999995,0.772,0.187
+1393,1393,SaltySow,"        1917 Manor Rd Austin, TX 78722    ",9_8_2018,0.04,0.68,0.28
+1394,1394,SaltySow,"        1917 Manor Rd Austin, TX 78722    ",1_12_2019,0.034,0.66,0.306
+1395,1395,SaltySow,"        1917 Manor Rd Austin, TX 78722    ",4_20_2019,0.061,0.6809999999999999,0.258
+1396,1396,SaltySow,"        1917 Manor Rd Austin, TX 78722    ",1_5_2019,0.042,0.728,0.23
+1397,1397,SaltySow,"        1917 Manor Rd Austin, TX 78722    ",6_4_2019,0.031,0.71,0.259
+1398,1398,SaltySow,"        1917 Manor Rd Austin, TX 78722    ",7_11_2019,0.039,0.701,0.261
+1399,1399,SaltySow,"        1917 Manor Rd Austin, TX 78722    ",7_27_2019,0.037000000000000005,0.72,0.243

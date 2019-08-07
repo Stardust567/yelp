@@ -4,32 +4,22 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from wordcloud import WordCloud
 import os
 
-def cloud(text, title, label=1):
-    if(label==1):
-        wordcloud = WordCloud(width=1000, height=500, background_color='white', max_words=1000,
+def cloud(text, title):
+
+    wordcloud = WordCloud(width=1000, height=500, background_color='white', max_words=1000,
                               colormap='plasma').generate(text)
-        plt.imshow(wordcloud)
-        plt.axis("off")
-        plt.title(title)
-        name = title.split('@')[0]
-        filename = "wordcloud/" + name + '/'+ title + ".jpg"
-        dirname = os.path.dirname(filename)
-        if not os.path.exists(dirname):
-            os.makedirs(dirname)
-        plt.savefig(filename)
-    else:
-        wordcloud = WordCloud(width=1000, height=500, max_words=1000).generate(text)
-        plt.imshow(wordcloud)
-        plt.title(title)
-        name = title.split('@')[0]
-        filename = "wordcloud/" + name + '/' + title + ".jpg"
-        dirname = os.path.dirname(filename)
-        if not os.path.exists(dirname):
-            os.makedirs(dirname)
-        plt.savefig(filename)
+    plt.imshow(wordcloud)
+    plt.axis("off")
+    plt.title(title)
+    name = title.split('@')[0]
+    filename = "wordcloud/" + name + '/'+ title + ".jpg"
+    dirname = os.path.dirname(filename)
+    if not os.path.exists(dirname):
+        os.makedirs(dirname)
+    plt.savefig(filename)
+    print(filename)
 
-
-df = pd.read_csv('processed.csv', engine='python')
+df = pd.read_csv('data/processed.csv', engine='python')
 name = df['name']
 date = df['date']
 review = df['review']
@@ -44,10 +34,7 @@ for i in range(len(review)):
     neg_list.append(ss['neg'])
     neu_list.append(ss['neu'])
     pos_list.append(ss['pos'])
-    if(ss['neg']<ss['pos']):
-        cloud(text, name[i]+'@'+date[i]+"@positive", label=1)
-    else:
-        cloud(text, name[i]+'@'+date[i]+"@negative", label=2)
+    cloud(text, name[i]+'@'+date[i])
 
 
 data = {'name': df['name'],
@@ -58,4 +45,4 @@ data = {'name': df['name'],
         'pos':pd.Series(pos_list),
         }
 dataMat = pd.DataFrame(data)
-dataMat.to_csv('dataMat.csv')
+dataMat.to_csv('data/dataMat.csv')

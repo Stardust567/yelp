@@ -12,6 +12,10 @@ def dataProcess(send_url, recv_url):
     df['name'] = df['name'].fillna('hhh')
     list = df[(df.name == 'hhh')].index.tolist()
     df = df.drop(list)
+    for name in df['name']:
+        if (((df[df['name'] == name]).count()).values[0] < 5):
+            list = df[(df.name == name)].index.tolist()
+            df = df.drop(list)
 
     df['address'] = df['address'].fillna('hhh')
     list = df[(df.address == 'hhh')].index.tolist()
@@ -30,7 +34,8 @@ def dataProcess(send_url, recv_url):
     df['date'] = df['date'].str.replace(" ", "")
     df['address'] = df['address'].str.replace("\n", "")
     df['review'] = df['review'].str.replace("[^a-zA-Z#]", " ")
+    df['name'] = df['name'].str.replace("[^a-zA-Z#]", "")
     print(df.info())
     df.to_csv(recv_url)
 
-dataProcess('test.csv', 'processed.csv')
+dataProcess('test.csv', 'data/processed.csv')

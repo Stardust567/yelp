@@ -6,7 +6,7 @@ from matplotlib import cm
 from matplotlib.ticker import LinearLocator, FormatStrFormatter
 from matplotlib import animation
 
-df = pd.read_csv('dataMap.csv', engine='python')
+df = pd.read_csv('data/dataMap.csv', engine='python')
 fig = plt.figure()
 ax = fig.gca(projection='3d')
 x = df['latitude']

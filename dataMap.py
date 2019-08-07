@@ -3,7 +3,7 @@ from geopy.geocoders import Nominatim
 
 # 生成最新的地图经纬度数据
 
-df = pd.read_csv('dataMat.csv', engine='python')
+df = pd.read_csv('data/dataMat.csv', engine='python')
 df.drop_duplicates('address', keep='first', inplace=True)
 address = df['address'].str.split(',', 1).str[0]
 latitude = []
@@ -43,4 +43,4 @@ dataMap['name'] = dataMap['name'].fillna('hhh')
 list = dataMap[(dataMap.name == 'hhh')].index.tolist()
 dataMap = dataMap.drop(list)
 '''
-dataMap.to_csv('dataMap.csv')
+dataMap.to_csv('data/dataMap.csv')

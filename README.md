@@ -1,41 +1,5 @@
 # yelp
 
-`tree`
-
-.
-├── MapPlot.py
-├── README.md
-├── data
-│   ├── dataMap.csv
-│   ├── dataMat.csv
-│   ├── display.py
-│   └── processed.csv
-├── dataMap.py
-├── dataPlot.py
-├── dataProcessing.py
-├── linePicture
-│   ├── ATXCocina.png
-│   ├── AboYoussef.png
-│   ├── Anthem.png
-│   ├── ...
-├── requirements.txt
-├── rotate_azimuth_angle_3d_surf.mp4
-├── scrapy.cfg
-├── streetMap.py
-├── test.csv
-├── yelp
-│   ├── __init__.py
-│   ├── __pycache__
-│   ├── items.py
-│   ├── middlewares.py
-│   ├── pipelines.py
-│   ├── settings.py
-│   └── spiders
-├── yelpAustin.html
-└── yelpNLP.py
-
-5 directories, 180 files
-
 ## Crawler
 
 This is the **Web Crawler** part used Scrapy to scrape yelp review about stores & shops in Austin from https://www.yelp.com/ .

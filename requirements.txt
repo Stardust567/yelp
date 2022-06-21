@@ -3,7 +3,7 @@ nltk==3.3
 osmapi==1.2.2
 Scrapy==1.6.0
 pandas==0.23.4
-numpy==1.17.0
+numpy==1.22.0
 geopy==1.20.0
 fake_useragent==0.1.11
 matplotlib==3.0.0
